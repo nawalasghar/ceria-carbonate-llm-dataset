@@ -1,0 +1,690 @@
+Citation: Sarfraz et al. 2024, IJMMM 31:2253
+DOI: 10.1007/s12613-024-2910-z
+Source text: full text
+
+Al3+ doped CeO2 for proton conducting fuel cells
+Sarfraz, Shahzad Rasool, Muhammad Khalid, M.A.K. Yousaf Shah, Bin Zhu, Jung-Sik Kim, Muhammad Imran Asghar, Nabeela Akbar, and
+Wenjing Dong
+Cite this article as:
+Sarfraz, Shahzad Rasool, Muhammad Khalid, M.A.K. Yousaf Shah, Bin Zhu, Jung-Sik Kim, Muhammad Imran Asghar, Nabeela
+Akbar, and Wenjing Dong, Al3+ doped CeO2 for proton conducting fuel cells, Int. J. Miner. Metall. Mater., 31(2024), No. 10, pp.
+2253-2262. https://doi.org/10.1007/s12613-024-2910-z
+View the article online at SpringerLink or IJMMM Webpage.
+Articles you may be interested in
+Guo-qing Li, Pu-kang Wen, Chen-qiang Gao, Tian-yi Zhang, Jun-yang Hu, Yu-hao Zhang, Shi-you Guan, Qing-feng Li, and
+Bing Li, Effects of CeO2 pre-calcined at different temperatures on the performance of Pt/CeO2–C electrocatalyst for methanol
+oxidation reaction, Int. J. Miner. Metall. Mater., 28(2021), No. 7, pp. 1224-1232. https://doi.org/10.1007/s12613-020-2076-2
+Rui-qi Yang, Na Liang, Xuan-yu Chen, Long-wei Wang, Guo-xin Song, Yan-chen Ji, Na Ren, Ya-wei Lü, Jian Zhang, and Xin
+Yu, Sn/Sn3O4−x heterostructure rich in oxygen vacancies with enhanced visible light photocatalytic oxidation performance, Int. J.
+Miner. Metall. Mater., 28(2021), No. 1, pp. 150-159. https://doi.org/10.1007/s12613-020-2131-z
+Hong-ling Zhou, Ke-qin Feng, Chang-hong Chen, and Zi-di Yan, Influence of CeO2 addition on the preparation of foamed glassceramics  from  high-titanium  blast  furnace  slag,  Int.  J.  Miner.  Metall.  Mater.,  25(2018),  No.  6,  pp.  689-695.
+https://doi.org/10.1007/s12613-018-1616-5
+Ze-yun Cai, Bo Song, Long-fei Li, Zhen Liu, and Xiao-kang Cui, Effect of CeO2 on heat transfer and crystallization behavior of
+rare earth alloy steel mold fluxes, Int. J. Miner. Metall. Mater., 26(2019), No. 5, pp. 565-572. https://doi.org/10.1007/s12613-019-
+1765-1
+Kuzhipadath Jithesh and Moganraj Arivarasu, Comparative studies on the hot corrosion behavior of air plasma spray and high
+velocity oxygen fuel coated Co-based L605 superalloys in a gas turbine environment, Int. J. Miner. Metall. Mater., 27(2020), No.
+5, pp. 649-659. https://doi.org/10.1007/s12613-019-1943-1
+F. Ghadami, A. Sabour Rouh Aghdam, and S. Ghadami, Characterization of MCrAlY/nano-Al2O3 nanocomposite powder
+produced by high-energy mechanical milling as feedstock for high-velocity oxygen fuel spraying deposition, Int. J. Miner. Metall.
+Mater., 28(2021), No. 9, pp. 1534-1543. https://doi.org/10.1007/s12613-020-2113-1
+
+  IJMMM WeChat QQ author group
+Al3+ doped CeO2 for proton conducting fuel cells
+Sarfraz1), Shahzad Rasool1), Muhammad Khalid1), M.A.K. Yousaf Shah1), Bin Zhu1),  ✉, Jung-Sik Kim3),
+Muhammad Imran Asghar4), Nabeela Akbar1),  ✉, and Wenjing Dong2),  ✉
+1) Jiangsu Provincial Key Laboratory of Solar Energy Science and Technology/Energy Storage joint Research Center, School of Energy and Environment, Southeast University, Nanjing 210096, China
+2) School of Microelectronics, Hubei University, Wuhan 430062, China
+3) Sino-French Engineer School/School of General Engineering, Beihang University, Beijing 100191, China
+4) Renewable Energy Technologies Group, Faculty of Engineering and Natural Sciences, Tampere University, FI-33014, Finland
+(Received: 13 December 2023; revised: 4 April 2024; accepted: 15 April 2024)
+Abstract: Developing high ionic conducting electrolytes is crucial for applying proton-conducting fuel cell (PCFCs) practically. The current study investigates the effect of alumina on the structural, morphological, electrical, and electrochemical properties of CeO2. Lattice
+oxygen  vacancies  are  induced  in  CeO2 by  a  general  doping  concept  that  enables  fast  ionic  conduction  at  low-temperature  ranges
+(300–500°C) for PCFCs. Rietveld refinement of the X-ray diffraction (XRD) patterns established the pure cubic fluorite structure of Aldoped CeO2 (ADC) samples and confirmed Al ions’ fruitful integration in the CeO2 lattice. The electronic structure of the alumina-doped
+ceria  of  the  materials  (10ADC,  20ADC,  and  30ADC)  has  been  investigated.  As  a  result,  it  was  found  that  the  best  composition  of
+30ADC-based electrolytes induced maximum lattice oxygen vacancies. The corresponding PCFC exhibited a maximum power output of
+923 mW/cm2 at 500°C. Moreover, the investigation proves the proton-conducting ability of alumina-doped ceria-based fuel cells by using
+an oxide ion-blocking layer.
+Keywords: proton ceramic fuel cells; oxygen vacancies; higher fuel cell performance; doping; fast ions transportation
+
+1. Introduction
+Proton-conducting  fuel  cells  (PCFCs)  offer  a  promising
+solution  for  efficient  and  environmentally  friendly  energy
+conversion, specifically at low operating range, i.e., around
+550°C.  High  proton  conducting  electrolytes  with  thermally
+and electrochemically compatible electrodes are in great need
+for realizing highly efficient PCFCs. Barium cerite and barium zirconate based on perovskite oxides are commonly used
+as proton-conducting ceramics. However, their protonic conductivities  and  overall  performances  are  still  behind  when
+compared with conventional high-temperature fuel cells, e.g.,
+using yttria-stabilized zirconia (YSZ) [1–4]. In the aspect of
+ionic  conductivity,  interpretation  of  semiconductor  electrochemistry is required in order to develop semiconductor ionic  materials  with  advanced  high  proton  conductivities  that
+can replace those perovskite proton electrolytes in low-temperature operating PCFCs [5–7]. Recently, it has been reported that proton conduction character and resulting conductivity can be tuned in via surface engineering by accomplishing
+a  core–shell  structure  and  through  surface  doping  in  some
+oxide ceramic materials, e.g., CeO2, that lead to a noticeably
+high proton conductivity of ~0.1 S/cm at 550°C [8–11]. Additionally,  high-performance  operation  with  optimum  ionic
+conductivity and long-term stability at low operating temperature (450–550°C) has been realized by the use of semiconductor-based  materials  such  as  gallium  doped  ceria  (GDC)
+and  other  single-layer  electrolytes  [12–13].  In  particular,  a
+GDC  nanocrystalline  electrolyte  with  high  ionic  conductivity of 0.37 S/cm and excellent fuel cell performance of 591
+mW/cm2 at 550°C has been found by Chen et al. [14]. Shah
+et al. [15] investigated GDC electrolyte shows a power density  of  569  mW/cm2 with  a  maximum  ionic  conductivity  of
+0.1 S/cm even at 450°C. The Li-based metal oxide layered
+structure Ni0.8Co0.15Al0.05LiO2−δ (NCAL) has been widely utilized  as  electrode  materials  in  semiconductor-based  fuel  because of its superior redox reaction rate and excellent catalytic activity at low operating temperatures (300–600°C) [16].
+Additionally, a variety of doped ceria-based semiconductors
+and  ionic  conducting  electrolytes  (single-phase)  have  been
+established for their excellent power density and stability at
+low  (450–550°C)  and  intermediate  (500–650°C)  temperatures [17–20].
+The electrolyte materials play a crucial role in facilitating
+proton  transport  within  a  cell,  and  cerium  dioxide  (CeO2),
+known as ceria, has become an emerged material for such in-
+
+✉ Corresponding authors: Bin Zhu      E-mail: zhu-bin@seu.edu.cn;        Nabeela Akbar      E-mail: nabeela4426@gmail.com;
+Wenjing Dong      E-mail: wenjingd@hubu.edu.cn
+© University of Science and Technology Beijing 2024
+
+INTERNATIONAL JOURNAL OF
+Minerals, Metallurgy and Materials
+Volume 31, Number 10, October 2024
+Page 2253
+Research Article https://doi.org/10.1007/s12613-024-2910-z
+vestigations as a potential proton conductor due to its ability
+to modulate oxygen vacancies and introduce proton conduction at elevated temperatures (300–500°C) for PCFCs. Aluminum oxide (Al2O3), also known as alumina, is used in various applications such as photocatalysts, sensors, electronics,
+optical,  magnetic,  coating,  and  as  a  catalyst  due  to  its  high
+surface  area,  thermally  stable,  and  high  mechanical  resistance [21–24]. Alumina is emerging as a tremendous potential  and  novel  material  to  create  surface  defects  to  tune  the
+inherent  oxygen  vacancies,  which  boost  the  ionic  conductivity [25].
+Here, we present a new approach to tune inherent oxygen
+vacancies into proton carriers and develop proton conduction
+for  high-performance  Al–CeO2-based  PCFCs.  Specifically,
+we explore the incorporation of low-valency cations, particularly Al3+, into CeO2 to promote oxygen vacancy concentration  and,  importantly,  establish  surface  and  bulk  doping
+gradients  to  create  local  concentration  gradience  for  enhanced proton transport.
+2. Experimental
+2.1. Synthesis of alumina doped ceria (ADC) powder
+All the chemicals used in this investigation were commercially  available,  analytical-grade  products  from  Sinopharm
+Chemical Reagent Co., Ltd. in China. They were utilized precisely as received, requiring no further purification steps. The
+proton  conducting  electrolyte  materials  AlxCe1−xO2 (where
+x =  0.1,  0.2,  and  0.3)  as  alumina  doped  ceria  (ADC)  were
+prepared via a direct sintering method. Calculated amounts of
+cerium  nitrate  and  aluminum  nitrate  with  varying  contents
+were  dissolved  in  20  mL  of  deionized  water.  The  solution
+was dried in a digital oven at 120°C for 24 h. The dried material was ground well to make it a fine powder. Afterwards,
+the powder was calcinated in a muffle furnace at 1000°C for
+4 h to acquire the final product, denoted as ADC. Three types
+of  ADC  with  various  amounts  of  alumina  (10mol%,
+20mol%, and 30mol%) and ceria were denoted as 10ADC,
+20ADC, and 30ADC.
+Commercially  available  nickel  cobalt  aluminum  lithium
+oxides  (Ni0.8Co0.15Al0.05LiO2−δ,  NCAL),  purchased  from
+Tianjin Bamo Sci. & Tech. Joint Stock Ltd., China, has been
+used as the symmetrical electrodes, catalyst, and current collectors. The NCAL–Ni electrodes were made using a terpinol  solvent  and  commercial  NCAL  powders.  The  NCAL
+powder was mixed with the necessary amount of terpinol to
+attain the viscous paste of NCAL electrodes. However, Nifoam  in  the  form  of  a  button  was  also  cut  simultaneously,
+having  0.64  cm2 of  the  active  area.  A  thick  slurry  was  applied to the Ni-foam and allowed to dry for 20 min at 120°C
+to make the NCAL–Ni electrodes.
+2.2. Fuel cell configuration and evaluation
+The prepared ADC-based electrolyte materials were compressed and placed between two symmetric NCAL–Ni electrodes. Inserted NCAL Ni-foams serve as symmetrical electrodes, while ADC is an electrolyte. Later, the electrodes and
+electrolytes (where the electrolyte was sandwiched between
+the  symmetrical  electrodes)  were  placed  in  a  die  and  compressed  at  250  MPa  for  2  min  to  produce  a  button-shaped
+pellet with an active area of 0.64 cm2 and a diameter of 13
+mm. The electrolyte in the cell was approximately 0.65 mm
+thick, whereas the produced pellet had a thickness of 1.5 mm.
+Two hours before the fuel cell performance test, the prepared
+cell  with  the  following  configuration  (NCAL–Ni/ADC/
+Ni–NCAL) was sintered at 550°C. Afterwards, the cell was
+inserted into the apparatus to begin electrochemical impedance spectroscopy (EIS) and fuel cell performance measurements. Pure hydrogen was provided as fuel on the anode side
+and air as an oxidant on the cathode side at rates of 90–120
+mL/min and 160–200 mL/min, correspondingly. A programmable  electronic  load  (IT8511A)  was  used  to  measure
+voltage and current and plot the characteristic curves for current–voltage (I–V) and current–power (I–P) to study the fuel
+cell  performances.  The  electrochemical  workstation  Energy
+Lab XM was utilized to determine the EIS in an H2/air atmosphere at various operating temperatures ranging from 380 to
+500°C.  For  this  measurement,  the  applied  frequency  range
+was 0.1 Hz–1 MHz with an amplitude of 10 mV.
+2.2.1. Hydrogen  concentration  cell  and  oxygen  concentration cell
+The 30ADC material was pressed into a circular disc with
+a diameter of 13 mm by using a hydraulic press under pressure of 450 MPa. To prepare the fuel cell devices, silver paste
+was pasted on both sides of the disc and allow it to dry. The
+cell devices that use 30ADC as electrolytes are preheated for
+2 h at 550°C. Next, the temperature was dropped to 420°C.
+Then,  the  anode  and  cathode  of  the  cell  were  treated  with
+99.999% pure H2 and 5% H2/Ar. Heating at intervals of 20°C
+was used to measure open circuit voltage (OCV) to 560°C.
+The  atmosphere  on  both  sides  of  the  oxygen  concentration
+cell was then replaced with air and 2% O2/Ar to determine the
+oxygen concentration.
+2.2.2. Characterization techniques
+Several  characterization  techniques  are  used  to  evaluate
+the effect of Al3+ doping in CeO2. X-ray diffraction (XRD) is
+employed  to  analyze  doping-induced  structural  changes,
+providing insights into the altered crystal structure and phase
+composition. Further, the Rietveld refinement profile of XRD
+patterns  is  performed  for  phase  purification  utilizing  the
+FULLPROF  program.  Moreover,  high-resolution  transmission electron microscopy (HR-TEM) and scanning electron
+microscopy (SEM) offer comprehensive details regarding the
+distribution,  size,  and  shape  of  the  doped  CeO2 particles
+throughout the samples. Raman spectroscopy elucidates the
+lattice distortions induced by Al3+ substitution by investigating the vibrational modes of the doped material. X-ray photoelectron spectroscopy (XPS, Thermo Scientific K-Alpha) assessed the surface properties of powdered 10ADC, 20ADC,
+and 30ADC. To describe the proton conduction behavior in
+the  samples,  EIS  is  utilized.  An  analysis  technique  called
+DRT converts impedance data as a function of frequency in-
+2254 Int. J. Miner. Metall. Mater. , Vol. 31, No. 10, Oct. 2024
+to a distribution of the system’s time constants. By applying
+the  distribution  of  relaxation  time  (DRT)  approach  to  EIS
+analysis, it is possible to obtain a high-resolution identification of the polarization processes. As a result, the DRT curve
+makes it possible to distinguish between the polarization processes that overlap in the EIS curve.
+In order to achieve the attractive cell’s performance, it is
+crucial to determine the optimal concentration of Al3+ doping
+in  CeO2.  The  realistic  effect  of  different  doping  levels
+(10mol%,  20mol%,  and  30mol%)  on  the  oxygen  vacancy
+concentration and proton conductivity was examined. Simultaneously, surface and bulk doping techniques need to be developed and optimized to establish the desired concentration
+gradients. It is essential to strike a balance between oxygen
+vacancy  formation,  structural  integrity,  and  surface  properties to determine the optimum Al3+ doping concentration.
+3. Results and discussion
+3.1. Structural and phase analysis
+Fm ¯3m
+The room temperature XRD pattern and Rietveld refinement patterns of prepared ADC electrolyte powder with different contents via direct sintering route are shown in Fig. 1.
+The XRD patterns shown in Fig. 1(a) for the ADC samples
+sintered at 1000°C for 4 h confirm the cubic fluorite structure (JCPDS no. 43-1002) with space group . It can be
+signified that all the characteristic peaks belong to the cubic
+phase of pure ceria, with no secondary phase identified in the
+XRD  pattern;  it  is  advised  successful  doping  of  alumina  in
+ceria  [26–29].  Reduction  in  the  most  intense  peak  (111)  is
+due to the Al3+ substitutions at Ce4+ sites, leading to the significant lattice expansion [30]. Because the ionic radius of aluminum is smaller than that of cerium, when aluminum ions
+replace cerium ions in the ceria lattice, the smaller size of aluminum ions can cause distortion in the local lattice. As a result of aluminum incorporation, there is an elevation in lattice
+parameters. The rise in lattice parameters, attributed to aluminum  doping,  leads  to  a  displacement  of  XRD  peaks  toward lower diffraction angles. This shift occurs due to the increased interplanar spacing resulting from the expanded lattice.  From  Rietveld  refinement  patterns,  as  shown  in
+Fig. 1(b)–(d), the investigation demonstrates that Al doping
+in CeO2 has no effect on the cubic fluorite structure of CeO2,
+further  supporting  the  idea  that  Al-doped  CeO2 lattice  only
+forms a single cubic phase. Moreover, the unit cell volume,
+lattice  parameter,  and  consistency  factors  like  reliability
+factor  (R-factor),  profile R-factor  (Rp),  weighted  profile Rfactor  (Rwp),  expected R-factor  (Rexp),  and  Bragg R-factor
+(RBragg) are the best-fitted values as listed in Table 1. Most of
+the alumina take the interstitial lattice sites of the ceria lattice
+or  stay  at  the  grain  boundaries  to  stabilize  the  structure.
+However, doped alumina leads to change in the lattice parameter and unit cell volume of the host material because of the
+smaller  radius  of  Al3+ ions  (0.57  Å)  than  that  of  Ce4+ ions
+(0.92 Å). The variation in lattice parameter can certainly induce defects such as oxygen vacancies on the lattice sites.
+
+2θ / (°) 2θ / (°)
+2θ / (°) 2θ / (°)
+Intensity / a.u.Intensity / a.u.
+Intensity / a.u.Intensity / a.u.
+(111)
+(200)
+(220)
+(311)
+(222)
+(400)
+(331)
+(420)
+(422)
+(c) (d)
+30 40 50 60 70 80 90 20 30 40 50 60 70 80 90
+20 30 40 50 60 70 80 90 20 30 40 50 60 70 80 90
+Bragg position Bragg position
+Bragg position
+10ADC Yobs
+Ycal
+Yobs−Ycal
+20ADC Yobs
+Ycal
+Yobs−Ycal
+30ADC Yobs
+Ycal
+Yobs−Ycal
+
+Fig. 1.    Microstructural analysis: (a) XRD pattern of Al–CeO2 with different contents; (b–d) Rietveld refined patterns of 10ADC,
+20ADC, and 30ADC, respectively. Yobs and Ycal are the observed data and calculated data, respectively.
+Sarfraz et al., Al3+ doped CeO2 for proton conducting fuel cells 2255
+3.2. Morphological analysis
+SEM  and  HR-TEM  are  conducted  to  inspect  the  microstructure  and  morphology  of  Al–CeO2 as  represented  in
+Fig.  2.  Two  SEM  images  (Fig.  2(a)  and  (b))  and  two  HR-
+TEM images (Fig. 2(g) and (h)) at varying resolution illustrate  its  small  and  uniform  distribution  of  nano-level  particles.  Many  acquaintances  developed  between  these  grains
+or particles. Also, these results demonstrate that Al considerably  expands  the  lattice  planes  of  the  crystalline  phase  of
+ceria, correlating the lattice parameter difference seen above
+in XRD and proving the incorporation of alumina in the ceria
+lattice.  Additionally,  the  10  nm  HR-TEM  image  shows  the
+development of a surface layer with increased oxygen vacancies,  which  facilitates  charge  transmission.  The  HR-TEM
+picture  was  enlarged  using  the  ImageJ  software  to  clearly
+show the plane (220) with an interplanar d-spacing of 0.21
+nm, as shown in Fig. 2(h). However, the presence of alumina
+is  visible  and  measured  in  element  mapping  images  of
+Fig. 2(c)–(f). Even though certain regions are more Al–rich
+than ceria, the Al and CeO2 mappings show a somewhat homogeneous mixing of the two elements. As a result, Al incorporation into the CeO2 lattice is confirmed by the diffraction
+and  microscopy  results  of  Al–CeO2 nanoparticles.  The  obtained nanostructure benefits from the synergistic effects of
+the  characteristics  of  the  30Al–CeO2 particles,  which  benefits the constructed device’s electrochemical properties. The
+formation  of  nanoparticles  of  ADC  manifests  the  increased
+surface area, which enables and creates more active sites and
+improves the performance of the structured fuel cell device.
+3.3. Raman spectra and XPS analysis
+Raman spectroscopy is a scientific technique used to determine  molecules’ vibrational  and  rotational  modes.
+Fig.  3(a)  shows  Raman  spectra  of  ADC  with  different  Aldopant  contents.  The  high-intensity  peak  at  462  cm−1 is  attributed to F2g mode of CeO2 [31–33]. Phonon confinement,
+stress, and enlargement associated with size defects, distribution, and variations in phonon relaxation with particle size are
+some reasons that cause the Raman peak position of 462 cm−1
+peak to fluctuate due to doping [34]. The Al-doping may induce local structural changes or distortions in the ceria lattice.
+These structural modifications could affect the Raman scattering  behavior  of  the  material.  Depending  on  the  dopant
+
+Table 1.    Lattice parameters, average crystallite size, and Rietveld refinement results profile of Al-doped CeO2 with different compositions
+Composition Lattice parameter / Å Average crystallite size / nm Unit cell volume / Å3 R-factor Rp Rwp Rexp RBragg
+Al0.1Ce0.9O2 5.4083 30 158.25 0.531 14.6 17.4 13.17 0.893
+Al0.2Ce0.8O2 5.4113 26 158.46 0.585 21.2 23.5 13.9 1.109
+Al0.3Ce0.7O2 5.4118 21 159.28 0.729 21.4 26.8 15.4 1.150
+
+(a) (b) (c)
+(d)Al
+500 nm 500 nm 500 nm
+500 nm1 μm
+200 nm 10 nm
+(220)
+d = 0.21 nm
+Al Ce O
+Ce O(e) (f)
+(g) (h)
+500 nm
+
+Fig.  2.     (a,  b)  Morphological  characterization  and  SEM  images,  (c–f)  element  mapping  images,  and  (g,  h)  HR-TEM  images  of
+30ADC powder.
+2256 Int. J. Miner. Metall. Mater. , Vol. 31, No. 10, Oct. 2024
+content and synthesis conditions, there might be a possibility
+of phase segregation, where certain material regions have a
+different  composition  or  structure.  This  phase  separation
+could influence the Raman spectra.
+OH−
+XPS  is  employed  to  investigate  the  surface  properties,
+such as the creation of defects and the chemical composition
+of the prepared electrolyte materials. Fig. 3(b) shows the XPS
+survey  spectra  of  10ADC,  20ADC,  and  30ADC.  The  XPS
+survey  spectra  of  Al-doped  CeO2 with  different  concentrations confirm the occurrence of Al, Ce, and O elements in the
+materials. XPS spectra of the O 1s area are utilized to provide
+more information about the surface hydroxyl group ( ),
+lattice  oxygen,  absorbed  oxygen,  and  oxygen  vacancies
+[35–36].  The  O  1s  scan  of  10ADC,  20ADC,  and  30ADC
+provides  evidence  of  the  lattice  oxygen  and  oxygen  vacancies, as shown in Fig. 3(c)–(e). The peak at lower binding energy, 529.3 eV, may be attributed to lattice oxygen species
+(OL), whereas the peak at higher binding energy, 531.2 eV,
+may be attributed to oxygen defects (OV) [37–38]. Additionally, the development of oxygen vacancies is represented by
+the area ratio of the peak oxygen defects to the peak oxygen
+lattice (OV/OL). The relative area ratio values for the 10ADC,
+20ADC,  and  30ADC  are  calculated  to  be  0.62,  0.78,  and
+0.84,  respectively.  It  can  be  indicated  that  more  incorporation of alumina contents in ceria induces the more oxygen vacancies. The enhanced oxygen vacancies, to a certain extent
+withing the tested range, increase proton conduction as a result of the cell’s rapid catalytic activity, which will significantly enhance electrochemical performance.
+3.4. Electrochemical performance test
+The I–P and I–V characteristic curves at low temperature
+ranges (380–500°C) are indicated as in Fig. 4 to determine
+the  fuel  cell  performance  of  ADC  based  electrolytes  using
+hydrogen  as  a  fuel  and  oxygen  as  an  oxidant.  NCAL  was
+chosen as a result of its rapid catalytic reactions for oxygen
+reduction  (ORR)  and  hydrogen  oxidation  (HOR).  Employing  NCAL–Ni/ADC/Ni–NCAL  configuration,  high  power
+output and open circuit voltage (OCV) of the fuel cell were
+taken into account when evaluating its performance. As long
+as  the  fuel  cell  maintained  a  steady  OCV,  its  performance
+was  evaluated. Fig.  4(a)  represents  the  comparison  of  electrochemical performances of 10ADC, 20ADC, and 30ADC
+based  electrolytes,  exhibiting  peak  power  densities  of  765,
+859, and 923 mW/cm2 respectively at an operating temperature of 500°C. After conducting the tests for electrochemical
+performance, it was revealed that 30ADC performed the best
+among the others and achieved a maximum power density of
+923 mW/cm2 at 500°C when stable OCV was 1.077 V, while
+pure CeO2 reported 533 and 515 mW/cm2 at 550 and 510°C,
+and even has low fuel cell performance at higher temperature
+as  compared  to  ADC  materials  [39–40].  Additionally,  the
+peak power densities of 30mol% Al doped CeO2 based cell as
+represented  in Fig.  4(b)  influence  923,  857,  628,  424,  and
+205 mW/cm2 at an operational temperature of 500, 470, 440,
+410,  and  380°C,  respectively.  The  maximum  power  output
+initially  enhanced  with  the  influence  of  alumina  contents.
+The performance of NCAL–Ni/30ADC/NCAL–Ni configuration at 500°C was significantly greater than that from reported pure or doped CeO2 [14,41–45]. Hence, the experimental
+results  showed  that  the  cell  performance  had  improved,
+primarily as a result of increased ionic conductivity and oxygen  vacancies.  These  factors  are  crucial  for  enhancing  the
+electrochemical performances of the electrolyte and facilitat-
+
+Intensity / a.u.
+Intensity / a.u.
+Intensity / a.u.
+Intensity / a.u.
+Intensity / a.u.
+O 2s
+Ce 4d
+O 1s
+Ce MNN
+Ce MN4
+Ce MN5
+Ce 3d
+O KL1
+Ce 3p
+(c) (d) (e)
+Raman shift / cm−1 Binding energy / eV
+Binding energy / eV
+0 200 400 600 800 1000 12001400200 400 600 800 1000 1200
+526 528 530 532 534 536 538
+Binding energy / eV
+526 528 530 532 534 536 538
+Binding energy / eV
+526 528 530 532 534 536 538
+OL
+OV
+OL
+OV
+OL
+OV
+10ADC 20ADC 30ADC
+Al 2p
+Ce 4p
+Back ground Back ground
+Experimental dataExperimental data
+Back ground
+Experimental data
+ C 1s
+
+Fig. 3.    (a) Raman analysis, (b) XPS survey spectra, and (c–e) O 1s spectra of Al–CeO2 with different contents.
+Sarfraz et al., Al3+ doped CeO2 for proton conducting fuel cells 2257
+ing  rapid  ionic  transport.  A  cross-sectional  SEM  image  of
+30ADC cell is shown in Fig. 4(c) after fuel cell performance
+test, where the three layers of relatively dense electrolyte with
+thickness of 521 μm and porous electrodes are exhibited.
+3.5. EIS and DRT analysis
+To  explore  the  electrochemical  characteristics  of  PCFCs
+based on 10ADC, 20ADC, and 30ADC electrolytes, EIS was
+carried out from the same cell of Fig. 4(a) and (b). As illustrated in Fig. 5(a), EIS comparison spectra were measured at
+500°C, a temperature similar to that of fuel cell environment.
+With a 10 mV AC signal applied, the EIS spectra have been
+determined in 0.01 to 1 MHz range. The Nyquist curves fitting was achieved by using the equivalent circuit R1, R2, R3,
+CPE1,  and  CPE2,  in  which R1 denotes  ohmic  resistance  or
+electrolyte’s ohmic resistance, sum of R2 and R3 denotes electrode polarization resistance, and CPE1 and CPE2 are constant phase elements [46]. It was found that good performing
+cell (30ADC) produced lowest values of electrode polarization  resistance  and  ohmic  resistance  of  any  other  composition after conducting EIS under fuel cell conditions. This is
+demonstrated  in Table  2.  At  500°C,  30ADC  produced  an
+electrode polarization resistance of 0.40 Ω·cm2 and an ohmic
+resistance of 0.13 Ω·cm2. EIS spectra expose reduced resistance  values,  which  offer  additional  indication  for  30ADC
+electrolyte’s  efficient  and  well-behaved  electrochemical
+properties in the fuel cell system. Correspondingly, at 550°C,
+pure  ceria  oxide  produced  ohmic  resistance  of  0.25 Ω·cm2
+[2].  The  highest  ionic  conductivity  in  a  desirable  composition, which leads to rapid catalytic processes, is reflected in
+the  least  ohmic  resistance.  Increased  compatibility  between
+the electrolyte and electrode can help to improve fast ORR
+catalytic abilities, as seen by the decrease in electrode polarization resistance in 30ADC along with the ohmic resistance.
+Additionally,  EIS  of  30ADC  cell  was  performed  in  the
+380–500°C temperature range as displayed in Fig. 5(b). With
+the  decrease  of  temperature,  ohmic  and  polarization  resistances increasing gradually, which also affected the conductivity and fuel cell performance.
+As seen in Fig. 5(c), additional DRT analysis was conducted  to  examine  the  specific  polarization  dynamics  of  the
+Al–CeO2 electrolyte  using  NCAL  electrodes.  The  DRT
+curves exhibit four distinct peaks, denoted as P1–P4, ranging
+from  high  frequency  to  low  frequency,  signifying  the  presence of four primary processes that determine rate. A lower
+frequency, typically related to the polarization process from
+charge  transfer,  dissociative  adsorption,  or  species  surface
+exchange, to gas diffusion, is observed. On the other hand, a
+high  frequency  region  is  associated  with  the  several  phenomenon  related  to  hydrogen  adsorption,  dissociation,  proton formation, and lattice incorporation [47]. The O2 adsorption/dissociation and oxygen species diffusion at the cathode
+side are shown by the P2 and P3 peaks, respectively. The O2−
+incorporation and transfer in the lattice can be attributed to
+
+500 μmNi-foam
+0 500 1000 1500 2000 2500
+0.4
+0.6
+0.8
+1.0
+1.2
+0 500 1000 1500 2000 3000 2500
+0.4
+0.6
+0.8
+1.0
+1.4
+1.2
+500℃at 500℃ 470℃
+440℃
+410℃
+380℃
+Current density / (mA·cm−2) Current density / (mA·cm−2)
+Cell voltage / V
+Power density / (mW·cm−2)
+Cell voltage / V
+Power density / (mW·cm−2)
+(c)
+521 μm
+Ni–NCAL
+Ni–NCAL
+
+Fig. 4.    I–P and I–V characteristics curves: (a) fuel cell performances comparison of 10ADC, 20ADC, and 30ADC as electrolytes at
+500°C; (b) best fuel cell device (Ni–NCAL/30ADC/NCAL–Ni) under different operating temperature. (c) Cross-sectional SEM view
+of 30ADC after test.
+2258 Int. J. Miner. Metall. Mater. , Vol. 31, No. 10, Oct. 2024
+the peaks that exist as P1 and P2 in Al–CeO2 [48]. Across all
+Al–CeO2 samples,  the  P3  peak  indicates  the  quickest  reactions  involving  oxygen  species  in  the  sample.  The  material
+for PCFCs had much improved proton conductivity as a result  of  these  treatments.  Incorporating  low  valency  cations,
+such as Al3+, into CeO2 produces a lattice strain that facilitates the creation of oxygen vacancies, hence enhancing the
+ionic conductivity overall.
+There is no discernible difference in P1 intensity across all
+cells. If we compare 30ADC to other samples, it is interesting to note that the P4 peak with the lowest strength at low
+frequency  appears  there.  Improved  compatibility  between
+electrolyte materials and cathode sample is demonstrated by
+the reduction of both ohmic resistance and electrode polarization resistance in 30ADC. This can help improve both the
+fuel cell performance and the quick ORR catalytic functions.
+The  formation  of  P4  peak  explained  gas  diffusion  in  the
+NCAL support electrode. At 500°C, the P4 of a cell based on
+30ADC  is  the  smallest  and  contributes  the  least  amount  of
+polarization. However, because the rate-limiting process only
+contributes a small amount to the continuous electrode polarization, its effect on the performance of the cell is minimal.
+This view acts as a catalyst for proton transport and produces
+local  concentration  gradients  that  raise  the  oxygen  vacancy
+concentration,  while  also  significantly  improve  Al–CeO2
+proton conductivity.
+3.6. Ionic  conductivity  analysis  and  conduction  mechanism
+σi
+σt
+σt
+The  ionic  conductivity  ()  collected  from  the Fig.  4(a)
+and  total  conductivity  ()  collected  from Fig.  5(b)  of
+30ADC are attained from the slope of polarization curves and
+EIS, as shown in Fig. 6(a). The ionic conductivity is acquired
+from 0.15 to 0.02 S/cm in temperature range of 380–500°C.
+The  collected  by  EIS  reasonably  exhibits  high  range  of
+0.18  to  0.06  S/cm  in  the  same  temperature  range  (380–
+500°C). It is reported that pure CeO2 carried a conductivity of
+0.052 S/cm at 550°C [39]. Upon incorporating Al into CeO2,
+
+lg(τ / s)
+0.08
+0.06
+0.04
+0.02
+0.12
+0.09
+0.06
+0.03
+0.20
+0.15
+0.10
+0.05
+Fitted line
+Fitted line
+at 500℃
+500℃
+470℃
+440℃
+410℃
+380℃
+(a)
+(b)
+(c)
+CPE1
+P3
+P2 P1
+P4
+CPE2
+0.001 0.01 0.1 1 10 1000 0.2 0.4 0.6 0.8 1.0 1.2 1.4 1.6 1.8
+0.1
+0.3
+0.1 0.2 0.3 0.4 0.5 0.6
+0.05
+0.10
+0.15
+0.20
+10−5 10−4
+γ(τ) / Ω
+R1
+R2 R3
+Re	Z
+/ (Ω·cm2)
+Im	Z
+/ (Ω·cm2) Im	Z
+/ (Ω·cm2)
+Re	Z
+/ (Ω·cm2)
+
+Fig. 5.    (a) EIS analysis comparison of 10ADC, 20ADC, and 30ADC at 500°C; (b) EIS analysis of 30ADC at different operational
+temperatures (380–500°C); (c) DRT analysis of Al–CeO2 samples (τ is time constant and γ(τ) is a function of time constant).
+
+σ
+σ
+Table 2.    EIS comparison of fitting parameters, total conductivity ( t) from EIS, and ionic conductivity ( i) by I–V curves results
+at 500°C
+Composition R1 / (Ω·cm2) R2 / (Ω·cm2) R3 / (Ω·cm2)
+σ t (by EIS ) / (S·cm−1)
+σ i (by I–V) / (S·cm−1)
+10ADC 0.17 0.09 0.54 0.13 0.10
+20ADC 0.15 0.06 0.49 0.15 0.12
+30ADC 0.13 0.04 0.36 0.18 0.15
+Sarfraz et al., Al3+ doped CeO2 for proton conducting fuel cells 2259
+an  ionic  conductivity  of  up  to  0.15  S/cm  at  500°C  was
+achieved. Such a high ionic conductivity progresses fuel cell
+performance of electrolytes in PCFCs, smoothing the charge
+carrier  movement.  The  enhanced  conductivity  is  a  consequence of increased ion mobilities in the ADC electrolytes
+as  well  as  increase  number  of  oxygen  vacancies,  as  distinguished in XPS O 1s spectra as shown in Fig. 3(b). A noticeable improvement of conductivity in ADC electrolyte grasps
+remarkable potential for significantly enhancing the electrochemical performance of the fuel cells by employing such an
+electrolyte  layer.  30ADC  electrolyte’s  increased  conductivity allows for more effective ion transport, accelerating reaction kinetics and lowering ohmic losses in the device. An increase  in  conductivity  results  in  an  increase  in  a  device’s
+power output, overall efficiency, and stability. The achieved
+ionic conductivity is noticeably higher than that of the proton
+conductor Ba(Zr0.1Ce0.7Y0.2)O3−δ (BCZY) 0.02 S/cm at 700°C,
+the predominant oxygen ion conductor samarium doped ceria
+(SDC) ~0.05 S/cm at 700°C, the GDC 0.04 S/cm at 700°C,
+the  ceramic  YSZ  0.13  S/cm  at  1000°C,  and  the  GDC/YSZ
+mixture film ~0.01 S/cm at 1000°C [49–53].
+(a) (b) (c)
+(d) (e) (f)
+500 470 440 410
+7 mL/min6 mL/min5 mL/min4 mL/min3 mL/min2 mL/min1 mL/min
+Theoretical voltage
+Experimental voltage
+500℃
+H2
+O2Ni−NCAL
+Ni−NCALBZCY
+BZCYADC
+Current density / (mA·cm−2)
+Power density / (mW·cm−2)
+Cell voltage / V V oltage / mV
+0.4
+0.6
+0.8
+1.0
+1.2
+0 500 1000 1500 2000
+Transference number / %
+1.25 1.30 1.35 1.40 1.45 1.50 1.55
+0.05
+0.10
+0.15
+0.20
+0 0.5 1.0 1.5 2.0 2.5 3.0 3.5
+0 0.5 1.0 1.5 2.0 2.5 3.0 3.5 4.0 4.5
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+4.0
+4.5
+0.5
+1.0
+1.5
+2.0
+2.5
+3.0
+3.5
+420 440 460 480 500 520 540 560 420 440 460 480 500 520 540 5600
+Temperature / °C
+Temperature / °C
+Temperature / °C
+H+ transference number
+(1000/T) / K−1
+σ / (S·cm−1) σt from EIS
+H2/air
+D2/air
+Im	Z
+/ (Ω·cm2)
+Re	Z
+/ (Ω·cm2)
+Im	Z
+/ (Ω·cm2)
+Re	Z
+/ (Ω·cm2)
+σi from I–Ⅴ
+
+Fig. 6.    (a) Ionic conductivity from I–V curves and total conductivity from EIS at 380–500°C; (b) I–P and I–V characteristic curves
+of  the  oxygen  ion  blocking  inserted  fuel  cell;  (c)  EIS  spectra  of  30ADC  measured  in  H2/air  and  D2/air;  (d)  EIS  spectra  of  30ADC
+measured  in  different  water  partial  pressure.  (e)  Theoretical  and  observed  voltage  of  hydrogen  concentration  cell  and  (f)  proton
+transport number during hydrogen concentration cell.
+To verify the core charge carriers in the fuel cell, an oxygen ion blocking layer by using well known proton conductor  BZCY  with  preparation  of  NCAL–Ni/BZCY/30ADC/
+BZCY/NCAL–Ni  was  designed  and  tested.  It  permits  only
+the transportation of protons and prevents the passage of oxygen  ions  via  the  electrolyte  [54].  By  eliminating  the  influence  of  other  carriers,  this  blocking  cell  method  has  been
+used in prior investigations to assess a precise ionic conductivity [14,55–56]. This layer exclusively facilitates the transportation  of  H+ ions  and  prevents  the  passage  of  e−/O2−
+through  the  electrolyte  membrane.  Consequently,  the  current–voltage curve depicted confirms the transport of H+ ions
+in  30ADC,  establishing  the  dominant  proton  conduction  in
+our  device  (Fig.  6(b)).  The  device  exhibits  a  noteworthy
+OCV  of  1.09  V  and  maximum  power  density  of  656
+mW/cm2.  Up  to  75%  of  the  fuel  cell  performance  was
+achieved  with  BZCY  layers  as  compared  to  without  the
+BZCY layered cell. The additional interfaces introduced by
+the BZCY in the cell structure causes power losses at these
+interfaces, resulting in a 25% decrease in the output.
+OD·
+OH·
+To further verifying the proton transport phenomenon in
+ADC materials, isotopic measurements were carried out. The
+30ADC based fuel cell displays a clear difference in different
+atmosphere such as H2 and D2 as represented in Fig. 6(c). The
+big difference between D and 1H specifies an isotope effect,
+i.e., proton conduction in 30ADC. When D+ and H+ are integrated in 30ADC to form deuteroxyl/hydro groups (  or
+ ),  protons  and  deuteroxyl/hydro  groups  migrate  at  a
+higher  rate  than  deuterons,  significantly  exhibited  in  ohmic
+and polarization resistances.
+OH−
+Additionally,  a  fuel  cell  with  the  configuration  of
+Ni–NCAL/30ADC/Ni–NCAL was fabricated to confirm the
+proton  conduction  by  utilizing  water  with  different  partial
+pressure as a fuel. It was observed that by increasing water
+amounts,  ohmic  and  polarization  resistances  decreased,  as
+described  in Fig.  6(d),  which  confirmed  that  more  proton
+(H+) and ( ) ions are moving through the membrane.
+Hydrogen  concentration  cells  and  oxygen  concentration
+cells were built in order to ascertain the conduction mechanism for 30ADC under fuel cell operating circumstances. By
+2260 Int. J. Miner. Metall. Mater. , Vol. 31, No. 10, Oct. 2024
+using the predicted theoretical voltage and the actual voltage,
+the  H+ transference  number  was  about  55%–81%  between
+420 and 560°C, as shown in Fig. 6(e) and (f). In the oxygen
+concentration cell test, no voltage was seen, and the oxygen
+ion  transference  number  is  0  between  420  and  560°C.  The
+measurements  of  concentration  cells  revealed  that  the
+30ADC electrolyte was mainly proton conducting properties
+during fuel cells operation, with almost negligible oxygen ion
+conduction.
+4. Conclusions
+Al3+ doping in CeO2 possesses great potential for increasing oxygen vacancy concentration and creating surface and
+bulk  gradience  through  careful  control  of  the  doping  approach. These modifications significantly advanced the proton conductivity of the material for PCFCs. By systematically  incorporating  low-valency  cations,  such  as  Al3+,  into
+CeO2,  the  resulting  lattice  strain  promotes  the  formation  of
+oxygen vacancies, thereby improving the overall ionic conductivity. Doping CeO2 with Al3+ ions offer an intriguing approach to inducing oxygen vacancies both in the bulk structure  and  on  the  particle  surfaces.  By  substituting  Ce4+ with
+Al3+ in  varying  proportions  (10mol%,  20mol%,  and
+30mol%), the crystal lattice structure of CeO2 is modified.
+Additionally, by establishing doping gradients on the surface  and  in  the  bulk,  local  structural  distortion  and  lattice
+strain are introduced, further promoting the uneven distribution of oxygen vacancies. This approach generates local concentration  gradients  that  increase  the  concentration  of  oxygen vacancies and provide a driving force for proton transport,  effectively  enhancing  the  proton  conductivity  of  Aldoped CeO2. It was evidenced that introducing Al3+ ions into
+CeO2 significantly  impacts  its  proton  conductivity.  The  increased  oxygen  vacancy  concentration  results  in  a  higher
+density of mobile charge carriers (protons) within the material. Furthermore, the surface and bulk doping gradients create
+local concentration driving forces that promote proton transport.  Consequently,  the  overall  ionic  conductivity  of  Aldoped CeO2 is greatly improved, enabling more efficient proton transport across the electrolyte. This enhancement in proton conductivity is vital for the performance of PCFCs, as it
+directly influences their power density and overall efficiency.
+Acknowledgements
+This work was supported by the National Natural Science
+Foundation  of  China  (Nos.  51772080  and  11604088),  the
+Funding  from  Science  and  Technology  Department  of  Jiangsu  Province,  China  (No.  BE2022029),  and  the  Beijing
+Natural  Science  Foundation,  China  (No.  IS23050).  Prof.
+Asghar also thanks the Academy of Finland (Nos. 13322738
+and 13352669) for the financial support.
+Conflict of Interest
+The authors declare that there are no conflicts of interest
+regarding the publication of this paper.

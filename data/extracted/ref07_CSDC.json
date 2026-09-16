@@ -1,0 +1,31 @@
+{
+  "paper_id": "ref07_CSDC",
+  "citation": "Raza et al. 2010, J. Power Sources 195:6491",
+  "materials": [
+    {
+      "composition_label": "CSDC-Na2CO3 (Ce0.8Sm0.2-xCaxO2-delta - Na2CO3)",
+      "ceria_dopant": "Sm+Ca (co-doped)",
+      "dopant_fraction": 0.2,
+      "secondary_phase": "Na2CO3",
+      "secondary_phase_wt_pct": null,
+      "synthesis_route": "co-precipitation (Ce/Sm/Ca nitrates + Na2CO3 dropwise)",
+      "sintering_temp_C": 800,
+      "pellet_thickness_um": 250,
+      "relative_density_pct": null,
+      "measurement_method": "2-probe AC impedance",
+      "atmosphere": "air",
+      "conductivity_type": "ionic",
+      "conductivity_S_cm": 0.1,
+      "conductivity_temp_C": 300,
+      "activation_energy_eV": null,
+      "pmax_mW_cm2": 980,
+      "pmax_temp_C": 560,
+      "ocv_V": 1.05,
+      "fuel": "H2",
+      "durability_h": null,
+      "notes": "Cell: 13 mm diameter, 0.80 mm total thickness (0.35 mm anode + 0.25 mm electrolyte + 0.20 mm cathode), 0.64 cm2 active area, cell sintered 650 C 45 min. Impedance measured 0.1 Hz - 1 MHz over 300-600 C; Nyquist plot shown in air at 550 C. Highest reported conductivity T = 300 C (paper states 0.1 S/cm at 300 C); no conductivity value reported at higher T, so 300 C is used despite the 'closest to 600 C' rule (no higher value available). Also at 350 C: OCV 0.99 V, Pmax 200 mW/cm2. Abstract quotes Pmax as 'about 1000 mW/cm2 at 560 C'; body text 980 mW/cm2 - using body value. Composition inconsistency: formula label Ce0.8Sm(0.2-x)CaxO2-delta implies total dopant = 0.2 (Ce = 0.8), but the synthesis states molar ratio Ce:Sm:Ca = 4:1:1 which implies Ce = 0.667 and total dopant = 0.333. dopant_fraction = 0.2 recorded to match the formula/label; the 4:1:1 discrepancy is flagged here. secondary_phase_wt_pct not stated (Na2CO3 added dropwise from 0.2 M solution into 0.1 M metal solution)."
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Single composition. Paper reports internal inconsistency between formula label (Ce0.8...) and stated synthesis ratio (Ce:Sm:Ca = 4:1:1 -> Ce0.667...); dopant_fraction recorded as 0.2 per the formula label but noted. Conductivity value only reported at 300 C (0.1 S/cm), so conductivity_temp_C is 300 rather than closest-to-600. Activation energy, relative density, durability, and secondary-phase wt% not stated. Atmosphere for the conductivity value: Nyquist plot in air at 550 C; DC AC-impedance sweep atmosphere not explicit -> using 'air'."
+}

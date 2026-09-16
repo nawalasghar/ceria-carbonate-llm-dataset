@@ -1,0 +1,464 @@
+Citation: Ahmed, Raza et al. 2016, IJHE
+DOI: 10.1016/j.ijhydene.2016.02.095
+Source text: full text
+
+Highly efﬁcient composite electrolyte for natural
+gas fed fuel cell
+Akhlaq Ahmed a, Rizwan Raza a,b,*, Muhammad Saeed Khalid c,
+Muhammad Saleem a, Farah Alvi a, Muhammad Sufyan Javed a,d,
+Tauqir A. Sherazi e, Majid Niaz Akhtar a, Nadeem Akram a,
+Muhammad Ashfaq Ahmad a, Asia Raﬁque a, Javed Iqbal f, Amjad Ali a,
+M. Kaleem Ullah a, S. Khalid Imran b, Imran Shakir g, M. Ajmal Khan a,
+Bin Zhu b,h,**
+a Department of Physics, COMSATS Institute of Information Technology, Defence Road, off Raiwind Road, Lahore,
+54000, Pakistan
+b Department of Energy Technology, Royal Institute of Technology, KTH, Stockholm, 10044, Sweden
+c National University of Sciences & Technology (NUST), Islamabad, Pakistan
+d Department of Applied Physics, Chongqing University, Chongqing 400044, PR China
+e Department of Chemistry, COMSATS Institute of Information Technology, Abbotabad 22060, Pakistan
+f Department of Chemical Engineering, COMSATS Institute of Information Technology, Defence Road, off Raiwind
+Road, Lahore 54000, Pakistan
+g Deanship of Scientiﬁc Research, College of Engineering, King Saud University, P. O. Box 800, Riyadh 11421, Saudi
+Arabia
+h Hubei Collaborative Innovation Center for Advanced Materials, Faculty of Physics and Electronic Science, Hubei
+University, Wuhan, Hubei, 430062, PR China
+article info
+Article history:
+Received 30 April 2015
+Received in revised form
+10 January 2016
+Accepted 22 February 2016
+Available online xxx
+Keywords:
+LT-SOFCs
+Proton conductor
+High conductivity
+Fuel cell performance
+abstract
+Solid oxide fuel cells (SOFCs) have the ability to operate with different variants of hydro
+carbon fuel such as biogas, natural gas, methane, ethane, syngas, methanol, ethanol,
+hydrogen and any other hydrogen rich gas. Utilization of these fuels in SOFC, especially the
+natural gas, would signiﬁcantly reduce operating cost and would enhance the viability for
+commercialization of FC technology. In this paper, the performance of two indigenously
+manufactured nanocomposite electrolytes; barium and samarium doped ceria (BSDCcarbonate); and lanthanum and samarium doped ceria (co-precipitation method LSDCcarbonate) using natural gas as fuel is discussed. The nanocomposite electrolytes were
+synthesized using co-precipitation and wet chemical methods (here after referred to as
+nano electrolytes). The structure and morphology of the nano electrolytes were examined
+by X-ray diffraction (XRD) and scanning electron microscopy (SEM). The fuel cell performance (OCV) was tested at temperature (300 e600 ° C). The ionic conductivity of the nano
+electrolytes were measured by two probe DC method. The detailed composition analysis of
+nano electrolytes was performed with the help of Raman Spectroscopy. Electrochemical
+study has shown an ionic conductivity of 0.16 Scm − 1 at 600 ° C for BSDC-carbonate in
+hydrogen atmosphere, which is higher than conventional electrolytes SDC and GDC under
+* Corresponding author .
+** Corresponding author .
+E-mail addresses: razahussaini786@gmail.com (R. Raza), binzhu@kth.se (B. Zhu).
+Available online at www.sciencedirect.com
+ScienceDirect
+journal homepage: www.elsevier.com/locate/he
+international journal of hydrogen energy xxx (2016) 1 e8
+http://dx.doi.org/10.1016/j.ijhydene.2016.02.095
+0360-3199/Copyright © 2016, Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights reserved.
+Please cite this article in press as: Ahmed A, et al., Highly efﬁcient composite electrolyte for natural gas fed fuel cell, International
+same conditions. In this article reasonably good ionic conductivity of BSDC-carbonate, at
+600 ° C, has also been achieved in air atmosphere which is comparatively greater than the
+conventional SDC and GDC electrolytes.
+Copyright © 2016, Hydrogen Energy Publications, LLC. Published by Elsevier Ltd. All rights
+reserved.
+Introduction
+Solid oxide fuel cells (SOFC) have found great interest since
+last two decades due to their ability to provide high efﬁciency,
+tolerance towards the fuels and being environmental friendly.
+However many complications still exist which need to be
+addressed, before making SOFC economically inexpensive in
+the market [1,2]. Major hurdles are expensive electrolyte/
+electrode materials, high working temperatures, and expensive hydrogen fuel.
+Many research groups are working to make efﬁcient electrolytes and electrodes but preparing a cheap electrolyte is
+still a big challenge to commercialize SOFC [1]. Another challenge is to operate SOFC on hydrocarbon fuels instead of pure
+hydrogen. Hydrogen gas as a fuel has some major issues
+related to cost, difﬁculty in handling, transportation and other
+technological technology aspects [3].
+Since 1988 more than 86% of hydrogen is produced from
+fossil fuels which include 30% from reﬁnery, 48% from natural
+gas, and 18% from coal; and remaining from electrolysis of
+water [2,3]. Instead of producing pure hydrogen form hydrocarbon fuels for SOFC which is not cost effective, the direct use
+of these hydrocarbons as fuel especially natural gas (95%
+methane) needs to be explored.
+SOFC offers the possibility to be used with wide range of
+fuels like hydrogen, coal gas, natural gas, methanol and diesel
+etc. [5,7,8]. Among different types of fuel cells, SOFC is a solid
+state fuel cell based on a solid oxide electrolyte which possess
+the maximum electrical efﬁciency (45 e60%) and with cogeneration with other technologies its efﬁciency increases
+(60e80%) with minimum emissions [6]. SOFCs offer extensive
+potential for power and heat generation called CHP (combined
+heat and power). SOFCs normally operate between the temperature range of 300e600 ° C are called low temperature SOFC
+(LTSOFC).
+The electrolyte is the most important part of SOFC [9]. For
+SOFC, yttrium stabilized zirconia (YSZ), gadolinium doped
+ceria (GDC), samarium doped ceria (SDC) and calcium doped
+ceria (CDC) are commonly used materials for electrolytes
+[10,11]. Since high temperature SOFCs operate above 800 ° C,
+which is responsible for efﬁcient material degradation, technological complications and high cost of ceramic materials
+etc. [1] and leads major obstacles for commercialization.
+Therefore to achieve fuel cell operating temperature below
+600 ° C is a big challenge in the ﬁeld of SOFC [12].
+In SOFC, when pure electrolytes (YSZ, GDC, SDC, and CDC)
+are used, it operates at high temperatures and exhibits low
+power density, low current density and low conductivity
+[13,14]. However the usage of nano electrolytes in SOFC shows
+good performance with high power density and improved
+conductivity at low operating temperatures. During the synthesis of nano electrolytes lowering the sintering temperature
+lead to smaller size of grains, which increases the conductivity
+of material [15,16].
+Among hydrocarbon fuels, natural gas is economical and
+easily available world-wide. The possibility to use natural gas,
+as a fuel, in SOFC needs to be investigated extensively. Direct
+hydrocarbon fuel cells, will increase the possibility to
+commercialize the FC technology. SOFC can utilize natural gas
+directly without external reforming. Internal reforming in
+SOFC has advantages like system simplicity, cost effectiveness and also enhances the system efﬁciency, by utilizing the
+extra heat produced during the chemical reaction. When
+natural gas is fed to SOFC, following chemical reactions may
+occur during the internal reforming [4].
+CH4/2H2 þ C
+C þ O− 2/CO
+H2 þ O− 2/H2 O
+CH4 þ O− 2/CH3 OH þ 2e
+A general reaction for family of methane is given by
+CnH2nþ2 þð 3n þ 1ÞO− 2/nCO2 þð n þ 1ÞH2O þð 6n þ 2Þe
+Natural gas, supply infrastructure, is available throughout
+the world, more efﬁcient, easy to store, transport, can be
+directly used without any external processing as compared to
+hydrogen in case of producing energy. Natural gas (Methane)
+is also more efﬁcient fuel, as compared to hydrogen, in case of
+producing energy. Methane releases eight electrons for each
+mole while hydrogen releases only two electrons per mole.
+Methane is more appropriate and promising as compared to
+hydrogen for FC-technology [9].
+Many researcher have studied different electrolyte i.e. Mr
+J. Pena-Martinez et al. (2006), investigated the performance of
+SOFC by using Strontium, Magnesium-doped Lanthanum
+Gallate (LSGM) ceramics as electrolyte and nanocomposite
+LSM as cathode. The maximum power density was recorded
+160 mW cm − 2 at 800 ° C [15]. Mr Jacquin et al. (2007), developed proton conducting BaCe 0.9Y0.1O2.95 e type ceramic oxide
+from nano-powders. The total conductivity at 500 ° C was
+1.2 × 10− 2 Sc m− 1 [16]. Mr. X. Chen et al. (2008), synthesized a
+proton and oxide ion conductor, Sn 0.9In0.1P2O7. The conductivity of Sn 0.9In0.1P2O7 and performance of Sn 0.9In0.1P2O7
+membrane fuel cell were investigated under various atmospheres in the range of 130 e230 ° C temperature. The
+international journal of hydrogen energy xxx (2016) 1 e82
+Please cite this article in press as: Ahmed A, et al., Highly efﬁcient composite electrolyte for natural gas fed fuel cell, International
+conductivity of Sn 0.9In0.1P2O7 obtained 0.019 S/cm at 200 ° C
+which was improved performance than pure proton
+conductive fuel cells at 235 ° C. These nanocomposite electrolytes were equally useful for SOFCs and PEMFCs [17].M rL .
+Fan et al. (2012), synthesized samarium doped ceriacarbonates nanocomposite electrolytes using citric acidnitrate combustion method and solid state reaction method
+for SOFC. The maximum power densities of 839.5 at 600 ° C
+and around 437 mW cm − 2 at 450 ° C were reported. These
+nanocomposites show very low resistance and high ionic
+conductivity [18]. Mr A. Elleuch et al. (2012), using oxalate coprecipitation process, synthesized nanocomposite electrolytes composed of Samarium-Doped Ceria (SDC) and a binary
+carbonate phase (67 mol% Li 2CO3/33 mol% Na 2CO3) for intermediate temperature direct carbon fuel cells (ITDCFCs)
+[19]. But no many researchers have focused on natural gas
+based composite electrolyte. In this article, synthesis and
+performance of newly developed nano electrolytes for LT-
+SOFC with natural gas as well as pure hydrogen as fuel is
+being reported. Barium and Lanthanum nano electrolytes
+have shown excellent conductivity, improved power density,
+higher current density at lower temperature as compared to
+conventional electrolytes for SOFC. In start, we discuss the
+synthesis of nanocomposite electrolytes in detail. The
+structure, morphology, ionic conductivities and performance
+of the nanocomposite electrolytes with natural gas as fuel are
+discussed in detail.
+Experimental
+Synthesis of barium and samarium doped ceria composite
+(BSDC-carbonate) [Sample-1, 3 and 4] using co-precipitation
+and wet chemical methods
+BSDC-carbonate (barium and samarium doped ceriacarbonate) nano electrolytes named as sample-1, sample 3
+and sample 4were synthesized using co-precipitation and wet
+chemical methods. The detail synthesis procedure is shown in
+Fig. 1.
+Flow Chart for BSDC
+. 0.02MCe (NO3) 3·6H2O + 0.5L distilled water
+Added 0.005M Sm (NO3) 3·6H2O in above solution
+===
+Stirred for 2 minutes at 80
+C
+Stirred for 30 minutes at 80
+C
+After 30 min., added drop wise 0.0125M Na2CO3 solution
+(prepared in 50ml distilled water) in above solution
+Samarium Doped Ceria Solution (SDC)
+Stirred for few minutes at 80
+C
+SDC soluƟon + Ba(NO3)2 soluƟon
+Stirred for 30 minutes at 80
+C
+FiltraƟon
+Precipitate like composite obtained
+AŌer 30 minutes
+Drying in Oven at 150
+C for 2 hours
+Sintering by Furnace at 800
+C for 4 hours
+Nanocomposite Powder of
+BSDC
+Fig. 1 e Flow chart of synthesis procedure of nanocomposite electrolyte.
+international journal of hydrogen energy xxx (2016) 1 e8 3
+Please cite this article in press as: Ahmed A, et al., Highly efﬁcient composite electrolyte for natural gas fed fuel cell, International
+The optimized ratio between SDC and Ba(NO 3)2 are
+considered to be 1:1 for these samples. The ratio between
+samarium (Sm) and cerium (Ce) are considered 1:4(20%:80%)
+for each electrolyte. 0.02 mol of cerium nitrate (Ce(NO 3)3$6H2O
+(Sigma Aldrich, USA)) is prepared in 0.5 L distilled water and
+stirred for 2 min at frequency 800 rev/min with temperature
+80 ° C. Further 0.005 mol of Sm(NO 3)3$6H2O (Sigma Aldrich,
+USA) was added in the cerium nitrate solution and continued
+stirring for further 30 min to get samarium doped ceria (SDC)
+solution to be used in all samples.
+For BSDC-carbonate (sample 1), 0.0125 mol/L solution of
+sodium carbonate (Na 2CO3) was added drop wise in the SDC
+solution and was stirred for 2 min. 0.025 mol/L solution of Ba
+(NO3)2 (Sigma Aldrich, USA) was added in the solution of SDC
+and kept on stirring for further 30 min. After 30 min stirring,
+solution was ﬁltered to get precipitates. The wet precipitate
+was dried in an oven at 150 ° C for 2 h. Later the precipitate
+powdered was sintered in a furnace at 800 ° C for 4 h. After
+sintering, the BSDC-carbonate nanocomposite (sample 1)has
+obtained which is further grinded for to be used as smart
+electrolyte.
+Wet chemical method has investigated for synthesis of
+BSDC (sample 3). Separate solutions of 2.66 g of Na 2CO3 and
+0.025 mol/L of Ba(NO 3)2 were prepared and stirred for several
+minutes at 80 ° C. Both solutions were mixed and stirred at
+80 ° C for 30 min before mixing with the aforementioned SDC
+solution. The solution is kept stirred till drying. Later dried
+material was sintered at 800 ° C for 4 h and grinded afterwards
+to obtain BSDC (sample-3).
+Whereas BSDC-carbonate (sample-4) was synthesized
+using citric acid (C 6H8O7) as chelating agent in wet chemical
+approach. In SDC solution, we added 0.0125 mol/L of Ba (NO 3)2
+and 0.0125 mol of C6H8O7 in it and started heating the solution
+at 140 ° C till dry. It takes nearly 2 h and 30 min for complete
+drying and grinded the powder. In the end grinded powder
+was sintered at 800 ° C for 4 h before pellet formation and
+characterization study.
+Synthesis of lanthanum and samarium doped ceria
+composite (LSDC) [ Sample-2]
+LSDC-carbonate (lanthanum and samarium doped ceria
+with carbonate) nanocomposite electrolyte (sample-2) was
+synthesized by using co-precipitation method. The ratio
+between SDC and La (NO 3)3$6H2O is considered 1:1. The ratio
+between samarium (Sm) and cerium (Ce) was considered 1:4.
+However synthesis method for SDC solution is nearly same
+as in aforementioned samples. We synthesized La
+(NO3)3$6H2O solution by using 50 ml distilled water in a
+beaker and added 0.025 mol of La (NO 3)3$6H2O and stirred for
+few minutes at 80 ° C. After 2 min as described in preparation
+of sample-1, added the above solution in SDC solution and
+stirred at 80 ° C for 30 min. In the end solution was ﬁltered
+and washed to get precipitate like composite. Precipitate
+was kept for drying in an oven at 150 ° C for another 2 h
+which later sintered in a furnace for 4 h at 800 ° Ct oi m p r o v e
+overall quality of product. After sintering for 4 h, LSDC
+nanocomposite has obtained and eventually grinded to
+obtain ﬁne powder.
+Results and discussion
+Micro structure of the synthesized electrolytes
+The crystalline structure of the synthesized electrolytes was
+examined by X-ray diffraction (XRD) technique. XRD pattern
+was captured using a Philips X 'pert pro super diffractometer
+with CueKa radiation of wavelength ( l ¼ 1.5418 Å) working at
+40 kV, 30 mA.
+Fig. 2 e Combined XRD Pattern of synthesized electrolytes.
+international journal of hydrogen energy xxx (2016) 1 e84
+Please cite this article in press as: Ahmed A, et al., Highly efﬁcient composite electrolyte for natural gas fed fuel cell, International
+XRD patterns of synthesized electrolytes are shown in
+Fig. 2 . The BSDC-carbonate (sample 1) and LSDC-carbonate
+(sample 2) composite prepared by co-precipitation method
+have the cubic structure with a space group Pm-3m-(221), and
+JCPDS Card 83-0533, SDC has the Cubic ﬂuorite structure with
+a space group Fm-3m-(225), and JCPDS Card 75-0159,whereasCubic Lanthanum oxide has the space group Fm-3m-(223),
+with JCPDS Card 88-2336 consecutively phases are identiﬁed.
+It has been observed that the Lanthanum contents are not
+reacted with the SDC oxide, when they are ﬁred at 800 ° C for
+4 h. But the barium content reacted with the SDC oxide at
+800 ° C for 4 h to make phase barium cerate oxide.
+The comparison of XRD measurements of electrolytes is
+shown in Table 1 . The crystallite size of BSDC-carbonate
+(samples 1,3,4) electrolyte are 11.58 nm and 46.40 nm
+measured by using Debye eScherrer formula. The LSDCcarbonate (sample 2) electrolyte has a crystalline size of
+8.68 nm. The diffraction patterns of nano electrolytes provide
+the proof that composites have nanocrystalline structure.
+Fig. 3 depicts the microstructure of the Barium and
+Samarium Co-doped Ceria (BSDC-carbonate) [Sample-3], obtained by scanning electron microscopy (SEM) (Hitachi,
+SU3500, Japan). The morphology of the synthesized BSDCcarbonate seems to be largely homogeneous and with a
+dense structure. A range of particle sizes from 100 nm to
+500 nm has been observed. It is perceived that due to small
+particle size; the ionic conductivity of synthesized nanocomposite electrolyte is high. There is possibility of, due to
+large boundary size of grains, reducing the contact resistance
+between particles which allows the ions to pass through interfaces of particles easily.
+The structural analysis of synthesized materials was also
+performed using Raman Spectroscopy. The Raman spectra of
+the synthesized materials is obtained by Raman spectrometer
+(model HR 800 Horiba, Japan) at room temperature. He eNe
+laser source with wave length 632.8 nm was used with spectra
+resolution of 1 cm − 1. The powders of all samples are sintered
+at 800 ° C for 4 h before characterization. A combined diagram
+for comparison is shown in Fig. 4 . The most intense peaks
+appear at about 454 cm − 1in all four synthesized electrolytes,
+which belong to SDC. It means Samarium (Sm) has completely
+doped in Ceria (CeO 2) in synthesized nano electrolytes. The
+other small peaks may be of Barium Oxide, Lanthanum or
+other impurities present in composites.
+Fuel cell performance (electrochemical characterization)
+For performance of fuel cell with, nano electrolytes, pellets of
+nano electrolytes were made by hydraulic press. The mixture
+of LiNiCuZnO & nanoelectrolyte [0.50 g (Electrode
+powder) þ 0.20 g (Electrolyte powder)] was used to prepare
+Table 1 e Comparison of XRD of synthesized electrolytes.
+Material FWHM
+[2q]
+d-spacing
+[ÅA]
+Crystallite
+size [nm]
+BSDC [Sample-1] 0.7085 3.17626 11.58
+LSDC [Sample-2] 0.9446 3.21475 8.68
+BSDC [Sample-3] 0.1771 3.13579 46.40
+BSDC [Sample-4] 0.2952 3.16072 27.82
+Fig. 3 e SEM image of BSDC [Sample-3].
+Fig. 4 e Comparison of Raman spectroscopy.
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+0.04
+0.08
+0.12
+0.16
+0.20
+Power density (W/cm )
+Cell Voltage(V)
+Current density (A/cm )
+ 300 C
+ 350 C
+ 400 C
+ 450 C
+ 500 C
+Fig. 5 e FC performance BSDC-carbonate [Sample-1] under
+natural gas.
+international journal of hydrogen energy xxx (2016) 1 e8 5
+Please cite this article in press as: Ahmed A, et al., Highly efﬁcient composite electrolyte for natural gas fed fuel cell, International
+electrodes material. The thickness of the pallet was kept 1 mm
+with diameter of 13 mm. Nickel foil was used on the anode
+side which prevents pellet from breakdown and also acts as a
+catalyst. Pellets were sintered at 500 ° C for 30 min before doing
+performance test.
+The performance of these FCs was investigated at temperature range 300 e500 ° C by using natural gas as fuel.
+Natural gas was supplied at anode with ﬂow rate of
+100 ml min − 1 at 1 atm pressure and oxygen from air was
+provided at cathode side with the help of an air pump. The
+IV/IP characteristics were observed using fuel cell testing
+unit (SM-102). The performances of all prepared samples are
+shown in Figs. 5, 6,7 and 8 at different temperature. A
+comparison of fuel cell performance for all four nano electrolytes is shown in Table 2 .
+It can be seen that BSDC-carbonate electrolyte (sample 3)
+synthesized by using wet chemical method has shown highest power density 350 mW cm − 2 at low temperatures
+(300e500 ° C) with minimum losses.
+Ionic conductivity and nanostructure of BSDC
+nanocomposite electrolyte
+In this section, we discuss ionic conductivity and nanostructure of BSDC nanoelectrolyte [Sample-3] which shows
+highest power density among other synthesized electrodes in
+this contribution. The ionic conductivity measurements for
+BSDC nanocomposite were measured using two probe DC
+method. A pellet of 2.05 mm thickness with diameter of
+13 mm and effective area of 0.64 cm 2 was prepared using
+hydraulic press. In order to collect current, silver paste was
+coated on both side of the pellet. The conductivity measurements are done under hydrogen atmosphere at 600 ° C which
+is shown in Fig. 9. An ionic conductivity of 0.16 S/cm at 600 ° C
+is measured which is signiﬁcantly higher, as compared to the
+conventional SDC and GDC electrolytes, for LTSOFC under
+hydrogen atmosphere. Under air atmosphere, an ionic conductivity of 0.015 S/cm at 600 ° C was recorded which is also
+greater than conventional SDC and GDC electrolytes at same
+temperature for SOFC under air atmosphere. Fig. 9 shows
+conductivity comparison of BSDC with conventional electrolytes under air atmosphere.
+It has been seen that conductivity increases with increase in
+temperature. With aging, no material degradation is occurred.
+As prepared material has shown stable conductivity with aging.
+Conclusion
+In this article BSDC-carbonate nanocomposites electrolytes
+are successfully synthesized by co-precipitation and wet
+chemical methods. Microstructure characterization by SEM,
+XRD and Raman Spectroscopy conﬁrms the formation of
+BSDC nanocomposite electrolytes. BSDC nanocomposite
+electrolyte synthesized by wet chemical method has shown
+high conductivity at low temperatures when natural gas is
+used as fuel. For natural gas, the obtained ionic conductivities at low temperatures (600 ° C) under air and hydrogen
+atmosphere are 0.015 S/cm and 0.16 S/cm respectively which
+0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+0.02
+0.04
+0.06
+0.08
+0.10
+0.12
+0.14
+0.16
+0.18
+Power density (W/cm
+)
+Cell voltage (V)
+Current density (A/cm
+)
+C
+C
+C
+C
+Fig. 6 e FC performance LSDC-carbonate [Sample-2] under
+natural gas.
+0 300 600 900 1200 1500
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0 100 200 300 400 500 600 700 800 900 100011001200130014001500
+Power density (mW/cm
+)
+Cell voltage (V)
+Current density (mA/cm
+)
+Fig. 7 e FC performance BSDC-carbonate [Sample-3] under
+natural gas.
+Fig. 8 e FC performance BSDC-carbonate [Sample-4] under
+natural gas.
+international journal of hydrogen energy xxx (2016) 1 e86
+Please cite this article in press as: Ahmed A, et al., Highly efﬁcient composite electrolyte for natural gas fed fuel cell, International
+are signiﬁcantly higher than the conventional SDC and GDC
+at similar conditions. These synthesized electrolytes offer the
+possibility to reduce the working temperature of SOFC. The
+FC containing BSDC-carbonate (sample 3) as electrolyte gives
+excellent performance with maximum power density of
+350 mW cm − 2 at 550 ° C. This high conductive nanocomposite
+electrolyte for Low Temperature Solid Oxide Fuel Cells
+(LTSOFCs) are appropriate for natural gas as fuel and provides a way forward to commercialization of the FCtechnology.
+Acknowledgements
+A start-up research grant funded by the HEC Pakistan (No.
+PM-IPFP/HRD/HEC/2012/3597), COMSATS Research Grant
+Program (CRGP) and research grant from the Swedish
+Research Council (VR, Contract No. 621-2011-4983) are
+gratefully acknowledged.

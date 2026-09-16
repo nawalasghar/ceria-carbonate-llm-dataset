@@ -1,0 +1,932 @@
+Citation: (review paper — see data/papers/pdf/1.pdf)
+DOI: 10.1016/j.mtener.2019.100373
+Source text: full text
+
+Functional ceria-based nanocomposites for advanced lowtemperature (300 e600 ° C) solid oxide fuel cell: A comprehensive
+review
+Rizwan Raza a, b, *, Bin Zhu c, d, **, Asia Ra ﬁque a, Muhammad Raza Naqvi e, Peter Lund f
+a Clean Energy Research Lab (CERL), Department of Physics, COMSATS University Islamabad, Lahore Campus, Lahore, 54000, Pakistan
+b Department of Chemical and Biological Engineering, Chalmers University of Technology, Kemigården 4, S-41296, G €oteborg, Sweden
+c Jiangsu Provincial Key Laboratory of Solar Energy Science and Technology, School of Energy and Environment, Southeast University, Nanjing, 210096 ,
+China
+d Energy Research Center, Southeast University, No. 2 Si Pai Lou, Nanjing 210096, China
+e Department of Engineering and Chemical Sciences, Karlstad University, Sweden
+f Department of Applied Physics, Aalto University, 00076, Aalto, Finland
+article info
+Article history:
+Received 17 August 2019
+Received in revised form
+26 November 2019
+Accepted 29 November 2019
+Available online xxx
+Keywords:
+Ceriaecarbonate
+Superionic
+Low-temperature fuel cell
+NANOCOFC
+Interface
+abstract
+There is world tendency to develop SOFC to lower temperatures and two technical routes and approaches are going in parallel. One is to use thin ﬁlm technology, focussing on reducing the electrolyte
+thickness on conventional electrolyte, e.g. YSZ (yttria-stabilized zirconia) and SDC (samaria-doped ceria)
+to reduce the cell resistance i.e. to lower the operational temperatures. Another technique is to develop
+new materials, e.g. functional nanocomposites. This paper presents a state-of-the-art of nanocomposite
+electrolytes-based advanced fuel cell technology, i.e. low-temperature (300 e600 ° C) ceria-based fuel
+cells, a new scenario for fuel cell R &D with an overview of important aspects and frontier subjects.
+A typical nanocomposite has a core eshell type structure in nano-scale, in which ceria forms a core and
+a salt, e.g. carbonate or another oxide develops a shell layer covering the core. The functionality of
+nanocomposites is determined by the interfaces between the constituent phases, which can lead to super
+or fast ions transport (H þ and O2− ) at interfaces. Ionic conductivities >0.1 S cm− 1 already at ~300 ° Ch a v e
+been reported. Five major characteristics of nanocomposites have been identi ﬁed as important to their
+properties and applications in fuel cells: i) advanced materials design based on non-structure or interfacial properties/mechanisms; ii) dual or hybrid H þ and O 2− conduction; iii) interfacial super-ionic
+conduction; iv) transition from non-functional to functional materials; v) use of interfacial and surface
+redox agents and reactions. In the fuel cell context, it is refer to these functional nano-composites as
+NANOCOFC (Nanocomposites for Advanced Fuel Cells) to distinguish them from the traditional SOFCs
+and to be oriented to a new fuel cell R &D strategy.
+© 2019 Elsevier Ltd. All rights reserved.
+1. Innovations related to the state-of-the-art
+In the last 20 years, the use of (coal, natural gas, oil, etc.) has
+increased (more and more as time goes on), with a similar sharp
+increase in the Global warming and greenhouse gas emission which
+causes the climate change of the world. Therefore, Energy devices
+are the major challenges now a days.
+The need for clean and environmentally friendly technologies
+for the generation of power with reduced or zero emission which
+effect on the surrounding conditions or on the health has
+become very crucial. Numerous conversion energy technologies
+are available, such as micro gas turbines, Stirling engines, solar
+systems, and devices that make electricity from hydrogen known
+as fuel cell. The fuel cell systems offer many advantages
+including heat and power with more than 70% ef ﬁciency as
+compare to other devices. Another beauty of this device is to use
+as polygeneration system. Of these, SOFC are the most good
+because they offer high system ef ﬁciency with fuel ﬂexibility.
+The YSZ (yttria-stabilized zirconia) based conventional SOFCs is
+working at high temperatures 750 ° C. Due to its high operating
+* Corresponding author. Clean Energy Research Lab (CERL), Department of
+Physics, COMSATS University Islamabad, Lahore Campus, Lahore, 54000, Pakistan.
+** Corresponding author.
+E-mail addresses: razahussaini786@gmail.com (R. Raza), binzhu@kth.se (B. Zhu).
+Contents lists available at ScienceDirect
+Materials Today Energy
+journal homepage: www.journals.elsevier.com /materials-today-energy/
+https://doi.org/10.1016/j.mtener.2019.100373
+2468-6069/© 2019 Elsevier Ltd. All rights reserved.
+Materials Today Energy 15 (2020) 100373
+temperature, its cost as well as thermal issues are big challenge.
+To lower the operating temperature is the best solution to
+address these challenges [ 1e6]. In the literature, number of
+methods have been attempted to lower the operating temperat u r e ,i . e .t h i n -ﬁlm development, doping of the materials etc.
+(600e800 ° C) [ 2e6].
+In order to reduce the operating temperature of SOFC, many
+alternate materials have been developed which are structure based
+e.g. cubic ﬂuoride (doped ceria) and O 2− conducting oxides [7e12],
+perovskite-type oxides [ 9], proton conducting ceramics, apatite
+based and some other [ 10e14]. The famous expert in energy devices, Mr. Goodenough said that SOFC should be developed by
+design from structures [ 15]. All these are single-phase materials
+focussing on creating some oxygen vacancies or with small existing
+vacancies e.g. apatite-based material. However, due to some limitations, it couldn't show good enough ionic conductivities (0.1 S/
+cm, @ 600 ° C). The doped ceria-based electrolyte materials have
+gain great attention as an oxygen ion conductor for SOFC [ 4e6]. It
+has high ionic conductivity as compare to conventional material
+YSZ at lower temperature which is reported 0.01 S/cm @ 500 ° C
+with rare-earth-doped [ 8,12].
+In order to improve the conductivity of the material to operate
+SOFC at lower temperature, recent research in conventional SOFC
+based on single-phase materials (SPM), such as YSZ and ion-doped
+ceria, has focused on developing grain boundary and interfacial
+properties [ 16e20]. Extensive efforts have been made to develop
+nano-scale particles and associated surface morphology to enhance
+grain boundary and interface conductivities. Two issues are still
+challenging: a) the stability of SPMs in nano-scale, and b) the still
+insufﬁcient conductivity. Conventional nano-structured SPMs
+cannot be used for SOFCs at several hundred oC due to destruction
+of the nanostructures. Though nanoparticles can create large particle surfaces, these particles are not stable enough due to their high
+surface energy in an active and chemically unbonded situation.
+Furthermore, nano-scale ceria materials enhance electronic conduction, not ionic conduction [ 21]. When operating at 600 ° Co r
+below, it is possible to use cheaper interconnecting materials
+(stainless steels) and sealing materials. At these temperatures, bioalcohols (methanol and ethanol) may be used with advantage. Fuel
+cells operating at lower temperatures ( <600 ° C) also offer faster
+start-up time and reduced thermal cycling, which are important in
+practical applications [ 22].
+One of the potential solution was provided, during the European
+R&D programs (FP6) named as NANOCOFC (Nanocomposites for
+Advanced Fuel Cell innovation, www.nanocofc.com), was set up to
+create and improve low-temperature SOFC in view of nanocomposites. Under this platform an EC e China network was also
+established. In this program, ceria two-phase composite materials
+was developed from nano-and composite advances and have been
+effectively exhibited at low temperatures (LT: 300 e600 ° C) SOFCs
+[23,24] and brought about a rising R &D ﬁeld, which is being followed up by experts around the world. Since 2010, more than 300
+works from everywhere throughout the world, particularly from
+Sweden, Portugal, the UK, France, Finland, Turkey, the USA, Japan,
+China, Pakistan, India, Malaysia and so forth i.e. mostly are reported
+here [22e291], in a particular area of ceria e carbonate composites
+and signi ﬁcant performance enhancement, where the spearheading work was done by Zhu [ 63e72].
+In the latest developments, extending the nanocomposite
+approach to develop functional hybrid electronic and ionic conductors, a completely new ﬁeld of the electrolyte-free fuel cell
+(EFFC) has been explored [94e99]. The removal of the electrolyte in
+the FC would signify a true breakthrough in a long history of more
+than 170 years of FC research and development. This work is
+highlighted by Nature Nanotechnology Research Highlights: "Three
+in One" [ 93].
+Therefore, there is a need to review this ﬁeld: the state-of-theart and future trend to further development of advanced ceriabased fuel cells based on the NANOCOFC as a new scenario of fuel
+cell R &D. This review covers the synthesis and characterization of
+the material for the nanocomposites as electrolytes; electrical and
+ionic transport properties; a brief review on NANOCOFC science
+advances in material design, interfacial super-ion conduction, dual
+Hþ/O2− conduction, non-functional to functional materials and
+interfacial on-site redox at nanoparticle sites; FC applications and
+new reaction mechanisms and principles from electrolyte-based
+MEA to the electrolyte-free FCs.
+1.1. Ceria-based composite electrolytes
+Most activities on low-temperature ceria-based fuel cells
+(LTCFC) or LT-SOFCs reported in the literature have focused on the
+carbonate-ceria composite. If it considers the ceria reduction issue,
+in fact, one of the advantages of the ceria composites is to solve this
+ceria reduction problem and, as reported in many publications
+[70e290], the composite can solve this problem well. In
+ceriaecarbonate composites, ceria reduction can be well avoided,
+e.g. there is a core eshell structure to address electrons localized in
+the ceria, which are not able to move from one ceria particle to the
+next since the carbonate shell does not conduct the electrons or
+allow them to move [ 201]. To some extent this ceria ecarbonate
+composite system is also thought-about as a new hybrid integrated cell technology of between SOFC and the MCFC (molten
+carbon fuel cell). It uses the carbonate mutually necessary part with
+a vital link to MCFC, however within the ceriaecarbonate and LTCFC
+most functions aren't supported the carbonate anions. By adjustment of the composite's composition, i.e. a little of the carbonate,
+up to 50 wt%, it can operate the LT-SOFC in MCFC mode; or in SOFC
+mode if the carbonate is a smaller amount than 40 wt%, and at
+moderately high temperatures, typically of 500 e600 ° C, in most
+cases, underneath associate degree H2/air atmosphere, wherever
+the co-ions of H þ and O 2− generally create the cell functions.
+The optimized ratio between the ceria and carbonate determines not only the apparent composition, but also the microstructure, as well as the fuel cell operational conditions. As an
+example, if it uses two phases in comparable particle sizes, the
+60:40 weight ratio is a critical point. If the ceria content is at or
+above this, the device maintains the SOFC model; below it, the
+MCFC. Even this not support to MCFC gases, the device still has to
+operate under the SOFC mode since there is no external carbonate
+ion supply. In addition, if the operating temperature does not reach
+the carbonate melting point, then the device has no MCFC mode.
+Depending on the applications, for easier operation, it prefer the
+SOFC mode, which can maintain the solid state with less of an
+almost melting carbonate side-effect, e.g. the nanocomposite
+approach was used to prepare 20 wt% or less carbonate to form the
+new microstructure, a core eshell structure. In this case, a few
+nanometres carbonate shell layer are fully bounded by ceria core,
+which is not free to melt, to form a new type of ceria core ecarbonate-shell composite particles. Thus, a good SOFC operation is
+maintained; on the other hand, the joint SOFC and MCFC mode can
+give a signi ﬁcant enhancement of device performance. For
+example, Li Yongdan, (2009), reported 1700 mW/cm 2 at 650 ° C
+using the ceria ecarbonate composite electrolyte fuel cell, and also
+proposed a tri-ion transport mechanism and model [ 105].
+The one of the important features of the LTSOFCs is hybrid ion of
+the H þ and O 2− function, which is unique from the reported fuel
+cells and therefore a new R &D scenario.
+R. Raza et al. / Materials Today Energy 15 (2020) 1003732
+In 2012, the Wang et al. reviewed very brie ﬂy about 3C (ceria
+carbonate composite) materials work done till 2012. There are
+more than 200 papers have been published after this review and
+most of the challenges were not addressed. The crux of the ceriacarbonate was not reported in this article. The gist of 3C materials
+for LT-SOFC was discussed, however, the authors could not explain
+mechanism clearly [ 158].
+Later, L. Fan et al. also reviewed in very detail about ceriacarbonate materials. In this review article, he covered nicely the
+experimental work related to ceria carbonate materials which were
+published till 2013. But there was theoretical part was not discussed and reviewed. Also, after 2013, several developments have
+been made in this emerging area and potential materials. Therefore,
+this paper had reviewed with minor discussion about theocratical
+ceria-carbonate calculations and mechanisms about ceria carbonate materials especially for low temperature solid oxide fuel cell
+[281].
+Further, Zhao et al. also reviewed the ceria-carbonate materials.
+But in this review paper, the author reported the progress of intermediate temperature SOFCs especially with non-hydrogen fuels
+till 2013. The ceria-carbonate phase was discussed in the intermediate temperature range, i.e. 500 e800 ° C[ 162].
+2. Material preparations
+There are two basic methodologies available to prepare ceriabased composites and nano-composites for LT-SOFC. A common
+two-step process to prepare ceria ecarbonate composite electrolytes is described in the following:
+2.1. Step 1
+A co-precipitation method was used to prepare the
+Ce0.8Sm0.2O1.9 samaria-doped ceria (SDC) powder. The cerium nitrate {Ce(NO 3)3$6H2O} and samarium nitrate {Sm(NO 3)3$6H2O}
+were used to obtain the precursory solution. The precipitate was
+washed in de-ionised water and ﬁltrated after a pure ethanol
+washing and drying for 24 h. The dried powders were sintered at
+700 ° C for 2 h to form the SDC.
+2.2. Step 2
+SDC prepared as above was mixed with a carbonate according
+to the composite of SDC-20 wt% (Li 2CO3:Na2CO3 ¼ 2:1 M ratio).
+The sintering temperature was 680 ° C of this prepared composite
+for 30 min and quenched it at room temperature. Then the resultants were ground into powder form to be used as an
+electrolyte.
+The second method is based on direct preparation of a ceriabased nanocomposite electrolyte using a one-step co-precipitation to overcome the drawbacks of the above two-step process [71]:
+a) co-precipitation of SDC precursor and b) mixing SDC and carbonate, followed by two steps of sintering. The stoichiometric
+amounts of 80 e90 mol% Ce(NO 3)3$6H2O and 10 e20 mol%
+Gd(NO3)3$6H2O were mixed. This mixture was dissolved in deionised water and stirred for 1 h at 100 ° C. After that, a solution
+of carbonate (Na 2CO3 or a mixture of Na 2CO3eK2CO3) with molar
+ratio e.g. (Ce 3þþGd3þ): CO3
+2− ¼ 1:2, was added into the SDC based
+solution to induce precipitation. The obtained precipitate was
+washed 2e3 times in de-ionised water, and then ﬁltrated for drying
+at 120 ° C in an oven for 24 h. The precursor was sintered at 800 ° C
+for 4 h. Then this material was ground to obtain a homogeneous
+powder to be used as an electrolyte. After establishing these techniques, researchers are now working on different techniques e.g.
+ball-milling, sol-gel and wet chemical methods.
+3. Material design and development
+Fig. 1 illustrates the design of the NANOCOFC approach, which is
+based on non-structural and interfacial functionalities. Basically,
+there are no stringent restrictions on the structure as long as
+interfacial functionalities can be built. This type of design offers a
+number of important functionalities: a) a lower activation energy
+to drive ion transport, since defects are created on particle surfaces/interfaces which, in the fuel cell context, means high ionic
+mobility; b) particle surfaces and interfaces do not limit the concentration of defects of the mobile ions, thus creating high concentrations of ions; c) the interface between the carbonate and
+SDC phases, there is long-range ionic transport paths are set upon,
+which leads to super-ionic conductivity and to a kind of highway
+for ion transport.
+Fig. 1. Non-structure design based on creating interfacial functionalities between two constituent phases.
+R. Raza et al. / Materials Today Energy 15 (2020) 100373 3
+There are lot of ceria esalt composite electrolytes have been
+studied, e.g. ceria chloride [ 66,68,73,74], ceria hydrates [69,70], and
+ceria carbonates [ 81e92]. Mostly have reported that the doped
+ceria has the crystalline and the salts are amorphous phases. The
+reported work of ceria salts [ 81e92] are SDC eNaCl and
+SDCeCaCO3. XRD shows diffraction of both constituent phases.
+Composites with a second salt phase in amorphous materials are
+also common, e.g. ceria eLiNaecarbonates. However, in the XRD
+analysis only ceria could be found, and no carbonate was observed
+(Fig. 2 a).
+Even the co-doped effect of ceria ecarbonate [ 122,123]h a s
+been studied with different compositions and one is shown in
+Fig. 2 b. The single phase of CeO 2 can be clearly seen, that strontium and samarium have been doped completely. It has been also
+reported that all the co-doped ceria electrolytes have a cubic
+ﬂuorite structure but slightly shifted of angle with co-dopant
+of Sr.
+The ﬁrst nano-scale core eshell structure was successfully
+developed for SDC eNa2CO3 [108] and the scanning electron microscopy (SEM) as used to study the morphology of the resulting
+nanocomposite (Fig. 3 ). The SDC eNa2CO3composite particles have
+a diameter between 20 and 100 nm. But the particle size of prepared composite of SDCeLiNaCO3 using two-step process are larger
+comparatively to the single step based composite electrolyte as
+shown in Fig. 4 . In this ﬁgure, it can be clearly seen that the interfaces between the ceria and carbonate phases. The carbonate
+forms particles of several mm and also has very inhomogeneous
+morphologies. It shows two-phase particles separation regions
+with clear Tangney-shaped salt-rich particles. Meanwhile, for a
+ceriaecarbonate nanocomposite, the homogeneous distribution of
+Fig. 2. a) XRD patterns for ceria (SDC) and SDC ecarbonate composite materials, b) Xray diffraction pattern for different compositions of co-doped ceria ecarbonate
+electrolytes.
+Fig. 3. The morphology of the nanocomposite electrolyte.
+Fig. 4. SEM image for the normal SDC eLiNaCO3 composite.
+Fig. 5. The SDC eNa2CO3 nanocomposite electrolyte.
+R. Raza et al. / Materials Today Energy 15 (2020) 1003734
+carbonate-coated ceria forms core eshell particles as shown in
+Fig. 5 .
+In Fig. 6 , the high-resolution images of ceria particles both as
+pure SDC (samarium-doped ceria, 6a) and SDC in a composite (6b)
+has been shown taken by TEM. Further the “d” spacing of the [ 111]
+is calculated which is 0.317 nm and it is little bit smaller than pure
+CeO2 (0.357 nm) as shown in Fig. 6b, it might be due to the partial
+substitution of Sm atoms in the CeO 2.
+The ionic transportation via interfaces is also can be due to
+lattice distortions and accumulation. It has been also observed that
+the SDC carbonate shows the core shell shape where the core part is
+SDC and shell is due to carbonate which is seems to be as amorphous. In this core shell the thickness of the interface is 5 e10 nm as
+shown in Fig. 6 b[ 108].
+Other functional nanocomposites have been developed with
+similar core eshell structures, e.g. ceria eLiZneoxide two-phase
+material nanocomposite where the shell is LiZn-oxide with ceria
+is the core. Both core and shell layers are in nano-scale. The bright
+and dark-ﬁeld TEM image displays the white loops of the shell of
+LiZn-oxide on the doped ceria, SDC (see Fig. 7 ).
+The clear interface region in the core eshell structured nanocomposite, in either the carbonates or LiZn-oxide with the SDC
+two-phase nanocomposite, plays an important role for ionic
+mobility and conductivity. This interface facilitates the transportation of oxygen ions and protons. This was named as “superionic pathway ” between the two phases at lower temperature
+(300e600 ° C) where ions can move.
+3.1. Electrical properties and ionic transport
+AC measurements: information on the electrical properties and
+ion transport properties of ceria composite systems is scarce.
+Impedance analysis of various SDCecarbonate composites has been
+done by, e.g. Boden et al. [ 109], but no conclusion on the ionic
+conduction mechanisms was made. Zhu Wei et al. [ 110] made a
+concentration cell to measure the carbonate-ion and protonic
+transport number in ceria ecarbonate composites and concluded
+that the carbonate ions are the dominant charge carriers, whereas
+oxygen ions and protons contribute less. This is quite the opposite
+when compared with extensive fuel cell measurements that indicate a much more dominant role for H þ and O 2− . The different
+interpretations demonstrate the complexity of multi-ion functions
+in ceria esalt two-phase composite systems and the limitations of
+conventional material characterization. It would be of high scientiﬁc value to measure directly the O 2− and H þ conductivities in
+ceriaecarbonate composite systems. These are the characteristics
+of such composite material. Various electrical characterizations
+have been applied to determine speci ﬁc ion transport properties.
+For metal ions, e.g. Li þ,N aþ in carbonates, as fuel cell source ions,
+Hþ and O 2− moving in the salts would be a preferable situation to
+promote their transport properties. In the case of metal ions, the
+fuel cell voltage and internal electrical ﬁeld will drive these metal
+ions to move also, but after they form a concentration to reach a
+new balance distribution according to the internal electric ﬁeld, the
+movement will cease. Since the metal ions are not source ions,
+there is no external supply and they also do not join the fuel cell
+electrochemical reaction. In this case, they may form some additional polarization effect on the fuel cell process. Still, this effect
+does not seriously hinder the power output, since the ceria esalt
+composite electrolyte fuel cell demonstrates much better performance than that of the pure ceria non-composite electrolyte fuel
+cells. Besides, several publications have reported determining the
+contributions of multi-ions and found that the proton ion is the
+dominant charge carrier [ 57].
+The current literature provides enough evidence of the coexistence of several charge carriers in these composite systems, but the
+Fig. 6. a) High resolution TEM images of ceria particles. b) High resolution TEM images
+of doped ceria particles (SDC).
+Fig. 7. SEM image for the core eshell LiZn-SDC particles.
+R. Raza et al. / Materials Today Energy 15 (2020) 100373 5
+exact role of each species as a function of relevant parameters is
+poorly understood and should be further investigated. The contributions from carbonate and oxygen ionic and protonic conductivity
+depend on e.g. the electrolyte composition and temperature, but
+also on microstructures and on in-situ atmospheres.
+Because the SDC ecarbonate electrolytes contain multi-ion
+species, single AC impedance measurements cannot fully characterize the conductivity of each species. It has been observed that
+the mobile charge carriers contribution is re ﬂected by the AC
+conductivity, i.e. S i where i stands for all mobile charge carriers, for
+example, in air atmosphere, CO 3
+2− ,N a þ,L i þ, and O 2− , while in
+hydrogen, Hþ will be introduced additionally.
+Bodéen et al. has detailed study on the AC conductivities of an
+SDCecarbonate composite system in different gas atmospheres but
+have not reported the ionic mechanism [109]. It can be explained by
+the fact that all mobile ionic species contribute to AC conductivity.
+The respective role and contributions to conductivity from oxygen
+ions and protons thus remain unclear. Anyway, the latest publication made a measurement for the electrical conductivity of such a
+ceriaecarbonate composite material that was stable for over 1500 h
+[28].
+DC measurements: Since the ceria-based composite systems
+have multi-ion conductions, standard AC impedance measurements cannot fully characterize the material's electrical properties,
+especially to identify the contributions of each ion species. Therefore, the most common source ions in H 2/air fuel cell are H þ and
+O2− therefore the determination of the contribution of these ions
+are very necessary. For this purpose, both DC polarization and fuel
+cell durability measurements have been reported very recently, as
+strong evidence of such co-ion transport phenomena. It is very
+important to identify two kinds of ion features: one is intrinsic, e.g.
+O2− and CO3¼ existing in origin; and the other is extrinsic, e.g. H þ
+only introduced in-situ to the environment with H 2 or water
+containment [23].
+3.2. H þ/O2− conductivities measured by polarization method [ 57]
+The four-probe technique is excellent tool to study the ceria
+composite electrolyte therefore, her it has been used to ﬁnd the
+ceriaecarbonate conductivity at different gas atmospheres with
+different temperature range under two different gas atmospheres,
+5% hydrogen and air which is shown in Fig. 8. It can be clearly seen
+that the proton conductivity (H þ) is dominant compared with the
+oxide ion conductivity (O 2− ). Further, the Wagner eHebb method
+was used to observe the electronic conductivity using the
+ion-blocking electrodes, but it was too small at around
+3 × 10− 4 Scm− 1 at 600 ° C and therefore it has been neglected. A
+conductivity transformation was observed at 300 ° C. The activation
+energy was calculated using Arrhenius equation which was around
+0.272 eV, as reported before [ 108]. But nearly constant oxygen ion
+conductivity is observed at different temperature range, corresponding to an activation energy of 0.896 eV, it is very close to the
+reported value by Bellino et al. [ 17]. It also evidence of the conduction of protons between the SDC and carbonate, while the lack
+of any signiﬁcant effect on oxygen ion transportation may be due to
+limitations from its bulk conduction mechanism. This interface can
+be called “High way” for proton transport which was introduced by
+carbonate phase.
+Ion-transport number: With respect to proton conduction, to
+directly elucidate the presence of proton conduction, the iontransport number of protons should be measured by using a concentration cell. In DC conductivity measurement under hydrogen
+atmosphere, only protons and electrons can serve as charge carriers. In order to con ﬁrm the proton conduction, a hydrogen concentration cell: (5% H 2) silver/nanocomposite electrolyte/silver
+(100% H 2) was constructed, and some preliminary results as
+depicted in Fig. 9 .
+The obtained voltage is well matched with the theoretical EMF
+in the hydrogen gas concentration cell, which shows that the
+nanocomposite electrolyte is a proton conductor when hydrogen
+was used.
+Actually, the proton conduction could play a major role in
+composite electrolyte as reported before. For example,
+SDCecarbonate composites is proton conductor as reported by
+Huang et al. only based on the water observation at cathode side
+during fuel cell testing [ 103].
+3.3. Hybrid ion conduction in ceria carbonated electrolyte (H þ and
+O2− conduction)
+As per NANOCOFC theory established by Zhu, there are two
+ways to develop hybrid ion conduction-based electrolyte. i) using
+interfacial material design i.e. core shell material (carbonate @
+ceria) as reported in many papers [ 280] and ii) is to develop super
+Fig. 8. Hþ/O2− conductivities measured by polarization method.
+ Fig. 9. EMF values for hydrogen concentration cells.
+R. Raza et al. / Materials Today Energy 15 (2020) 1003736
+ion conduction i.e. AgI based electrolyte where Ag þ ion shows high
+ionic conductivity. The pure SDC always shows the O2- ion conductivity but in a ceria carbonate composite containing one molten
+phase carried by another rigid phase; this would form an arti ﬁcial
+super-ion conductor structure. Therefore, ionic conduction is due to
+molten phase i.e. many ceria carbonate-based electrolyte has been
+reported with high performance (0.3 W/cm 2 to 1.0 W/cm2) at very
+low temperature from 300 to 600C 0.3 Wcm − 2 [66e73].
+In hybrid ion conduction, the major ion contribution is from
+proton ion “Hþ” and oxygen ion “O2− " conduction in ceria esalt
+composites [ 92]. The same phenomena were also discovered in
+ceria composites. Both fuel cell and electrolysis studies have proven
+that ceria-based composites have dual H þ/O2− conduction
+[66e69,83,85]. In some cases, sole proton conductivity can also
+occur, even in composite based on the oxygen-conducting ceria
+phase [ 123]. The recent work on EMF measurements, on both
+hydrogen and oxygen concentration cells, has further proved the
+dual H þ/O2− conduction [ 52]. However, making a standard comparison between samples and the results from the literature will be
+difﬁcult, as the interfacial properties and conductivities depend on
+a range of parameters, e.g. material compositions, synthesizing
+processes and conditions, composite particle size, morphology,
+surface areas and two-phase architectures, and even on the environment (H 2,O 2 and fuel cell), etc., which may all yield very
+different interfacial properties, ﬁnal material electrical properties
+and Hþ/O2− conductivities [52].
+There is a strong case for interfacial mechanisms for the ionic
+transport. The bulk ion conduction may not dominate the material's
+conducting properties in this case. The two- or multi-phase interfacial mechanisms can create new material functions originating
+from the effects of boundaries/interfaces that increase signi ﬁcantly
+when the size of the nanoparticles decreases. The grain boundaries
+are occupied by a second phase, especially by one with H þ conductivity, which will create proton-conducting phase/interfaces
+and interfacial paths for proton transportation. It may simultaneously decrease the oxygen uptake in the host phase structure and
+consequently effect the oxygen ion conductivity. In this way, the
+second phase and the interfaces built between the phases can
+contribute signiﬁcantly to the Hþ conductivity, which enhances the
+overall conductivity of the two-phase nanocomposites.
+Unlike protons, the oxygen ions are intrinsic mobile species that
+were created when the materials were synthesized. Protons are
+usually extrinsic and introduced in-situ as the materials interact,
+for example, with hydrogen. The ionic conductivities of H þ and O2−
+cannot be determined under the same conditions. For example, AC
+impedance measurements are commonly used to determine the
+O2− conductivity in oxides using both block or unblock electrodes
+because of their intrinsic nature, while H þ conductivity in ceria
+composites has to be measured in an H 2-containing atmosphere
+with unblocking electrodes so that protons can be introduced into
+the sample. Based on both the intrinsic and extrinsic features, the
+total ionic transport numbers of the material do not equal unity, i.e.
+tO
+2− þ tH
+þ s 1. This is easily understood as these are dealing with an
+open system where extra protons are introduced from outside (fuel
+cell). Conventional oxygen ion-conducting oxides behave on the
+other hand as a closed system as long as their defect chemistry and
+situation are not changed in the testing environment.
+The reason for the negligible bulk effects/mechanisms in twophase composite materials is that in the ceria-based composites,
+especially at nano-scale, there are already high oxygen defects on
+the ceria surfaces. When the second phase is introduced, e.g. carbonates, this constructs a high defect interfacial region and pathways between the two phases. Oxygen ions will take the lower
+energy transport paths in the interfacial region instead of the
+higher energy barrier in the structural bulk via the oxygen
+vacancies. On the other hand, the second phase of the carbonates
+can be molten or softened at elevated temperatures, leading to
+highly mobile carbonate anions and cations, e.g. M þ (Liþ,N a þ,K þ
+for alkaline carbonates that are often used in ceria ecarbonate
+composites). In such circumstances, M þ (from carbonate) eO2−
+(from ceria) interactions promote oxygen ion transport by highly
+mobile cations, as shown in Fig. 10.
+Similar to the above mechanism, interactions between the
+ceriaecarbonates in the two-phase con ﬁguration, and more speciﬁcally the O 2− eMþ interaction, form M þ vacancies in the carbonate. Protons can easily be captured by the M þ cation vacancies.
+Protons can also attach to either oxygen ions on ceria particle
+surfaces or carbonate anion groups to form intermediate HCO 3
+−
+proton carriers [ 67]. At certain temperatures, the carbonate's
+structural lattice can be softening or melting, leading to the carbonate anions being in rotation or translational vibrations, which
+can promote the transportation of protons ( Fig. 10 ). The above
+mechanisms present a model in which both H þ and O 2− can exist
+and be transported through interfacial regions on the constituent
+two-phases/particles edge.
+Later, in order to study the proton ion mechanism in ceriacarbonate electrolyte, a Swing model was proposed by Wang
+et al. [57]. In this model, they reported that the proton conduction is
+happened in the interface of the ceria carbonate when, meta-stable
+hydrogen bonds with oxygen ions forms at that place from ceria
+and carbonate sides. The stretching vibration of C eO bonds is
+increasing only because of the amorphous carbonate phase, when
+the operating temperature is above the transition temperature. Due
+to this increasing bond effect, hydrogen bond is formed at interface
+of the ceria-carbonate which cause the proton transportation
+through this interface under fuel cell atmosphere, where the role of
+carbonate is to bridge the for protons to move (transfer) from one
+hydrogen bond to another. This reported model proton ion conductivity is showing less that oxygen ion conductivity while I many
+papers, the proton ion conductivity is dominated [ 55].
+Further, the latest developments, a certain porosity for the
+electrolyte possesses extra advantages. For example, porous YSZ
+and ceria materials can create additional signi ﬁcant proton conductivities which can bene ﬁt SOFC applications [ 288].
+3.4. Interfacial super-ionic conduction (SIC)
+Super-ionic conduction (SIC) in ceria ecomposite materials was
+ﬁrst discovered by Schobe [ 114,115]. SIC appears through a structural change from a low conductive phase with a lower structural
+Fig. 10. Interfacial conduction mechanisms for O 2− and H þ.
+R. Raza et al. / Materials Today Energy 15 (2020) 100373 7
+symmetry to a higher one. A typical example is AgI, using US ASME
+aerograph to introduce little also. At the end of last century, it has
+been seen that the SIC reported very high ionic conductivity by
+using the solid state reaction method. This way certain structures
+accommodate SIC preoccupied many scientists throughout the
+latter part of the last century. SIC can lead to extremely high conductivity and thus high current and power outputs, leading to
+excellent SOFC performances for advanced applications. Therefore,
+it is a key subject for both basic and applied research.
+Classical oxygen ion conduction via lattice defects, i.e. oxygen
+vacancies created by the defect mechanism, is a common phenomenon occurring in solids, and thus not quoted as SIC. As a
+consequence, a high temperature is required to create suf ﬁcient
+conductivity. A typical example is YSZ (yttria-stabilized zirconia),
+having a conductivity of 10 − 1 S/cm at ~ 1000 ° C. The oxygen ion
+conduction and theory in YSZ has been known for over 100 years
+since Nernst ﬁrst discovered it. It has great importance in SOFCs
+and has dominated SOFC science and technology since the 1930s. In
+the YSZ single-phase, cation doping in lower valence than the host
+one is used to create oxygen vacancies in zirconia crystal, so oxygen
+ion conduction occurs via an oxygen vacancy mechanism concerning only bulk effects. To achieve higher ionic conductivity at
+very low temperature because the ion movement from oxygen
+vacancies is mostly thermally activated, therefore for such materials high temperature is needed. There is very high demand of such
+materials development for Low temperature SOFC.
+The innovative multi-functional composites (typical two-phase
+materials (TPMs) based on ceria) overcome the drawbacks of the
+SPMs. SOIC can be created/developed at low temperatures by
+handling of the interphases of nanotech-based ceria TPMs composite material. These new materials have realized 10 − 1 S/
+cm < 600 ° C, and has shown the required conductivity at very low
+temperature 300e600 ° C from very high 1000 ° C. Further, in order
+to understand the SIC in composites for the high conductivities in
+the composite Zhu et al. has reported in his work [ 113]. The TPM
+composites are also advanced in combinations of both proton and
+oxygen ion conduction. These advanced material innovations have
+resulted in promising next-generation fuel cell R&D[ 23]. SIC, based
+on TPMs possessing distinct natures being different from single
+phase materials, opens new horizons for the science and technology of SIC and SOFC.
+In composites, the SIC is determined by the interfaces, In this
+context, the interactions or coupling effects between the constituent phases and in particular the interfaces can in ﬂuence the conductivity and their properties, i.e. an interfacial mechanism. Fig. 1 1
+shows a typical example, the conductivity for SDC eNa2CO3,i n
+which a DSC trace insert corresponds to a temperature dependence
+of the conductivity. Both SDC and Na 2CO3 experience no phase
+changes at 200 e300 ° C, but SDC eNa2CO3 has undergone a phase
+transition and demonstrates at the same time a sharp leap in
+conductivity, i.e. SIC. TEM ( Fig. 6b) and XRD analyses further prove
+this interfacial mechanism, since in the XRD pattern there are only
+SDC re ﬂection patterns, indicating that there are no structural
+changes; meanwhile, Na 2CO3 existing in amorphous phase which
+was reported earlier [ 108].
+It can be concluded from the structure analysis that this superionic phase transition has not involved any structural phase
+changes. This has much to do with the interaction between Na 2CO3
+and SDC causing an order edisorder transition, or a glass transition,
+thus greatly increasing the conductivity. At elevated temperatures,
+this gives Na 2CO3 greater freedom, with a loose coordination and
+interactions with O 2− to facilitate the oxygen ion mobility. Theoretical calculations predict an ionic conduction activation energy
+below 0.2 eV for O 2− transport and 0.1 eV for protons [ 113] in this
+case.
+3.5. From non-functional to functional through interfacial factors
+Based on the advanced two-phase composite concept, it is thus
+possible to create functional materials from non-functional ones by
+making use of interfacial properties and functionalities. This is
+another characteristic against the conventional structural design on
+material functionalities. One typical example is the LiAlO 2 and
+carbonate composite system ( Fig. 12 ), where interfaces and ion
+defects can be created between the two constituent LiAlO 2 and
+LiNaecarbonate phases. Protons and oxygen ions may be created
+through the following mechanisms:
+CO3
+2− ¼ CO2 þ O2− and Hþ þ CO3
+2− ¼ HCO3
+−
+As discussed in earlier section, the O 2− ions can be transported
+through the interfaces but LiAlO 2 and carbonate bulk conducts O 2−
+and protons also prefer interfaces. In this case, the two nonfunctional phases create a functional interface which can transport both H þ and O 2− and can thus be employed for fuel cell applications. This concept has been proved experimentally, where a
+fuel cell performance of 400 mW cm − 2 was achieved at 650 ° C with
+a LiAlO 2ecarbonate composite made from commercial chemicals
+with LiAlO2 particle sizes of several mm[ 118]. The LiAlO2ecarbonate
+nanocomposite electrolytes were successfully developed using the
+Fig. 1 1. Temperature dependence of the conductivity for the SDC eNa2CO3 in which a DSC trace is inserted.
+R. Raza et al. / Materials Today Energy 15 (2020) 1003738
+wet chemical method [ 118], leading to lower operational temperatures and the fuel cell performance was about 400 mW cm − 2 at
+500 ° C and the LiAlO 2ecarbonate nanocomposite electrolytes
+showed an ionic conductivity >0.2 S/cm at 500 ° C. Later, a new
+LiFeO2eLiAlO2 composite electrolyte with high ionic conductivity
+is reported by Tao et al. [ 195].
+3.6. Interfacial redox in NANOCOFC materials
+Various second phases, e.g. salts and oxides, have been introduced to enhance the ceria phase stability in reducing atmospheres, resulting in successful LT-SOFC applications [ 22e50].
+Especially, in the core eshell structure of SDC eNa2CO3 nanocomposite, the SDC core nanoparticles were covered by a secondphase material shell, e.g. Na 2CO3 [108]. This resulted in an SDC
+with high stability and good fuel cell performance [ 70,90].
+The redox may become important for developing functional
+composite electrolytes and electrodes. A typical example could be
+to overcome the electronic conduction of ceria electrolytes to make
+these more useful for SOFCs. The ceria is also used in the catalyst
+due to its redox property for decades. It is only because of reduction
+of Ce4þ to Ce3. Now taking advantage of Ce4þeCe3þ, therefore many
+reported works on two-oxides with redox properties, e.g. MCeO 2
+where (M ¼ Gd, Sm, Mn, Ca, Y, Pr, etc.) eMxOy (M ¼ Bi,Ti, Co, V, Cu,
+Ni, etc., where x ¼ 1t o3 ,y ¼ 1 to 4).
+Introducing a second phase, e.g. an electron acceptor phase,
+which can effectively accept electrons as a redox agent, such a
+composite material turns into an effective pure ionic conducting
+electrolyte compared to a single ceria material ( Fig. 13 ). Similar
+mechanisms can be applied to composite electrodes. This could be
+accomplished by a large amount of nano-redox catalyst particles in
+the composite electrode, e.g. nano-NiO particles highly distributed
+and coating the ceria particles.
+The cathode often limits the LT-SOFC performance more than
+the anode, especially at lower temperatures (300 e500 ° C). New
+nanocomposite materials for the cathode are useful to enhance the
+catalytic activity of surface sites for oxygen and increase the cathode conductivity. Various existing SOFC low-temperature cathode
+materials, e.g. BaSrCoFe-oxide [ 289e291], etc., could be further
+developed through the nanocomposite approach. Incorporating
+Hþ/O2− conductors, carbon nanotubes, nano-CuO, WO 3 or MoO 3
+etc. into the ceria two-phase architectures would improve the activity and conductivity and eventually improve the overall cathode
+performance to be suitable for LT-SOFC applications.
+Different synthesis routes (co-precipitation, sol-gel, thermal
+decomposition) need to be developed to produce appropriate architectures and cathode properties. The general cathode architecture would consist of two layers. The ﬁrst layer (prepared on
+the electrolyte) is a cathode function layer, which should facilitate
+the multi-step electrochemical reduction of oxygen with high
+redox reaction dynamics. The second layer is the cathode current
+collector layer, which should have both high porosity and
+conductivity.
+3.7. Fuel cell performance
+It has been observed and even experimentally proved that the
+fuel cell performance can be improved by using the SIC and the two
+source ions at 300 e600 ° C as compared to conventional solid oxide
+fuel cell technologies with a single source ion transportation
+Fig. 13. Redox design by using the 2nd phase materials acting as the agent for electron acceptor and donor for composite electrolyte (a) and electrode (b).
+Fig. 12. Non-functional to functional.
+R. Raza et al. / Materials Today Energy 15 (2020) 100373 9
+interfacial mechanism, The dual ion H þ and O 2− conduction can
+increase ion concentrations and ﬂows which can also, enhance the
+conductivity and performance.
+Based on advanced ceria-based two-phase material composites
+and nanotechnology, next generation electrolytes are under
+development. The some overview of the fuel cell performance using ceria-carbonate composite electrolyte is shown in Table 1 ,
+including also recent achievements by using functional nanocomposite electrolytes. The highest power output reported for the
+ceriaecarbonate electrolyte-based fuel cell is 1700 mW cm − 2 at
+650 ° C[ 291]. Some fundamental issues and studies on this fuel cell
+were carried out by Li et al. [ 106,107].
+An excellent performance can still be obtained: 1200 mW cm − 2
+at 500 ° C and 1000 mW cm − 2 at 460 ° C and have been achieved in
+lab. Fig. 14 shows typical I eV characteristics for LT-SOFCs operated
+at 400 e500 ° C.
+In the fuel cell context, ceria two-phase nanocomposites for
+both electrolytes and electrodes offer a few more advantages that
+are worth mentioning:
+i) Second-phase particles can act as a thermal barrier, which
+stabilizes the particles at elevated temperatures.
+ii) Two-phase interfaces can effectively release internal stresses
+and block the micro-cracking paths. The TPM nanocomposites therefore have no thermal shock or thermal
+cycling problems. An LT-SOFC with nanocomposite electrolyte operating at 300 e600 ° C can be started or shut down
+fast.
+iii) As reported in many publications, one of the advantages of
+the ceria composites is that the composite can solve the ceria
+reduction problem well. In ceria ecarbonate composites, the
+ceria reduction can be avoided, e.g. the core eshell structure
+addresses electrons localized in the ceria that are not able to
+move from one ceria to particle to another, since the carbonate shell does not conduct the electrons or prevents them
+from moving [ 201].
+3.8. Innovative fuel cell
+The ceria ecarbonate electrolytes possess both H þ and O 2−
+conduction through interfaces, which may strongly assist the FC
+reaction mechanisms. Zhu [ 69] described a new FC system for
+ceriaecarbonate composite electrolytes based on the hybrid proton
+and oxygen ion conductions. A schematic diagram and fuel cell
+process for such a fuel cell are shown in Fig. 15.
+In this fuel cell, H 2O is generated on both sides of the cell, which
+has been experimentally observed.
+Comparisons of the three kinds of fuel cell based on proton
+conducting electrolyte (H þ), oxide ions (O 2− ) and dual phase (H þ/
+O2− )-based electrolyte fuel cells reactions are realized and is reported in many papers [ 246,255,281].
+3.9. Electrolyte free fuel cell ea breakthrough in the clean energy
+devices
+The two-phase nanocomposite method employs nanoparticles
+to construct new functional materials possessing the desired
+interfacial super-ionic conduction for the electrolyte and other
+multi-functions. In particular, in the latest development of the twophase nanocomposite method the advantages of nanocomposites
+to further develop a multifunctional component by integrating
+electronic and ionic materials and conductions were used. In this
+way, one single component can realize all the functions and the
+energy conversion (FC reactions) on nanoparticle surfaces more
+efﬁciently than in the conventional way with a three-component
+MEA (electrode and membrane assembly) FC technology.
+Conventional fuel cells with a three-component MEA (membrane and electrode assembly) realize the electricity generation via
+ion transportation through the electrolyte. The electrolyte acts as a
+critical separation barrier between the electronic and ionic conduction phases (see Fig. 16a). Fig. 16b shows our single homogeneous layer device, which can realize the fuel cell reactions/
+Table 1
+An overview on fuel cells with the ceria-based composite electrolytes.
+Ceria-carbonates Fuel/oxidant Conductivity (S/cm) Performance/power density (W/cm 2) Working temp. ( ° C) Refs
+GDC-salt composites H2/air 0.01 e1 0.20 e0.8 400 e660 [ 69]
+GYDC-40 wt% LiKCO 3 H2/air e 0.07e0.30 480 e530 [ 69]
+YDC-22 wt% LiNaCO 3 H2/air 0.01 e0.78 0.20 e0.70 400 e660 [ 69]
+SDC-10 wt% LiNaCO 3 H2/air 0.001 e0.03 0.43 400 e625 [ 103]
+SDC-20 wt% LiNaCO 3 H2/air 0.003 e0.09 0.94 400 e625 [ 103]
+SDC-30 wt% LiNaCO 3 H2/air 0.003 e0.1 0.89 400 e625 [ 103]
+SDC-35 wt% LiNaCO 3 H2/air 0.1 e0.15 1.08 400 e625 [ 103]
+GDC-30 wt% LiKCO 3 H2/air 0.002 e0.09 e 300e700 [ 28]
+SDC-30 wt% LiNaCO 3 H2/air 0.01 e0.2 0.20 e1.0 500 e650 [ 104]
+SDC-30 wt% LiNaKCO 3 H2/air 0.05 e0.2 0.1 e0.76 500 e700 [ 105]
+SDC-30 wt% LiNaCO 3 H2/(CO2/O2 0.05e0.16 0.30 e1.70 500 e650 [ 105]
+SDCeNa2CO3 nanocomposites H2/air e 0.50e0.90 450 e580 [ 108]
+Ceria-oxide nanocomposites H2/air e 0.20e0.70 450 e580 [ 60]
+GYDCeLiNaCO3 H2/air 0.2 0.6 550 [ 42]
+Fig. 14. IeV and I eP characteristics for the nanocomposite SDC eNa2CO3 electrolyte
+fuel cell at various temperatures.
+R. Raza et al. / Materials Today Energy 15 (2020) 10037310
+functions directly with H þ and O 2− ions by ionization, movement
+and reaction jointly with electrons in the processes. All reactions
+take place in this one homogeneous layer, as indicated in Fig. 16b. In
+principle, therefore, our device is named an “electrolyte-free fuel
+cell”, working as a conventional fuel cell but without electrolyte
+[80,81,93e99].
+“This new device works without an electrolyte, and all processes
+occur at particle surfaces in the material. This streamlined design
+should help pave the way towards more cost ef ﬁcient fuel cells and
+perhaps even the arrival of the hydrogen economy ” [93]. Transforming future FC markets and coming closer to commercialization
+in an extended range of applications will no doubt also lead to
+signiﬁcant economic and scienti ﬁc impacts. A new reality would
+emerge as concerns fuel cell science, technology and commercialization. Further calculations show that, apart from demonstrating
+promising advantages as concern cost, simplicity and stability, the
+one-layer device (or the electrolyte-free fuel cell) is also able to
+improve the energy conversion ef ﬁciency compared to conventional three-component fuel cells. The reason is that our device's
+functions can be realized through surface reactions/processes,
+while in conventional fuel cell devices, the anode/electrolyte and
+electrolyte/cathode interfaces create ion and electron conduction
+barriers that put strong constraints on achieving high fuel cell
+performance.
+There are two basic phases of the ionic conductor and semiconductor. Both phases in the composite form percolating paths for
+ions and electrons. The ion conducting behaviour is the same as in
+the normal electrolyte process, while for electrons a p − n junction
+may exist in the single-component devices. In fact, the single
+functional composite consists of a series of metal oxides. Some of
+them are n-type semiconductors, like ZnO. The others are p-type
+semiconductors, like NiO. When fuels (such as H 2) and air are fed
+into the two separate sides, H 2 is adsorbed and dissociated into H þ
+at the surface of the n-type semiconductors. Meanwhile, O 2 is
+Fig. 15. Schematic diagram of innovative fuel cell based on co-H þ/O2− dual phase composite electrolyte.
+Fig. 16. Conventional three-component vs single-layer electrolyte free fuel cell: a) shows a schematic of a conventional three-component FC where hydrogen enters the cell from
+anode side and oxygen from the cathode side; b) shows the simple principle of our new invention, the FC reactor, with only a single component.
+R. Raza et al. / Materials Today Energy 15 (2020) 100373 11
+adsorbed and dissociated into O 2− at the surface of the p-type
+semiconductors. Negative and positive charges are generated on
+the surface of the n-type and p-type semiconductors, respectively.
+But the junction between them becomes depleted of charge carriers, that is, non-conductive for electrons. Consequently, the cell's
+potential is generated and the electric energy can be taken out of
+the cell. The situation is similar to already known sources of the
+photovoltage and can arise from the gradients of the equilibrium
+densities and mobilities of electrons and holes, thus avoiding shortcircuiting and self-discharging problems [ 125].
+In some recent article reported that a fuel cell device based on a
+single layer was developed. It is found that the fuel cell device
+performance is enhanced because of the Schottky junction effect
+which is incorporating the power density of 1000 mW cm − 2 at
+550 ° C. The detailed principles described form both fuel cell and
+physical principles [ 81]. A single-layer SOFC was also discussed by
+Ping Li et al. [ 94], and was composed of La 2NiO4 and SDC, achieving
+a power output of 331 and 340 mW cm2 with fuels of methanol and
+hydrogen respectively.
+In order for such a device to be commercialized and made
+marketable, there are a number of challenges that can be addressed
+immediately:
+The excellent output performance with ultra-low cost, which
+can enhance the market of energy system.
+• To use or introduce the signi ﬁcant innovative strategies to
+develop the advanced functional materials for LTSOFC.
+• International collaboration and industrial liaison with
+networking and cooperation projects by integrating a critical
+mass to speed up the FC R &D and commercialization process.
+3.10. The effect of singly, binary and ternary carbonates @doped
+ceria composite
+There are several electrolytes have been explored in the last
+thirty years to reduce the operating temperature of fuel cell, among
+them SDC and SDC carbonate are considered promising electrolytes
+due to high ionic conductivity at lower temperature. But SDC-
+Carbonates with single, binary, and ternary have been studied in
+detail recently, by Amjad et al. and reported that binary and ternary
+carbonate with doped ceria have better ionic conductivity than
+pure SDC and singly carbonate SDC. The structural and microstructural have been studied by XRD and SEM. XRD observed a
+single cubic structure having crystallite size in the range of
+21e41 nm. Thermal property was explored through thermogravimetry. Band gap was calculated by UV eVisible absorption
+spectroscopy and found a red shift in band energy compared to
+undoped CeO2 (3.20 eV).
+The ion conduction mechanism has been studied using four
+probe DC methods in O 2/H2 atmosphere. The ionic conductivity of
+SDC-Binary Carbonates (Li/Na)CO3 is 0.31 Scm− 1 at 600 ° C which is
+appreciable high compared to SDC-Single Carbonate (Na 2CO3,
+Li2CO3,K2CO3),SDC-Binary Carbonates ((Li/K)CO 3, (Na/K)CO 3 and
+SDC-Ternary Carbonates (Li/Na/K)CO 3. The maximum fuel cell
+performance have been found to be 817 mWcm − 2 at 600 ° C using
+SDC-Binary Carbonates (Li/Na)CO 3 electrolyte with hydrogen fuel.
+The fuel cell comparison of all three best carbonates is shown in
+Fig. 17.
+In this work, the results shows that SDC-Binary Carbonates (Li/
+Na)CO3 has a potential to be used as electrolyte for low temperature
+fuel cell [ 246].
+3.1 1. Theoretical description of ceria ecarbonates
+Although previous experimental work has been devoted to the
+study of the electrochemical properties of MCs [ 249e256], the
+fundamental structural properties including electronic and
+physico-chemical characteristics are still not well understood. Such
+fundamental understandings play a key role in the enhanced conductivity, where the interfaces between the oxide and carbonate
+phases are crucial [ 253,254].
+Gong et al. [ 256] discussed “oxygen migration” from the molten
+carbonate (MC) surface to the MC/cathode interface by proposing a
+cooperative cogwheel mechanism which involves the breaking and
+reforming of O eCO2
+− 3 bonds, but this assumption was not veri ﬁed
+by experiments or any theoretical simulation. Later on, Lei et al.
+[257] provided details on the understanding of oxygen migration in
+different MC salts by setting some theoretical foundations using
+density functional theory (DFT) calculations (Gaussian 09 suite of
+quantum programs [ 258]) to investigate the transition states (TS),
+reaction pathways and activation energies. Using MP4 and CCSD(T),
+single point energy corrections were calculated with different
+combinations of basic sets 6-31G(d), 6-31 1G þþ(d), CBSB7 and
+LANL2DZ. All geometries were optimized at the B3LYP [ 259,260]/6-
+31G(d) [ 261e264] level using CCSD(T), and their reliability and
+accuracy were also veriﬁed with CCSD(T). They showed that, due to
+the presence of MC, the oxygen reduction process is modi ﬁed,
+which results in the enhancement of performance at low operating
+temperatures [257].
+For the understanding of the surface electrochemistry as well as
+the electronic structure of solid electrolytes, experimental and
+theoretical approaches could play better or work well together in a
+deeper study of the complex structure/mechanism of the
+carbonateeoxide interface [ 267]. Experimental results are
+providing information not only to characterize the material to
+study its structure, morphology and thermal behaviour, but also on
+its electrochemical characteristics with the help of impedance
+spectroscopy. Likewise, calculations made from an appropriate
+theoretical model may help to rationalize the results obtained from
+experiments to further sharpen our understanding of the electrochemical processes [ 265]. Such a combined experimental and
+theoretical approach was ﬁrst studied by Ricca et al. [ 265] to understand the mechanisms of carbonate eoxide composites as electrolyte in hybrid fuel cells. A systematic experimental study
+including the impact of molten salts compositions and oxide phase
+conductivity was carried out by impedance spectroscopy and in
+parallel with the theoretical approach. Density functional theory
+(DFT) calculations were performed to understand the transport
+Fig. 17. Fuel cell performance of alkali carbonates [ 248].
+R. Raza et al. / Materials Today Energy 15 (2020) 10037312
+mechanism and other species involved. They made all their calculations with the periodic CRYSTAL09 [ 266] code in the framework
+of DFT and global hybrid functional PBE0 [ 267,268], which provides
+the best structural data and an accurate portrayal of the electronic
+properties [ 271]. Their measurements showed that higher conductivities of the composites were achieved for higher conductivities of pure oxide and pure carbonate, but the electrical behaviour
+of such composites was quite unusual. They obtained consistent
+theoretical results with experimental data for the reducibility and
+chemistry of YSZ [ 265].
+In their other work, Ricca et al. [ 271] studied these structural
+properties theoretically for mixed alkaline carbonates; lithiumesodium/lithiumepotassium carbonates, by considering both
+polar and non-polar orientations. All calculations were performed
+in the framework of ab initio periodic DFT [ 269e271] using three
+different exchange-correlation functionals: ﬁrst, PBE (the GGA
+functional of Perdew eBurkeeErnzerhof [ 274]); second, global hybrids B3LYP (Becke's three parameters exchange functional [ 275]
+combined with the Lee eYangeParr correlation [ 276] functional);
+and third, PBE0 [ 277,278], while the surface calculations were only
+performed at the PBE0 level.
+Furthermore, the same group more recently studied the combined strategy of electrochemical and modelling for hybrid FCs
+with composite carbonate/oxide electrolytes [ 279] to achieve a
+better under understanding of the transport mechanism.
+This is an initiative to understand the mechanism and electrochemical processes of interfaces of both phases (carbonate eoxide)
+and this interface is mainly the origin of the enhanced conductivity
+of the composites [280]. There is still a need for more detailed study
+of the inter-play of particular experimental behaviours combined
+with theoretical modelling and computational protocol [ 279], and
+DFT can indeed help in acquiring such signi ﬁcant information to
+draw a direct picture of the complex interface phenomenon at
+atomic level.
+4. Summary and conclusions
+It has been shown that nanocomposites could be very suitable
+electrolyte materials, enabling good fuel cell performance at temperatures well below 600 ° C. Here the fundamentals of the
+NANOCOFC (Nanocomposites for Advanced Fuel Cells) for these
+new functional nanocomposites to distinguish them from the
+traditional SOFC single-phase materials, e.g. ﬂuorite and perovskite
+structure oxides has been reviewed and discussed.
+In general, large interfaces and surfaces in two-phase nanoparticle materials can be created by using a suitable second-phase
+material/particle which can also stabilize and modify the surface
+properties. It is common that nanoparticles can create agglomerates with a large surface area, but the particles are not always stable
+due to the high surface energy and active chemical unbonding.
+Through introducing a suitable second phase, the interactions and
+the internal electrical ﬁeld can be enhanced between
+particleeparticle and phase ephase by ﬁxing the surface energy
+conﬁguration and stabilizing the surface properties. Desired properties and new functionalities can thus be created, all bene ﬁcial for
+application in advanced fuel cells.
+There is a wide ﬂexibility and feasibility to develop advanced
+nano-architectures. The two-phase material (TPM) nanocomposite
+possesses multi-function and unique characteristics listed in the
+following:
+i. TPM composites consist of two phases with interfaces. The
+material functionalities are created through the two-phase
+interfacial regions, (typically a core eshell structure). Such
+interfacial functionalities can break conventional structural
+limits.
+ii. The ionic transport phenomena differ from conventional
+structure/bulk effects which do not play a major role in twophase composite electrolytes. Instead, the interfacial mechanisms or fast super-ionic conduction (SIC) through the interfaces determine the composite material's electrical
+properties and other functionalities.
+iii. The interfacials SIC and the two source ions (O 2− and Hþ) can
+signiﬁcantly enhance the CFC/SOFC power output at
+300e600 ° C.
+iv. The interfacial phenomena and mechanism provide wide
+possibilities to develop functional materials even from nonfunctional materials, as long as functional interfaces can be
+created.
+v. Interfacial and surface redox reactions could provide new
+opportunities for further development of functional nanocomposites for advanced fuel cell technology.
+Nanocomposites with the above properties and characteristics
+have wide use in the fuel cell context. The ionic conductivity of
+nanocomposites is attractive in the temperature range of
+300e600 ° C. For example, at 300 ° C values > 0.1 S/cm have been
+achieved. The highest power density of the ceria ecarbonate composite CFC so far is 1700 mW cm − 2, but at the slightly higher
+temperature of 650 ° C (ref). At 450 e500 ° C, an output of around
+1000 mW cm− 2 is feasible. This may indicate an integrated new fuel
+cell technology, LT-CFC, between the MCFC (molten carbon fuel
+cell) and SOFC (solid oxide fuel cell).
+It should be noted that the ﬁeld of the nanocomposite approach
+for LT-CFC or LT-SOFC is still at an early stage, especially for EFFCs,
+exploring a completely new scienti ﬁc ﬁeld. Many fundamental issues still need clari ﬁcation, encouraging new scienti ﬁc work and
+international cooperation in this ﬁeld. The EC eChina NANOCOFC
+network ( www.nanocofc.com) can be mentioned as a topical
+example of such efforts.
+Declaration of interest
+This work is review of ceria-carbonate based electrolyte materials for low temperature solid oxide fuel cells is suitable and
+excellent for the Materials today energy Journal. Since we also
+expect our work to be of broad interest, we consider this publication to ﬁt well in applied journal. Reported work and mechanism
+about this important ﬁeld of an existing fuel cells and prospects for
+further improvements are excellent.
+Therefore, it is worthwhile for publishing in Materials today
+energy Journal, which may have a considerable impact in the ﬁeld
+and look forward to your kind consideration.
+Acknowledgement
+The author would like to acknowledge Swedish Agency for
+Innovation Systems (VINNOVA) and KIC-Innoenergy, Higher Education Commission (HEC), Pakistan. Authors sincerely appreciate
+the King Saud University for its funding of this research through
+Researchers Supporting Project (RSP-2019/49).

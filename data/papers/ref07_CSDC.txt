@@ -1,0 +1,287 @@
+Citation: Raza et al. 2010, JPS 195:6491
+DOI: 10.1016/j.jpowsour.2010.04.031
+Source text: full text
+
+Journal of Power Sources 195 (2010) 6491–6495
+Contents lists available at ScienceDirect
+Journal of Power Sources
+journal homepage: www.elsevier.com/locate/jpowsour
+Short communication
+Study on calcium and samarium co-doped ceria based nanocomposite
+electrolytes
+Rizwan Raza a,b,∗, Xiaodi Wang c, Ying Ma c, Bin Zhu a,d
+a Department of Energy Technology, Royal Institute of Technology (KTH), 10044 Stockholm, Sweden
+b Department of Physics, COMSATS Institute of Information Technology, Lahore 54000, Pakistan
+c Division of Functional Materials, Royal Institute of Technology (KTH), 16440 Stockholm, Sweden
+d GETT Fuel Cells International AB, Stora Nygatan 33, S-10314 Stockholm, Sweden
+article info
+Article history:
+Received 13 December 2009
+Received in revised form 31 March 2010
+Accepted 11 April 2010
+Available online 18 April 2010
+Keywords:
+Co-doped
+Ceria
+Nanocomposite electrolyte
+LTSOFCs
+abstract
+Calcium co-doped SDC-based nanocomposite electrolyte (Ce0.8 Sm0.2−xCaxO2−ı –Na2 CO3 ) was synthesized
+by a co-precipitation method. The microstructure and morphology of the composite electrolytes were
+characterized by X-ray diffraction (XRD), scanning electron microscope (SEM), and transmission electron
+microscope (TEM), and thermal properties were determined with differential scanning calorimetry (DSC).
+The particle size, as shown by TEM imaging, was 5–20 nm, which is in a good agreement with the SEM
+and XRD results. The co-doping effect on both interfaces of the composite electrolyte and doped bulk
+effect inside the ceria was studied. The excellent performance of the fuel cell was about 1000 mW cm −2
+at 560 ◦C and at the very low temperature of 350 ◦C the power density was 200 mW cm−2. This paper may
+give a new approach to develop functional nanocomposite electrolyte for low-temperature solid oxide
+fuel cell (LTSOFC).
+© 2010 Elsevier B.V. All rights reserved.
+1. Introduction
+Solid oxide fuel cells (SOFCs) have gained attention because of
+their high energy conversion efﬁciency and fuel ﬂexibility [1,2].
+The current SOFC technology is still so expensive, that many efforts
+have been undertaken to introduce new materials, which can work
+more efﬁciently at low temperatures. Many researchers for better
+intermediate-temperature SOFC performance [2–5] have successfully studied the doped ceria.
+Several authors have investigated co-doping effects and have
+reported that co-doped ceria is an effective solution for obtaining
+better performance and good ionic conductivity at low temperatures [3–10]. For example, Maricle et al. have pointed out “singly
+doped ceria develops electronic as well as ionic conductivity,
+which contributes to loss of efﬁciency at low power levels”. They
+introduced the double dopant approach, lowering the electronic
+conductivity under fuel conditions, enabling ceria to be a useful
+electrolyte [1]. Following this advance, Ishihara et al. developed
+an electrolyte using the co-doped ceria technique and achieved
+notable performance but at high temperature [3].
+∗ Corresponding author at: Department of Energy Technology, Royal Institute of
+Technology (KTH), 10044 Stockholm, Sweden. Tel.: +46 762569336;
+fax: +46 8204161.
+E-mail address: razahussaini786@gmail.com (R. Raza).
+Therefore, our efforts have been made to develop a new
+nanocomposite electrolyte, which can work at much lower SOFC
+operating temperatures based on co-doped ceria, which can give
+better performance than pure SDC (single doped ceria by samarium) at low temperatures, as previously reported by other authors
+[1–10]. Co-doping has many advantages [1–5] over single doped
+ceria, including better low-temperature performance, better electrode compatibility and good conductivity. However, single-ion or
+co-ion doping could not eliminate the pure ceria phase drawbacks,
+e.g. electronic conduction and mechanical limitations. In our work,
+doping has been used not only to improve the ceria phase properties, but more importantly to modify the particle surface properties
+in order to create interfacial functions between two constituent
+phases in a composite type material, so-called nanocomposites
+[12,13].
+There are two major challenges for the commercialization of
+SOFC, one is to lower the temperature and second is to explore new,
+more cost-effective, and stable compositions. We have selected calcium (Ca2+), the divalent cation, as a co-dopant because of relatively
+low cost and widely available on the market [13]. Besides, CaO is
+very attractive due to a distinctive co-doping effect into the ceria
+host lattice. It has also ionic-radius compatibility with the host
+cation [14].
+The co-doping is a good approach for the structure modiﬁcation of ceria-based material to improve the oxygen ion conductivity
+at low-temperature range (300–600 ◦C). The introduction of the
+0378-7753/$ – see front matter © 2010 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jpowsour.2010.04.031
+6492 R. Raza et al. / Journal of Power Sources 195 (2010) 6491–6495
+co-doped ceria with alkaline earth and rare earth ions can also lead
+to improve the ionic conductivity [15,16].
+This paper presents a new electrolyte
+Ce0.8Sm0.2−xCaxO2−ı–Na2CO3 (CSDC) for the LTSOFC, co-doped
+ceria-based composite, which offers better low-temperature
+performance. We have analyzed this material by XRD, SEM,
+and TEM and tested it in a SOFC. We have developed a series
+of nanocomposite electrolytes [12,17,18]. One of these, offering
+better low-temperature performance, is described in this paper
+[17,18].
+2. Experimental
+2.1. Sample preparation
+A co-doped SDC-based electrolyte
+(Ce0.8Sm0.2−xCaxO2−ı–Na2CO3) was synthesized by a coprecipitation method [16,17]. Initial ingredients Ce (NO 3)3·6H2O
+(Sigma–Aldrich, 99.99%) and Sm (NO 3)3·6H2O (Sigma–Aldrich,
+99.999%) and Ca (NO 3)2·4H2O (Sigma–Aldrich, 99.99%) were
+dissolved in de-ionic water with an optimal molar ratio of
+Ce3+:Sm3+:Ca2+ = 4:1:1 to form a 0.1 mol L−1 solution.
+Then the Na2CO3 solution of 0.2 mol L−1 was added drop by drop
+to this solution, which was stirred for 30 min, giving a white precipitate. The precipitate was washed, ﬁltered and dried in the oven
+for 12 h at 80 ◦C and sintered at 800 ◦C for 4 h in the air atmosphere. Then the powder was ground in a mortar before using for
+the measurements.
+A fuel cell was fabricated in a conﬁguration of anode (mixture
+of NiOCuO and CSDC)/electrolyte (CSDC)/cathode (mixture of lithiated NiO and CSDC) by the dry pressing method at 250 MPa. The
+size of the fuel cell was fabricated with 13 mm in diameter and
+0.80 mm in thickness (which consists of 0.35 mm anode cermet,
+0.25 mm electrolyte, 0.20 mm cathode layer) and an active area was
+0.64 cm2. These cells were sintered at 650 ◦C for 45 min to form a
+dense pellet. The SOFC was tested at 400–580 ◦C, where hydrogen
+and air were used as fuel and oxidant, respectively. The gas ﬂow
+rates were in the range of 80–110 ml min −1 at 1 atm pressure.
+2.2. Sample characterization
+The phase structure of as prepare sample was characterized
+by a D/Max 3A X-ray diffractometer (XRD, Regaku, Tokyo, Japan)
+with Cu Kalpharadiation. Thermal properties of the sample were measured with a differential scanning calorimetry (DSC) 2920 thermal
+analyzer (TA Instruments, New Castle, DE 19720, USA).
+The microstructure and morphology were examined using an
+XL-30 scanning electron microscope (SEM, Philips, Amsterdam,
+Netherlands). The composition of the sample was examined using
+the energy-dispersive X-ray spectroscopy (EDX) unit attached to
+the SEM.
+For the detailed morphology and microstructure including the
+crystal size and shape, the transmission electron microscope (TEM)
+was employed using a JEM-2100F transmission electron microscope (TEM, JEOL, Tokyo, Japan) with a carbon-coated copper
+grid. The performance of the SOFC was obtained by a computerized instrument (L43, Tianjin, China) over the temperature range
+400–580◦C.
+The ionic conductivity and AC impedance spectra of the Ca
+co-doped nanocomposite electrolyte were determined by a two
+probe AC impedance method using a VERASTA2273 impedance
+analyzer (Princeton Applied Research, Oak Ridge, TN) in the range
+of 0.1 Hz–1 MHz in the range of 300–600 ◦C. The curve ﬁtting
+and resistance calculations were made using ZSimpWin (Princeton
+Applied Research, Oak Ridge, TN) software.
+Fig. 1. (a) X-ray diffraction pattern for CSDC and (b) DSC curve.
+3. Results and discussion
+3.1. Phase analysis/crystal structure
+Fig. 1(a) shows the as-prepared sample XRD diffraction patterns
+are same as those of the pure ceria, only the 2 /DC2values slightly
+shifted towards higher angle. No individual phase of Sm 2O3 or
+CaCO3 could be detected. This shows that Sm 3+ and Ca2+ have been
+co-doped into ceria. As reported before [12] in the above sample preparation, it could form a doped ceria–Na 2CO3 two-phase
+composite. Same with that SDC–Na 2CO3 composite, the Na 2CO3 is
+amorphously distributed, since no peaks for them were observed,
+in contrast to our previous work [12].
+The XRD results show that the CSDC crystal structure after
+sintering at 800◦C is cubic ﬂuorite structure of ceria, giving an electrolyte with high oxide ion mobility [12–14]. Its average crystallite
+size was calculated to be in the range 15–20 nm using Scherrer
+formula.
+3.2. DSC
+Fig. 1(b) displays the DSC curve of the co-doped sample at heating and cooling rates of 20 ◦Cm i n−1. There are endothermic effects
+in temperatures between 400 ◦C and 450 ◦C. The curves show that
+the co-doped nanocomposite electrolyte containing Ca 2+ as codopant and Na 2CO3 as a second phase is different from the SDC
+(single doped ceria by samarium). Compared to the SDC–Na 2CO3
+composite system the endothermic effect moves from lower to
+higher temperatures with the calcium co-doping which may cause
+the changes of the particle surface properties [12,14]. The individual doped ceria, no matter single- or co-doping, and Na 2CO3 have
+no any thermal effects in this measured temperature range [12,14].
+The endothermic effect was caused by the interfaces or interfacial
+R. Raza et al. / Journal of Power Sources 195 (2010) 6491–6495 6493
+Fig. 2. (a) SEM images of CSDC, (b) EDX, (c) high-resolution TEM images of CSDC
+composite electrolyte components and (d) CSDC crystalline fringes and amorphous
+state Na2 CO3 .
+structure transition between the co-doped ceria and Na 2CO3. The
+same situation occurs in this work.
+3.3. Microstructure/morphology
+Fig. 2 (a) shows the microstructure of the co-doped
+ceria–Na2CO3 composites, obtained by SEM. The morphology
+of the sample is largely homogeneous, signifying a rather dense.
+In the co-doped powder, homogeneity and chemical composition were determined by EDX as shown in Fig. 2(b). The results are
+in good agreement with the experimental stoichiometric indexes
+and the nominal composition of CSDC.
+Fig. 2(c) shows a TEM image of an as-prepared sample. It is evident that its particles are smaller than the 50 nm value for SDC
+from the high-resolution TEM image. This observation is a conﬁrmation of the SEM and XRD results for particle size calculations. We
+observed some particles have core–shell from TEM which are also
+agreement of the previous reported results [12]. The CSDC (core)
+Fig. 3. I–V/I–P characteristics of a fuel cell at different temperatures.
+have crystalline fringes and Na 2CO3 (shell) have no lattice fringe is
+to be considered as an amorphous state, can be seen in the images
+(Fig. 2 (c) and (d)). It can also be considered that the dark ﬁeld in
+the TEM image is related to Na 2CO3, due to the different contrast
+between Na2CO3 and the other particles and carbon ﬁlm substrate
+present.
+3.4. Performance
+The signiﬁcant improvement in fuel cell performance results
+from the use of co-doped electrolytes. The cell power density Pmax,
+with H 2 as a fuel, reached a maximum of 980 mW cm −2 at 560 ◦C
+and at the very low temperature of 350 ◦C the power density was
+200 mW cm−2 as shown in Fig. 3 . The open-circuit voltage (OCV)
+was 1.05 V at 560 ◦C and 0.99 V at 350 ◦C and indicates that the
+electrolyte membrane is sufﬁciently dense. The performance is
+very encouraging at very low temperatures with the two-phase
+co-doped nanocomposite electrolyte. This may be attributed from
+improved chemical surface properties of particles prepared using
+the co-doping technique, which appears to be useful effective fuel
+cell performance at lower temperatures.
+The obtained performance at lower temperature with co-doped
+ceria electrolyte is comparatively better with conventional electrolytes YSZ and SDC based on the previous reported results by the
+researchers particularly, Huang et al. obtained maximum power
+density 131 mW cm−2 at very low temperature 350 ◦C using YSZ
+electrolytes [19]; Hibino et al. obtained 101 mW cm −2 at 350 ◦C
+using ceria-based electrolytes [20]; Shao and Haile have succeeded 1010 mW cm −2 and 402 mW cm −2 at 600 ◦C and 500 ◦C
+using single-phase SDC electrolyte [21]; and Suzuki et al. demonstrated 1000 mW cm−2 at 600 ◦C using zirconia based electrolytes
+[22].
+There is no electrode polarization process from Fig. 3 , because
+the I–V characteristics are linear. The less IR drop from electrolyte
+ohmic behavior may be the reason for the higher performance at
+such low temperature. Due to the calcium co-doped two-phase
+electrolyte, it has a higher conductivity and which also make the
+excellent performance. By viewing high performance SOFCs in literature [20–22], it is a common fact that the high performance
+corresponds to linearI–V characteristics. In our work, we used CSDC
+for the anode and cathode, the reaction at electrodes would be
+enhanced because of the high ionic conductivity of CSDC. Then,
+electrode polarization resistance may be decreased for this development. More detailed electrochemical characterizations on this
+phenomenon will be done in the future.
+6494 R. Raza et al. / Journal of Power Sources 195 (2010) 6491–6495
+Fig. 4. Conductivity comparisons of different electrolytes with co-doped ceria
+(CSDC).
+3.5. Ionic conductivity
+The ionic conductivity of the sintered samples was measured by
+a two probe AC method. Fig. 4 shows the higher ionic conductivity
+of 0.1 at 300 ◦C of the CSDC as compared to the conventional different electrolytes SDC and SDC–Na 2CO3, respectively. The oxide
+ion conductivity of ceria is depends on the oxygen vacancies and
+dopant amount of the materials. To get the optimum conductivity,
+20% dopant concentration is necessary [8].
+Besides, CaO is very attractive due to a distinctive co-doping
+effect into the ceria host lattice. It has also ionic-radius compatibility with the host cation. Therefore, the introduction of the co-doped
+ceria with alkaline earth and rare earth ions can also lead to improve
+the ionic conductivity and performance in the low-temperature
+region for SOFC applications. It could also help to overcome the
+electronic conduction of CeO 2 at in anodic environment and also
+to enhance the density of solid electrolyte. Furthermore, obtained
+results highlight the concept of co-doping as an effective tool in
+designing newer compositions with improved properties.
+The role of the Na 2CO3 in the composite electrolyte is to create a second phase as a core–shell as reported before in our work
+[10,11]. This may form a large interface region for ion conduction
+paths between the SDC and carbonate at elevated temperatures so
+that to enhance greatly the material conductivity, e.g. from doped
+ceria, 10−2 Sc m−1 to 0.1 S cm−1 in the composite with Na 2CO3 at
+600 ◦C [10,11]. This interface has, in principle, no bulk structural
+limit for the creation of high concentration of mobile ions, and can
+thus be greatly disordered. This implies that the interfaces have
+the capacity to contain higher mobile ion concentration than that
+of the bulk. The electric ﬁeld distribution in the interfaces between
+two phases is a key to realize the interfacial superionic conduction,
+allowing ions to move on particle’s surfaces or interfaces by high
+conductivity pathways.
+The higher conductivity of the prepared composite materials is
+also due to an amorphous Na 2CO3 shell at lower temperature. It
+can protect the active surface of SDC and interfaces in nanoscale
+to enhance the nano-material stability as well as further promote
+the oxygen ion transportation through the interfacial mechanism
+[7–11].
+3.6. AC impedance
+The Nyquist plot of the CSDC cell was measured in air at 550 ◦C
+under open-circuit conditions. It was observed a typical spectrum
+Fig. 5. Nyquist plot of the CSDC nanocomposite electrolyte SOFC in air at 550 ◦ C.
+with two arcs [23,24].I n Fig. 5 the red line is simulated impedance,
+while the black line gives experimental values and the inset is the
+equivalent circuit. (For interpretation of the references to color in
+this sentence, the reader is referred to the web version of the article.) The semi-circle observed at high frequencies (1 MHz) is that for
+ionically conducting material [23,24]. It has been modeled with an
+equivalent LRQ circuit (L: inductance, R: resistance and Q: the constant phase element, is an ideal capacitance) in series. The inductance L may be as a result of the stainless tube of the measurement
+device. In nanoscale materials, the difference between bulk and
+grain boundaries is likely to be smaller and the resultant impedance
+spectrum may be modeled using a single semi-circle [23,24].
+4. Conclusion
+Co-doped ceria CSDC electrolyte with Na2CO3 as a second phase
+to form the composite is suitable for preparing a dense electrolyte
+with controlled composition and modiﬁed properties, especially on
+the particle surface properties. This gives a promising electrolyte for
+a LTSOFC that will highly improve the SOFC performances at low
+temperatures. Co-doping can improve the ceria particle properties
+and create useful functionality on particle surfaces in the composites. The performance of the cell was obtained at lower temperature
+of 350◦C was 200 mW cm−2, which is the time so high performance
+has been reported at such temperatures. This performance may
+result from co-doping and modiﬁcation of the particle surfaces to
+give high interfacial functionality at low temperatures. There is
+good agreement between the XRD, SEM and TEM results to indicate a nanoparticle size range of 5–20 nm. Therefore, the co-doped
+approach may be a good solution for improving the conductivity
+and performance of these electrolyte materials for LTSOFCs.
+Acknowledgements
+This work is supported by the Swedish Agency for Innovation
+Systems (VINNOVA). The Higher Education Commission (HEC), Pakistan also acknowledged for PhD scholarship.

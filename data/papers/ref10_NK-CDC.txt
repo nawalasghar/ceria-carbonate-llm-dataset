@@ -1,0 +1,309 @@
+Citation: Abbas, Raza et al. 2011, JFCST 8:041013
+DOI: 10.1115/1.4003635
+Source text: full text
+
+Ghazanfar Abbas 1
+Department of Physics,
+Bahauddin Zakariya University,
+Multan, 60800, Pakistan;
+Department of Physics,
+COMSATS Institute of Information Technology,
+Islamabad 44000, Pakistan;
+Department of Energy Technology,
+GETT Fuel Cell Laboratory,
+KTH,
+Stockholm 100 44, Sweden
+e-mail: mian_ghazanfar@hotmail.com
+Rizwan Raza
+Department of Physics,
+COMSATS Institute of Information Technology,
+Lahore 54000, Pakistan;
+Department of Energy Technology,
+GETT Fuel Cell Lab,
+KTH,
+Stockholm 100 44, Sweden
+e-mail: rizwanr@kth.se
+M. Ashraf Chaudhry
+Department of Physics,
+Bahauddin Zakariya University,
+Multan 60800, Pakistan
+e-mail: shaifo313@gmail.com
+Bin Zhu
+Department of Energy Technology,
+GETT Fuel Cell Laboratory,
+KTH,
+Stockholm 100 44, Sweden
+e-mail: binzhu@.kth.se
+Preparation and Characterization
+of Nanocomposite Calcium Doped
+Ceria Electrolyte With Alkali
+Carbonates „NK-CDC… for SOFC
+The entire world’ s challenge is to ﬁnd out the renewable energy sources due to rapid
+depletion of fossil fuels because of their high consumption. Solid oxide fuel cells (SOFCs)
+are believed to be the best alternative source, which converts chemical energy into
+electricity without combustion. Nanostructure study is required to develop highly ionic
+conductive electrolytes for SOFCs. In this work, the calcium doped ceria (Ce0.8Ca0.2O1.9)
+coated with 20% molar ratio of two alkali carbonates (CDC-M: MCO 3, where M =Na
+and K) electrolyte was prepared by coprecipitation method. Ni based electrode was used
+to fabricate the cell by dry pressing technique. The crystal structure and surface morphology were characterized by an X-ray diffractometer, scanning electron microscopy
+(SEM), and high resolution transmission electron microscopy (TEM). The particle size
+was calculated in the range 10–20 nm by Scherer’ s formula and compared with SEM and
+TEM results. The ionic conductivity was measured by using ac electrochemical impedance spectroscopy method. The activation energy was also evaluated. The performance of
+the cell was measured 0.567 W /cm2 at temperature 550°C with hydrogen as a fuel.
+[DOI: 10.1115/1.4003635]
+Keywords: electrolyte, low temperature (400–600°C) fuel cell, nanostructure, alternative
+power source
+1 Introduction
+The emission of CO 2 due to exploitation of a huge amount of
+fossil fuel has formed seriously global environmental problems
+[1]. The next generation requires alternative energy sources because these fossil fuels’ resources are running out with the passage
+of time. In the past decade, many researchers made large efforts to
+search an alternative energy source, which could fulﬁll the demand of new generation [2]. Renewable energy is one of the best
+because it never runs out and can be replenished in a short period
+of time. Renewable sources are abundantly available in the universe such as solar, wind, biomass, water, etc. [3]. Fuel cell is a
+device that converts chemical energy into electricity directly in the
+presence of fuel. In addition, it also provides heat and power.
+Solid oxide fuel cells (SOFCs)can have a huge positive impact on
+the next generations’ energy technology and “hydrogen economy”
+[4]. Solid oxide fuel cells have a lot of attraction in the recent
+years due to their high efﬁciency, great tolerance to impurities,
+ﬂexibility, and diversity of fuels [5–8]. Conventional SOFCs work
+at high temperature in which yttria stabilized zirconia (YSZ)is
+used as an electrolyte; this YSZ material requires high temperature as 800–1000°C to obtain mandatory high ionic conductivity.
+This high temperature operation prevents the SOFCs from being
+commercialized because it causes the degradation of the cell components, thermal expansion mismatch, limited choice of materials,
+etc. [9–15]. Doped zirconia and doped ceria have been selected as
+electrolyte materials for SOFCs [16]. In order to commercialize
+the use of SOFCs, it is necessary to reduce its operating temperature. The cell operating temperature depends on electrolyte internal resistance and activation energy; so for lowering the temperature, it is essential to reduce its interfacial/internal resistance and
+activation energy. These problems can be worked out by developing alternative electrolyte materials that possess high ionic conductivity at low temperature and minimum electrode polarization
+resistance [17–19]. The ceria is a rare earth metal, which possesses reliable ionic conductivity at relatively low temperature in
+the range 400–600°C. But pure ceria is a poor ionic conductor so
+its ionic conductivity can be improved by doping with bivalent or
+trivalent oxides such as calcium, samarium, gadolinium, etc. [9].
+The ion doped ceria is a major candidate to reduce the operating
+temperature [20].
+From these more common doping elements Ca2+ is the cheapest
+element and easily doped with ceria. Therefore trivalent
+Sm3+ /Gd3+ can be replaced with Ca2+ bivalent element. Although,
+single phase calcium doped ceria (CDC)electrolyte conductivity
+is low relative to gadolinium doped ceria (GDC)and samarium
+doped ceria (SDC)electrolytes but by coating the alkali carbonates such as sodium (Na)and potassium (K), the conductivity of
+composite ceria oxide electrolytes can be enhanced at low temperature in the region 400–600°C [21].
+The single phase ion doped SOFCs have been developed years
+1Corresponding author.
+Contributed by the Advanced Energy Systems Division of ASME for publication
+in the JOURNAL OF FUEL CELL SCIENCE AND TECHNOLOGY. Manuscript received October
+14, 2010; ﬁnal manuscript received December 13, 2010; published online April 1,
+2011. Editor: Nigel M. Sammes.
+Journal of Fuel Cell Science and Technology AUGUST 2011, Vol. 8 / 041013-1
+Copyright © 2011 by ASME
+Downloaded From: http://fuelcellscience.asmedigitalcollection.asme.org/ on 06/16/2015 Terms of Use: http://asme.org/terms
+ago, e.g., GDC and SDC. Single phase ceramic electrolyte materials in solid oxide fuel cell, i.e., doped ceria electrolyte working
+at intermediate temperature 600–800°C, has made great technological success but still there are a lot of problems in its commercialized production [22–26]. High cost due to high working temperature is a major problem. In order to overcome this problem,
+two phase nanostructure electrolyte materials have been introduced by Nanocomposite for Advanced Fuel Cells Technology
+(NANOCOFCs)[26–29]. Ionic conductivity increases by approaching the nanostructure technique. Accordingly, nanocomposites can be deﬁned as the circulation of a second (or even third )
+phase, with nanoparticles’ size in a matrix that can be amorphous
+or crystalline. This shows that it is possible that these nanoparticles perform an important role to increase conductivity with
+Lewis acid-base interactions between the surface states of the ceramic nanoparticle with both the polymer chains and the anion of
+the alkali salt [27]. Second phase coated named as core shell on
+electrolyte material helps ions to transport from the way of the
+interface (electrode to electrolyte and vice versa ). This second
+phase can be obtained by coating alkali carbonates (M2CO3,
+where M=Li, Na, K, etc. )on the electrolyte materials. In consequence, Ce 4+ changes into Ce 3+ in ceria-composite electrolytes,
+which become the cause of partial reduction in conductivity, but
+the presence of alkali carbonates as second phase can effectively
+suppress the electronic conduction of CDC [21,27].
+SDC-Na2CO3 nanocomposite electrolyte was synthesized and
+1.150 W /cm2 power density was achieved at 500°C, which is
+about 50% low operating temperature and slightly greater power
+density than YSZ [28,30,31]. Xia et al. [32]reported that a ternary
+ionic conduction salt–ceria-composite electrolytes (SCCEs)
+named SDC using (Li/Na/K)2CO3 as coating material were prepared by oxalate coprecipitation method, and ionic conductivity
+was found 0.1 S/cm at 600°C in air and 1.7 W /cm2 power density was found using hydrogen at the anode side and binary
+CO2 /O2 at the cathode side.
+The present research work focuses on binary alkali carbonates
+that are coated on a calcium doped ceria-composite electrolyte
+material; here Ca +2 has been used instead of Sm +3 or Gd+3. This
+calcium creates more oxygen vacancies in electrolyte material.
+This composite provides material structure, surface morphology,
+ac impedance method for ionic conductivity, and cell performance
+with Ni based electrodes prepared in our laboratory.
+2 Experiment
+2.1 Electrolyte Powder Preparation. Nanostructure (Ce0.8
+Ca0.2 O1.9 and Na 2CO3 :K 2CO3)NK-CDC, i.e., nanocomposite
+powder, was prepared by coprecipitation method. Cerium nitrate
+hexahydrate Ce(NO3)3.6H2O (Sigma Aldrich, St. Louis, MO )and
+calcium nitrate tetrahydrate Ca (NO3)2.4H2O (Sigma Aldrich,
+USA)were the starting materials. The calcium nitrate tetrahydrate
+powder was mixed with cerium nitrate hexahydrate according to
+desired stoichiometry amount of 1:4 molar ratios. These two powders were dissolved into 1000 ml of de-ionized water under a
+vigorous stirring process with 800 rpm at 80°C initially. Alkali
+carbonates M 2CO3, i.e., sodium carbonate Na 2CO3 (Sigma Aldrich, USA )and potassium carbonate K 2CO3 (Sigma Aldrich,
+USA)powders, were mixed as 1:1 (molar ratio)and dissolved into
+500 ml de-ionized water under 1000 rpm at 100°C for 30 min.
+Then solution of both carbonates was poured drop by drop into
+solution of CDC according to ratio of CDC:NK as 1:2.5 molar
+ratios and continue for more2ha t 1200 rpm. Heating temperature
+of stirrer was controlled at 150°C ﬁnally. The pH value was noted
+to be 9. The precipitate was soaked three times with de-ionized
+water followed by vacuum ﬁltration and obtained NK-CDC agglomerate. In order to dry this agglomerate was kept in an oven at
+100°C over night. At last, this dried powder was sintered in a
+digital furnace at 700°C fo r4ht og e t dense nanocomposite electrolyte. This sintered powder was grinded in a mortar with a pestle
+to obtain homogeneity.
+The conventional Ni based electrode was prepared by solid
+state reaction method and sintered at 800°C for 4 h. This anode
+was mixed with electrolyte in weight ratio of electrode: electrolyte: active carbon 80:19.5:0.5.
+2.2 Cell Fabrication. The solid oxide fuel cell was fabricated
+by dry pressing technique. NK-CDC nanocomposite electrolyte
+was pressed between two layers of anode (Ni-NK-CDC)and cathode (Ni-NK-CDC)by hydraulic press at the rate of 200 kg /cm2.
+For a single cell test a small pellet of size 13 mm diameter was
+made having an active area of 0.64 cm 2. The cell thickness was
+0.8 mm followed as anode layer 0.35 mm, electrolyte layer 0.25
+mm, and cathode layer 0.2 mm. The pressed pellet was sintered at
+650°C for 40 min only. Both of the external surfaces “anode and
+cathode” of the cell were painted by silver paste as current collector to get I-V and I-P characteristics of the cell.
+2.3 Ionic Conductivity Measurement. In order to measure
+the ionic conductivity of the electrolyte material, a pellet of 13
+mm diameter and 3 mm thickness was fabricated and sintered at
+700°C for 1 h. The silver paste was painted on both sides of the
+pellet to facilitate good electrical contact. Ionic conductivity was
+measured by electrochemical impedance spectroscopy (EIS)
+method in both air and hydrogen atmosphere implementing Auto
+VERSATAT 2273(Princeton Applied Research, Oak Ridge, TN ).
+The frequency is varied from 0.1 Hz to 1 MHz. The conductivity
+was calculated using the formula
+sigma= L
+RA
+where sigmais the ionic conductivity, L is the thickness of the cell, R
+is the internal resistance, and A is the active area of the cell.
+2.4 Fuel Cell Performance. The fuel cell performance was
+measured by providing hydrogen as a fuel at the anode side and
+oxygen at the cathode side under variable resistance load using
+fuel cell testing unit (L-43, China ). Under each resistance load,
+the data of open circuit voltage (OCV)and current was recorded
+in the temperature range 400–550°C and I-V curves were drawn.
+From these results, power density also was calculated and current
+verses powers (I-P curves)were also drawn. Computerized instruments were used to complete the measurements, data collections,
+and result handling processes in our measurements. The H 2 gas
+ﬂow rate was used in the range of 110 ml/min at 1 atm pressure.
+3 Characterization
+3.1 X-Ray Powder Diffraction. X-ray diffraction (XRD)patterns of the electrolyte material were recorded to determine the
+crystalline structure at room temperature using a D/Max-3A
+Rigaku X-ray diffractometer with Cu Kalpharadiation (lambda
+=1.5418 Å ), 35 kV voltage, and 30 mA current. The crystallite
+size (Dbeta)was calculated from line-broadening measurements
+from the (111)peak of NK-CDC, using Scherer’s equation.
+Dbeta= 0.9lambda
+betacos theta
+where lambdais the wavelength and betais the full width half maximum
+(FWHM).
+3.2 Microscopic Analysis (SEM and TEM). For microscopic view and analysis of the prepared NK-CDC electrolyte,
+SEM (Philips XL-30 )was used. The detailed microstructure
+analysis and morphology including the size, shape, and arrangement of the particles, which make up the specimen, as well as
+their relationship to each other on the scale of atomic diameters,
+was performed by high resolution TEM (HRTEM)(JEOL JEM-
+2100F).
+041013-2 / Vol. 8, AUGUST 2011 Transactions of the ASME
+Downloaded From: http://fuelcellscience.asmedigitalcollection.asme.org/ on 06/16/2015 Terms of Use: http://asme.org/terms
+3.3 Result and Discussions. Figure 1 shows that the sintering
+temperature 700°C developed well crystallinity of the NK-CDC
+powder. The NK-CDC prepared by the coprecipitate method contains the only cubic ﬂuorite structure type CeO 2 (JCPDS 34-
+0394). The cubic ﬂuorite structures, such as zirconium, ceria, and
+thorium, are to be considered good oxygen conductors and mostly
+used in SOFC [33]. The XRD pattern shows that the calcium is
+fully doped in the ceria. Although the sodium and potassium carbonates were used for second phase on the CDC but there is no
+other peak in the pattern of the product. The small shift in the
+ceria peaks is due to introduction of CaO into CeO 2 as a doping
+element. The oxidation of Ce +4 into Ce +3 occurred during the
+sintering process. The particle size was calculated from the ﬁrst
+peak (111)and was found to be 12 nm, which compared with the
+SEM and TEM results.
+Figure 2 shows the morphology of structure and size of particle.
+It has been analyzed that the electrolyte has a good morphology
+and homogeneity. In the SEM picture, there are some particles
+having a loop of whiteness around the composite CDC in the
+same shape, which can be known as an alkali carbonate layer
+around the particles and is named core shell as observed in previous work [28]. The particle size was observed in the range 10–15
+nm. The purpose of this alkali carbonate core on CDC composite
+powder as a second phase is to provide a route to O− ions from the
+cathode side to the anode side. Due to introducing two phase
+nanocomposite electrolyte, the conductivity and performance of
+the cell enhance.
+Figure 3 shows the TEM analysis of particles, each particle is
+shown signiﬁcantly, it has seen that CDC particles are in crystal
+form, while the alkali carbonate layer (as coated phase )is amorphous. The detailed structural analysis and a study of interfaces
+using HRTEM will be carried out in some future work.
+Figure 4 shows that the ionic conductivity in air atmosphere is
+grater than hydrogen atmosphere and this difference is noted in
+the temperature region of 550–600°C. Both conductivities were
+about the same at lower temperature less than 500°C. The conductivity result shows that this composite is dual phase oxygen/
+proton conductor. It is already discussed in the introduction part
+that pure ceria is a poor conductor; however, its conductivity can
+Fig. 1 XRD pattern of NK-CDC electrolyte sintered at 700°C
+Fig. 2 SEM image of NK-CDC electrolyte
+Fig. 3 TEM analysis of NK-CDC: „a… CDC and „b… alkali layer
+Fig. 4 Ionic conductivity as measured in hydrogen and air
+atmosphere
+Journal of Fuel Cell Science and Technology AUGUST 2011, Vol. 8 / 041013-3
+Downloaded From: http://fuelcellscience.asmedigitalcollection.asme.org/ on 06/16/2015 Terms of Use: http://asme.org/terms
+be enhanced by doping with bivalent or trivalent elements. The
+second phase of alkali carbonates provides the best highway to
+ions to transport from cathode to anode. Banerjee et al. [34]reported that calcium doped ceria electrolyte (having composition
+Ce0.8 Ca0.2 O2− delta)shows a maximum conductivity 1.29
+x10−2 S /cm at 600°C. This CDC composition is similar to that
+used in this present work except the addition of sodium-potassium
+carbonate. In this present work, the conductivity was found to be
+0.1 S/cm, which is higher than the above reported by Banerjee et
+al. This means the presence of sodium potassium as a second
+phase has helped to increase the conductivity of the electrolyte.
+Arrhenius plot is drawn in Fig. 5 (a)to ﬁnd out the activation
+energy for the ionic conduction of the electrolyte material. To
+determine the activation energy of the material, the linear ﬁtting
+technique was carried out for both air and hydrogen atmosphere in
+temperature range 400–600°C. Linear ﬁt curve is shown in the
+inset of Figs. 5 (b)and 5(c), respectively. Activation energy of the
+material is calculated by using the formula
+sigma= A
+T exp− Ea
+kT
+where sigmais ionic conductivity, A is pre-exponential factor, k is
+Boltzmann’s constant,T is absolute temperature in Kelvin, and Ea
+is the activation energy. A chemical reaction starts on the basis of
+activation energy. This value is calculated as 0.20 eV and 0.52 eV
+at air and hydrogen atmosphere, respectively. It can be seen that
+the electrolyte conducts electricity in the presence of either air or
+hydrogen. This means NK-CDC is a dual phase conductor that
+conducts through negatively charged oxygen ions or through
+protons.
+Figure 6 shows the fuel cell performance. Hydrogen is used as
+a fuel at its anode side at a rate of 1 ml/min and oxygen is at the
+cathode side as oxidant. The value of OCV was observed to be 1.0
+V , 0.923 V , 0987 V , and 0.96 V at 550°C, 500°C, 450°C, and
+400°C, respectively. The maximum current density and power
+density were calculated as 1726 mA /cm2 and 567 mW /cm2 at
+550°C, respectively.
+4 Conclusion
+Nanocomposite electrolyte material NK-CDC prepared by the
+coprecipitation method shows good ionic conductivity of 0.1 S/cm
+at 600°C and cell performance of 567 mW /cm2 at 550°C. Alkali
+carbonate core shell basically enhances the conductivity of the
+electrolyte because it has been observed that isolated ceria is a
+poor conductor and by doping with bivalent or trivalent oxides, its
+conductivity increases, so in this study ceria is doped by Ca. The
+second phase alkali carbonates construct a highway for the transportation of ions such that O − ions move from the cathode side to
+the anode side at comparatively low temperature. The nanostructure was obtained by sintering at 700°C because this temperature
+developed a well crystalline structure of the electrolyte material.
+The introduction of CaO into CeO 2 is due to a small shift in the
+ceria peaks. The oxidation of Ce +4 into Ce+3 occurred during the
+Fig. 5 „a… Arrhenius curve for measurements of activation energy under hydrogen and air atmosphere, „b… linear ﬁt at hydrogen atmosphere, and „c… linear ﬁt at air atmosphere
+Fig. 6 Fuel cell performance
+041013-4 / Vol. 8, AUGUST 2011 Transactions of the ASME
+Downloaded From: http://fuelcellscience.asmedigitalcollection.asme.org/ on 06/16/2015 Terms of Use: http://asme.org/terms
+sintering process. This work will encourage a new approach to
+design and develop supersonic conductors for low temperature
+solid oxide fuel cell (LTSOFC)era.
+Acknowledgment
+One of the authors (G.A.)acknowledges the ﬁnancial support
+by the Higher Education Commission, Pakistan under International Research Support Initiative Program (ISRIP)to complete
+this work. They also acknowledge the ﬁnancially support of
+Swedish Agency for Innovation Systems (VINNOV A)and Swedish Energy Agency (STEM)through GETT Fuel cells AB industrialization projects.

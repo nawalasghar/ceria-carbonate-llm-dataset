@@ -1,0 +1,3 @@
+Records: 15 from 7 papers | GroupKFold(5)
+RMSE(log10 sigma) = 0.490   R2 = -0.232
+Note: tiny pilot dataset; metrics illustrate the grouped-validation workflow only.

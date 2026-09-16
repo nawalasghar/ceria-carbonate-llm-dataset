@@ -1,0 +1,470 @@
+Citation: Raza et al. 2012, JPS 201:121
+DOI: 10.1016/j.jpowsour.2011.10.124
+Source text: full text
+
+Journal of Power Sources 201 (2012) 121– 127
+Contents lists available at SciVerse ScienceDirect
+Journal of Power Sources
+jo ur nal  homep  age:  www.elsevier.com/locate/jpowsour
+Electrochemical study on co-doped ceria–carbonate composite electrolyte
+Rizwan Raza a,b,∗, Haiying Qin a, Liangdong Fan a, Kaori Takeda c, Minoru Mizuhata c, Bin Zhu a
+a Department of Energy Technology, Royal Institute of Technology (KTH), 10044 Stockholm, Sweden
+b Department of Physics, COMSATS Institute of Information Technology, 54000 Lahore, Pakistan
+c Department of Chemical Science and Engineering, Graduate School of Engineering, Kobe University, 1-1 Rokkodai-cho, Nada, Kobe 657-8501, Japan
+a r t i c l e i n f o
+Article history:
+Received
+ 2 August 2011
+Received
+ in revised form 18 October 2011
+Accepted
+ 31 October 2011
+Available online 6 November 2011
+Keywords:
+Calcium
+ carbonate
+Sodium
+ carbonate
+Co-doping
+Two
+ phase composite
+Ionic
+ conductivity
+a b s t r a c t
+A co-doped ceria–carbonate (Ce0.8 Sm0.2−x Cax O2−ı–Na2CO3) has been synthesized by a co-precipitation
+method.
+ The detailed electrochemical characterizations (e.g. impedance spectra, polarization curve and IV
+curves)
+ of this composite material are reported and discussed. The two phase nanocomposite electrolytes
+with
+ carbonate coated on the co-doped ceria displays dual (H+/O2− ) ion conduction at low temperature
+(300–600 ◦ C) in solid oxide fuel cell. The observed remarkable temperature-dependent of conductivity is
+attributed
+ to the softening/melting of carbonate phase as the physical state of carbonate phase transforms
+from
+ solid to molten state. Coexistence of various charge carriers, oxide phase composition, and the
+oxide–carbonate
+ interfacial area are investigated by Raman spectra. The enhancement of conductivity
+is
+ also discussed by the general mixing rule/percolation theory of composite interfaces. The co-doping
+with
+ 2nd phase gives a good approach to realize challenges for solid oxide fuel cell.
+© 2011 Elsevier B.V. All rights reserved.
+1. Introduction
+Conventional solid oxide fuel cells (SOFCs) based on yttria
+stabilized zirconia operate at high temperatures (>750 ◦C) which
+cause material and operational problems as well as the cost issue.
+Decreasing the operating temperature is a main stream for current
+R&D of SOFC [1–4]. Most efforts have gone into thin-ﬁlm technologies to develop intermediate temperature SOFC (600–800◦C)
+[2,3].
+A number of new electrolytes for reducing the operating
+temperatures of SOFC have been developed, such as ﬂuorite structured ion-doped ceria [5,6], perovskite type oxides [7], proton
+conducting ceramics [8,9], O2− conducting oxides [10,11] and
+apatite-type oxides [12]. Boysen et al. [13] proposed new ion conductors CsH2PO4 which can operate at low temperature range of
+200–400◦C. Also some more co-ion conductors were developed
+[14,15]. All these electrolytes are single-phase materials focusing on creating structural oxygen vacancies or interstitials (e.g. in
+apatite-type oxides). However, due to structural limitations, suf-
+ﬁcient ionic conductivities (0.1 S cm−1) and performance have not
+been reached.
+Ceria–carbonate composite electrolytes have attracted much
+attention during the last decade for the low temperature solid oxide
+fuel cell (LTSOFCs) [16–28]. Such composite electrolytes are considered as a new class of ionic conductors for its high conductivity
+∗ Corresponding author at: Department of Energy Technology, Royal Institute of
+Technology
+ (KTH), 10044 Stockholm, Sweden. Tel.: +46 762569336.
+which occurs via interfaces [27–29] with promising applications
+for low temperature, 300–600◦C SOFCs.
+The ceria–carbonate composite electrolyte in a nanocomposite have a number of advantages, such as super-ionic conductivity
+of 0.1 S cm−1 at 300 ◦C, fast ionic transport at interfaces, dual
+(H+/O2−) conductivity, negligible electronic conduction, interface
+and thermodynamic stabilities [30,31], compared with conventional mono-phase solid electrolytes. Nano effect and interfaces
+play major role in enhancing the conductivity of these composite
+electrolyte materials [16]. Therefore, it has been widely accepted
+that the enhancement effect of forming the composite is related to
+creating highly conducting paths along the interfaces between the
+host and second phase [31,32].
+The co-doped ceria–carbonate composite also exhibited high
+conductivity and performance as reported earlier [26]. Therefore, if
+we combined these two approaches (co-doped and composite) in
+preparing electrolytes which might produce much higher conductivity as compare to conventional electrolytes at low temperatures.
+In two phase electrolytes, doped ceria is the host phase and the
+carbonate is the second phase. We have developed a cost-effective
+co-doping composition which the calcium is a second cation into
+the samaria doped ceria (SDC) [26]. In order to enhance further the
+conductivity of the material, carbonate was used as a second phase
+to form the composite with the co-doped ceria.
+Electrochemical impedance spectroscopy (EIS) or AC impedance
+analysis has attracted tremendous attention in this decade for its
+numerous applications in electrochemical devices [33,34]. It can
+be used to determine the interfaces, electrochemical mechanism,
+reaction kinetics, ion conduction and electrode processes based on
+0378-7753/$ – see front matter ©  2011 Elsevier B.V. All rights reserved.
+doi:10.1016/j.jpowsour.2011.10.124
+122 R. Raza et al. / Journal of Power Sources 201 (2012) 121– 127
+the responses of the ac signals [33–36]. It is regarded as a powerful and accurate tool for electrochemical analysis [37]. Therefore,
+it is widely used in fuel cells especially in the SOFC to describe the
+interface and conduction mechanisms as compare to other electrochemical techniques [38].
+In this work, electrochemical characterization (e.g. impedance
+spectra, polarization curve/resistance and IV curves) of composite
+electrolyte is used for depth insight of its ionics conduction and
+interface mechanism. The sintering effect of gas atmosphere (air
+and H2) and carbonate is also studied by AC impedance technique.
+The enhancement of conductivity at the interface between the two
+phase nanocomposites electrolyte is discussed by the general mixing rule (GMR)/percolation theory of the composites.
+2.
+ Experimental and methodology
+2.1. Synthesis of the co-doped composite electrolyte
+Ca/Sm co-doped CeO2–carbonate composite electrolyte
+(CSDC–Na2CO3) was synthesized by co-precipitation method as
+reported before [26]. The dried precursors were sintered in a
+furnace at three different temperatures of 600, 700, 800 ◦C for 3 h
+for comparison, and named as sample-1, sample-2 and sample-3.
+2.2.
+ Single cell fabrication and performance
+The single cell of 1.3 cm diameter was fabricated by dry pressing
+technique using CSDC–Na2CO3 and NiZn oxide as electrodes (anode
+and cathode) [39]. The cell active area was 0.64 cm2 with a thickness
+of 0.08 cm. The pellet was sintered at 650 ◦C for 30 min. A silver
+paste was coated on both sides of the pellet as current collector.
+The cell performance was measured with a computerized
+instrument (S12, China). H2 gas was used as a fuel with a ﬂow
+rate of 100 ml min−1 at 1 atm pressure and ambient air was used
+as oxidant.
+2.3.
+ Raman spectra
+The sample was excited by the SHG light of Nd:VYO4 solid laser
+at 532 nm. Raman spectra were measured by Horiba T-64000 with
+triple monochromator of which optical alignment is shown elsewhere [40,41]. Wavenumber was calibrated by Si and CCl4. Each
+spectrum was measured at the wavenumber range around the /ETB1
+of CO32− ion (ca. 1060–1080 cm−1) from 808 to 1377 cm−1 by CCD
+detector with 2048 × 512 channels. Data was collected by Jobin-
+Yvon Spectra Link at 2047 points of CCD elements.
+2.4.
+ Electrochemical analysis and conductivity measurement
+A pellet of pure composite electrolyte CSDC–Na2CO3 was
+prepared with thickness of 0.2 cm and diameter of 1.3 cm for electrochemical and conductivity measurements. The silver paste was
+used as current collector in all measurements. The two probe AC
+impedance was performed by implementing Versa STAT 4 (Princeton Applied Research, USA) in hydrogen and air atmosphere. In
+order to study the polarization effect in the cell, AC impedance
+spectrum measurements of the fuel cell under open circuit voltage
+(OCV) and after operation condition were performed. For collecting
+EIS data, the frequency range was used from 0.01 Hz to 1 MHz under
+10 mV. In order to evaluate the measured impedance spectra, the
+experimental data were ﬁtted by software (ZSimpWin, Princeton
+Applied Research, USA) with equivalent circuit which contains various impedance elements representing the involved reaction steps
+and found the LRQ parameters from the equivalent circuit analysis.
+The AC conductivity of the material was calculated from the
+open circuit impedance spectra at high frequency arc intercept and
+25002000150010005000
+0,0
+0,2
+0,4
+0,6
+0,8
+1,0
+25002000150010005000
+Power density(mW cm-2)
+Voltage(V)
+Current density(mA cm-2 )
+ sample 1
+ sample 2
+ sample 3
+Fig. 1. I–V/I–P characteristics of single cell of different samples sintered at different
+temperatures.
+the activation energy of the composite electrolyte was calculated
+from the following Arrhenius equation.
+3. Results and discussion
+3.1. Performance
+ oxide/proton ion conductivity of the ceria–carbonate composite electrolyte is in the range of 10−1 to 5 × 10−1 S cm−1. The
+performance of the cell can be estimated with this formula
+i
+ = I
+a = V
+Ra = V
+(/SUBL/a)a = V/ESCT
+L (1)
+where
+ i is the current density, a is the area of the cell, V is the
+operating cell voltage, R is the resistance of the electrolyte, /SUB
+is the resistivity and /ESCT is the total conductivity (sum of protonic and anion) and L is the thickness of the cell. So, using our
+experimental results in this equation, V = 0.6 V, /ESCT = 0.3–0.5 S cm−1,
+L = 0.08 cm at temperature 500–600◦C. According to these parameters, we can calculate the performance of our cell. Therefore,
+the current density of our electrolyte supported cell can be calculated to be 2200–2400 mA cm−2, if compatible electrodes are
+used. We studied the fuel cell performance for three samples
+sintered at different temperatures. The fuel cell was fabricated
+using CSDC–Na2CO3–NiZn oxide composites for both electrodes
+and CSDC–Na2CO3 as an electrolyte support. It has been observed
+that the sample 2 sintered at 700 ◦C have much better performance
+as compare to other samples, Fig. 1 shows that maximum power
+densities (Pmax) of 900, 850 and 800 mW cm−2 were achieved at
+550 ◦C. The high cell performance of the low temperature solid
+oxide fuel cell (LTSOFC) using CSDC–Na2CO3 composite as electrolyte exhibits acceptable gas-tightness and negligible electronic
+conduction.
+Since the button cells were sintered at not high temperatures,
+e.g. conventional co-sintering SOFC pellets needs above 900 ◦C,
+while we only use 600 ◦C. The reason for using lower temperatures
+to sinter because we have to maintain or maximize interfaces in
+two-phase composites since the interfaces are the key factors to
+enhance the ion conductivities which is not same as the conventional structure mechanism. Therefore, there is a limit for sintering
+to form highly dense button cells in order to maintain or optimize
+high cell performances. Anyway, there is a conﬂict aspect to be
+considered. One way, max interfaces/optimized conductivity, but
+in the same time, it may get lower dense electrolyte in the button
+cell; otherwise, higher density, but less interface effect, then low
+R. Raza et al. / Journal of Power Sources 201 (2012) 121– 127 123
+Fig. 2. Schematic ﬁgure for co-ion transportaion mechanism.
+conductivity and low FC performances, but in the latter, OCV could
+be higher than the former case.
+In addition to that the sealing conditions in laboratory test
+devices not guarantee from the cell to cell. It may affect the
+observed OCV values, most importantly; we pay attention to how
+to enhance power and current outputs from the cells.
+The co-ionic conduction in composite electrolytes is considered
+to be responsible for the enhancement of the total conductivity
+and performance of our cell. The co-ions mechanism of the composite electrolyte is depicted in a schematic Fig. 2. The protons
+ions (H+) passes through the interfaces of the particles and oxygen ions (O2−) are passing through the host particles (doped ceria).
+The details mechanism is described elsewhere [32]. Due to co-ionic
+conduction, the LTSOFC has following reaction mechanism.
+For H+/O2− conducting electrolyte case,
+at
+ anode:
+H2 + O2− → H2O + 2e− (2)
+H2 → 2H+ + 2e− (3)
+at
+ cathode:
+(1/2)O2 + 2e− → O2− (4)
+Fig. 3. Raman spectra of CSDC–carbonate composite electrolyte spectra at room temperature at high temperature in H2 (10 vol%)–N2 atmosphere at high temperature in CO2
+gas ﬂow.
+124 R. Raza et al. / Journal of Power Sources 201 (2012) 121– 127
+(1/2)O2 + 2H+ + 2e− → H2O (5)
+ overall reaction is:
+H2 + (1/2)O2 → H2O (6)
+There
+ may be many interesting questions arise concerning the
+kinetics of these reactions, thus leading to interesting questions
+concerning the competitive rates, equilibrium constants, as well
+as dual or hybrid H+ and O2− conduction/transport in the same
+time etc. In addition, caused by the dual H+/O2− transport with H2O
+being formed on both the anode and cathode sides, there are also
+interesting questions regarding depletion and dilution effects in a
+practical fuel cell. However, these are somehow beyond existing
+FC scientiﬁc knowledge, we will keep continuing effects for a deep
+study on these issues.
+3.2.
+ Raman spectra analysis
+The Raman spectra of the CSDC–Na2CO3 are shown in Fig. 3.
+There are two peaks assigned to solid Na2CO3 and oxide lattice
+crystal at room temperature as shown in Fig. 3a. However, above
+the melting point, the peak is uniﬁed into the peak of dissociated
+carbonate ion in molten salts. These two bands/peaks are ceria lattice at 400 cm−1 and carbonate CO32− appears at 1100 cm−1 but
+there is no any other bands/peaks was observed [41].
+At high temperature, CO32− bands are remained even in CSDC
+composite electrolyte. In H2 gas atmosphere, CO32− bands are
+united at around 200 ◦C at which temperature is much lower than
+conventional melting point of carbonate melts as shown in Fig. 3b.
+In CO2 gas; CO32− bands increased with increasing temperature as
+shown in Fig. 3c. It has been observed that the interaction between
+CeO2 and CO32− are strong. The CeO2 bands at 400 cm−1 are not
+inﬂuenced by heat treatment but CO32− bands shown some expansion.
+3.3.
+ Electrochemical impedance spectroscopy analysis
+The typical AC impedance spectra of the solid ionic conductors show three contributions, one is high frequency arc for bulk,
+intermediate frequency for grain boundary and low frequency for
+electrode behavior [25]. The impedance spectra of ceria–carbonate
+composite electrolyte in air and H2 are shown in Fig. 4a and b
+respectively at different temperatures in the range of 400–550◦C.
+Whereas the low frequency arc is assigned to the conduction of
+oxide ion. The resistance of the high frequency arc is used to
+calculate the conductivity vs. reciprocal temperature using the electrolyte thickness divided by the active area. The different behavior
+of this composite electrolyte from simple ceria based electrolytes
+shows the different ionic process and mechanism but as expected
+for ceria and carbonate interface. Furthermore, the arc of the material becomes small as temperature increases.
+Fig. 5 shows the EIS results for the complete cells with anode,
+electrolyte and cathode under OCV and after twice fuel cell operations for delivering power outputs. The AC impedance spectra of
+the cell under OCV at different temperatures are shown in Fig. 5a.
+It can be seen that the Rtot is decreasing as temperature is
+increasing from 450 to 550 ◦C which is a considerable increase in
+the polarization resistance which was observed in low-frequency
+range, indicating that slow oxygen diffusion and oxygen reduction might occur in the cathode at 550 ◦C [39]. The R1 resistance
+is assigned to Ohmic. This relatively low ohmic resistance results
+in higher cell performance. The R2 and R3 are assigned to polarization resistances at high frequency (HF) and low frequency (LF)
+arc. In nanoscale materials, the difference between bulk and grain
+Fig. 4. Electrochemical impedance spectra (EIS) of pure composite electrolyte. (a)
+EIS
+ spectra in air atmosphere at different temperatures and (b) EIS spectra in H2
+atmosphere at different temperatures.
+boundaries is likely to be small and the resultant impedance spectrum may be modeled using a single semi-circle [43].
+The interrelation of the different contributions of anode, cathode
+and electrolyte are illustrated in the form of an equivalent circuit
+as shown inside Fig 5a and b. The ohmic resistance of electrolyte is
+known as R1. The Q is constant phase elements (CPE). The R2Q and
+R3Q are in series and are due to two arcs in Fig. 5 of cell EIS. R2Q
+element denotes the high frequency impedance arc and R3Q is due
+to low frequency impedance arc which is also related to inductance
+of the connecting leads/cables [42].
+The cell was operated twice and analyzed for the impedance
+spectra at different temperature and the results are shown in
+Fig. 5b. It can be seen that the overall resistance of the cell decreased
+with the increasing temperature. However, RHF decreased significantly with the increase in temperature while RLF kept almost
+the same. The spikes of the arc in the ﬁgure indicate that there
+is electrode effect at high temperature. The experimental data
+was ﬁtted carefully by an equivalent circuit which shown inside
+Fig. 5b. The O2− charge transfer is associated with RHF within the
+electrode dominated the overall electrode kinetic at lower temperature; however, it decreases substantially with the increasing of
+temperature. This impedance spectrum in a H2-containing atmosphere suggests a proton conducting mechanism, which has also
+been observed in SDC–(Li/Na)2CO3 system [44].
+Furthermore, it has been also observe that the overall resistance obtained under OCV condition is larger than that under
+R. Raza et al. / Journal of Power Sources 201 (2012) 121– 127 125
+Fig. 5. Electrochemical impedance spectra (EIS) of electrolyte supported cell. (a) EIS
+spectra
+ of the cell under OCV at different temperatures and (b) EIS spectra of the
+cell
+ after twice fuel cell operations at different temperatures.
+operating mode. It has been observed in other cells based on different ceria carbonate composite electrolyte due to introducing proton
+conductivity [45].
+3.4.
+ Conductivity (H+/O2−) of composite electrolyte
+The Arrhenius plots of the ionic conductivity for different composite electrolytes have been shown in Fig. 6. Fig. 6a described the
+oxide ion and Fig. 6b for proton ion conductivity.
+It can be seen that the CSDC–Na2CO3 exhibits the best ionic conductivity as shown in Fig. 6a. Since there are two effects: one is
+co-doping and the other is composite, resulting in a interface built
+between ceria and carbonate. The co-doping can enhance the oxygen ion concentrations and interface between ceria and carbonate
+facilitates the ions oxide/proton mobilities where the super-ionic
+conduction pathway takes place. The conductivity of all materials
+is high at higher temperature due to the conductivity which largely
+depends on the oxygen/proton ions mobile concentration and has
+higher mobility at high temperatures.
+The activation energy of the CSDC–CSDC–Na2CO3 (0.238 eV) is
+obtained from the Arrhenius relation. It is lower than that of the
+co-doped ceria electrolyte as reported by Banerjee et al. [33]. This
+is attributed to the interfaces of the composite material.
+Fig. 6b shows proton ion conductivity of composite electrolyte at
+500 ◦C. The proton conduction in bulk oxide and extensive proton
+exchange and transfer along the interface of the two percolating
+phases contributes to the enhancement of conductivity.
+Fig. 6. (a) Oxide ion conductivity of the CSDC–carbonate and comparison with other
+electrolytes.
+ (b) Proton ion conductivity of the CSDC–carbonate and comparison
+with
+ other electrolytes.
+3.5. Stability of conductivity
+Another important parameter, the stability of such nanocomposite electrolytes conductivity was investigates for its major
+contribution in the performance of the cell. Therefore, we have
+measured the conductivity for the duration of 21 h in 3 days (7 h per
+day) at 550 ◦C as shown in Fig. 7. The conductivity of CSDC–Na2CO3
+has reduced marginally after 21 h.
+3.6. Theoretical calculation on CSDC–Na2CO3 conductivity using
+GMR
+The conductivity of the composite materials can be estimated
+using GMR reported by Uvarov [46]. Therefore, the conductivity
+of the ceria–carbonate was calculated using Uvarov model. The
+appropriate form of this rule is expressed as follows,
+/ESC˛ = /ESC˛
+MX · (1 − f − fs) + /ESC˛
+s · fs + /ESC˛
+A · f (7)
+Then the generalized equation from Eq. (7) and it can be rewritten
+as for two phase composite materials;
+/ESCAi = [/ESC˛i
+1A · (1 − fi − fSi) + 1 · (/ESCSA)˛i · fSi + /ESC˛i
+2A · (fi)]1/˛i (8)
+/ESCBi
+ = [/ESC˛i
+1B · (1 − fi − fSi) + 1 · (/ESCSB)˛i · fSi + /ESC˛i
+2B · (fi)]1/˛i (9)
+Some known parameters are below
+˛2 = 0.99, i = 0.110, ˛1 = 0.3
+126 R. Raza et al. / Journal of Power Sources 201 (2012) 121– 127
+Table 1
+ ﬁtted curve results and parameter.
+Atmosphere Experimental results (conductivities of pure
+components)
+Fitted data using mixing rule
+CSDC (S cm−1 )
+Phase-1
+Carbonate (S cm−1 )
+Phase-2
+Factor-1 (alpha1) Factor-2 (alpha2) Thickness of the conductive
+layer,
+ /NAK (S cm−1 )
+Total
+ estimated
+conductivity,
+ /ESCS (S cm−1 )
+Air 5  × 10−2 1 × 10−4 0.3 0.99  0.2 1.3
+H2 18 × 10−2 1 × 10−4 0.3 0.99 0.2 1.5
+211815129630
+0.10
+0.15
+0.20
+0.25
+0.30
+0.35
+in H2
+σ(S.cm-1)
+t(h)
+T= 550 ºC
+in Air
+Fig. 7. Stability test for ionic conductivity of the CSDC–carbonate composite electrolyte
+ at 550 ◦ C.
+fi = 0.000 + i
+˛i = ˛1 · (1 − fi) + ˛2fi
+i
+fSi = 6 · /NAK · fi · (1 − fi)
+where
+ A is the air atmosphere and B is the H2 atmosphere /ESCS is the
+composite conductivity, /ESC1 is the conductivity of phase 1, /ESC2 is the
+conductivity of phase 2, f is the volume fraction of the second phase
+0.20 0.4 0.6 0.80
+0.067
+0.13
+0.2
+0.27
+0.33
+0.4
+S1k
+S2k
+σAi
+σBi
+xk x2 k, fi,
+Fig. 8. Composition dependence (volume %) conductivity of a CSDC–carbonate composite
+ and ﬁtting data after using general mixing rule for estimation of conductivity.
+of carbonates, and fs is the volume fraction of high-conducting
+interface region.
+where ˛1 and ˛2 are the factors, determined by morphology; /NAK is
+the thickness of the conductive layer on the interface between the
+components; f is the volume fraction of high conducting interface
+regions, /ESCS is its conductivity via interface [46].
+The conductivities and other parameters are described in Table 1
+for both atmospheres;
+The experimental conductivity and calculated data was compared in Fig. 8, using Eqs. (8) and (9). There is a good agreement
+between the qualitatively between the experimental and calculated data through this model. The comparative results from
+Fig. 8 also agree with the effective medium and percolation
+theory/models [47]. The ﬁtted curve results and parameter are
+described in Table 1. It can be seen that the conductivity of the composite electrolyte occurs via highly conducting interfaces because
+pure carbonate has only a conductivity of 10−4 S cm−1 at 500 ◦C
+[25,44]. It has been observed that this enhanced conductivity is
+attributed to the parallel connection between two resistances of
+the ceria and carbonate phases.
+4.
+ Conclusion
+The ceria-based oxide-ion conductor and carbonate-ion conductor showed impressive conductivity at temperatures close to
+the carbonates melting temperature for the interfacial and composite effect. The composite effect on the conductivity was also
+described by GMR which occurs due to super-ionic phase transition
+at the interphase. The GMR model agreed our experimental results.
+The highest co-ionic (H+/O2−) conductivity and performance of the
+cell 800 mW cm−2 was achieved at 550 ◦C even with a very low
+activation energy of 0.238 eV.
+The excellent results obtained shows that the nanocomposite
+co-doped ceria–carbonate is a promising electrolyte for LTSOFC
+and have a pivotal role in the cell performance and stability of
+SOFC, which explores a new path way for practical SOFCs towards
+the commercialization. This study contributes to the understanding of the properties of nanocomposite ceria–carbonate electrolyte
+for LTSOFCs based on the NANOCOFC approach.
+Acknowledgements
+This research was supported by the Swedish Innovation System
+(VINNOVA), the Swedish Research Council (VR)/Swedish Agency for
+International Cooperation and Development (Sida). Professor N.F.
+Uvarov from Institute of Solid State Chemistry, Novosibirsk, Russian
+Federation, is also acknowledged to help for calculations. The support of the Higher Education Commission (HEC) is also gratefully
+acknowledged for their provision of a PhD scholarship.

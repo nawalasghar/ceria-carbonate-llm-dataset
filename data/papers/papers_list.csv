@@ -1,0 +1,14 @@
+paper_id,ref_in_notes_doc,citation,material_focus,full_text_needed_from,status
+ref01_review,[1],"(review paper — see data/papers/pdf/1.pdf)",review of ML-assisted ceria electrolyte design,pdf/1.pdf,"excluded: not a primary ceria study"
+ref02_book,[2],"(book chapter — see data/papers/pdf/2.pdf)",book chapter (scanned image-only PDF),pdf/2.pdf,"excluded: not a primary ceria study"
+ref04_30ADC,[4],"Sarfraz et al. 2024, IJMMM 31:2253",Al-doped CeO2 (30ADC),Dr. Raza group,done
+ref05_BSDC,[5],"Ahmed, Raza et al. 2016, IJHE",Ba+Sm doped ceria + Na2CO3 (natural gas),Dr. Raza group,done
+ref06_SDC-Na2CO3,[6],"Raza et al. 2010, IJHE 35:2684",One-step SDC-Na2CO3,Dr. Raza group,done
+ref07_CSDC,[7],"Raza et al. 2010, JPS 195:6491",Ca+Sm co-doped ceria (CSDC),Dr. Raza group,done
+ref08_CSDC-Na2CO3,[8],"Raza et al. 2012, JPS 201:121",CSDC-Na2CO3 EIS analysis,Dr. Raza group,done
+ref09_Carbonate-SDC-coreshell,[9],"Raza et al. 2010, JNN 10:1203",Carbonate@SDC core-shell,Dr. Raza group,done
+ref10_NK-CDC,[10],"Abbas, Raza et al. 2011, JFCST 8:041013",Ca-doped ceria + Na/K binary carbonate,Dr. Raza group,done
+ref11_LN-SDC,[11],"Ali, Raza et al. 2018, ACS AMI",SDC + 7 carbonate compositions,Dr. Raza group,done
+ref12_Ba-SDC,[12],"Raza et al. 2015, APL 107:183903",Ba-SDC composite (proton conductor),Dr. Raza group,done
+ref35_SDC-Na2CO3-coreshell-2008,[35],"Wang, Ma, Raza et al. 2008, Electrochem Comm 10:1617",First core-shell SDC/Na2CO3,Dr. Raza group,todo
+,,"(add here: other ceria-composite papers cited in your review Table 2, e.g. refs 20-30 of the manuscript)",,,todo

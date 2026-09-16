@@ -1,0 +1,377 @@
+Citation: Raza et al. 2010, JNN 10:1203
+DOI: 10.1166/jnn.2010.1857
+Source text: full text
+
+Copyright © 2010 American Scientiﬁc Publishers
+All rights reserved
+Printed in the United States of America
+Journal of
+Nanoscience and Nanotechnology
+V ol. 10, 1203–1207, 2010
+Study on Nanocomposites Based on Carbonate@Ceria
+Rizwan Raza1/commaori2/commaori∗, Ying Ma 3/commaori4, Xiaodi Wang 3/commaori4, Xiangrong Liu 1/commaori5, and Bin Zhu 1/commaori4/commaori5
+1Department of Energy Technology, Royal Institute of Technology (KTH), 10044, Stockholm, Sweden
+2Department of Physics, COMSATS Institute of Information Technology, Lahore 54000, Pakistan
+3Division of Functional Materials, Royal Institute of Technology (KTH), 16440 Stockholm, Sweden
+4College of Material Science and Chemical Engineering, Harbin Engineering University, 150001, China
+5GETT Fuel Cells International AB Stora Nygatan 33, 11127 Stockholm, Sweden
+Nanocomposites based on the ceria-carbonate composite have demonstrated as electrolytes in
+development of successful 300–600 /compBC fuel cell technology . In this paper, the nanocomposite electrolyte based on carbonate@SDC (SDC: samarium doped ceria) was directly synthesized from the
+co-precipitation method and characterized by XRD, SEM, TEM, BET , etc. It was proved that the
+carbonate@SDC was a two-phase material with average particle size about 14.5 nm ( SBET) and
+crystalline size ( DXRD) ranged from 12 to 14 nm. When the carbonate@SDC electrolyte was used
+to fabricate single SOFC, the cell shows remarkable performance with maximum power density
+1000–1180 mw/cm 2 at low temperature (300–550 /compBC).
+Keywords: Nanocomposites, Ceria, Sodium Carbonate, Amorphous, Coated Ceria.
+1. INTRODUCTION
+Solid oxide fuel cells (SOFCs) are considered as one of the
+most promising power generation devices. 1/commaori2 Conventional
+SOFCs based on yttria-stabilized zirconia (YSZ) as electrolyte has achieved great success in SOFCs technology. 3/commaori4
+However, in order to reach high enough oxygen ion conductivity, conventional SOFCs have to be operated at very
+high temperature (800 ∼1000 /compBC), a condition that bring a
+lot of disadvantages in long-term stability, manufacturing
+cost, etc. 3–5 Therefore, reducing the operation temperature
+is becoming a world tendency in order to develop marketable SOFCs.3–7 In last several decades, ion-doped CeO 2,
+with an order of magnitude higher ionic conductivity than
+that of YSZ, has been considered as potential ion electrolyte for low temperature SOFCs (LTSOFCs). 4–7 However, ceria-based oxides show a mixed ionic-electronic
+conducting behaviour in reduced environment because of
+the reduction of Ce 4+ to Ce 3+, which poses a signiﬁcant
+decrease of the cell voltage, power output and efﬁciency. 4
+Therefore, the discovery of a new solid electrolyte for lowtemperature SOFCs is a grand challenge for the SOFC
+community.1/commaori3
+“The nanotechnology world and energy meet to unveil
+a realm of functional materials for fuelling the challenge of low-carbon, sustainable energy.” 7 As Schloegl
+∗ Author to whom correspondence should be addressed.
+suggested, nanotechnology has boosted many types of
+energy-related technologies. While for SOFCs ﬁeld, there
+is little progress, since nanostructured materials would
+undoubtedly lead to structural instability at elevated operating temperature. 2–7 However, nanocomposite approach
+has made a great breakthrough in low temperature SOFCs
+ﬁeld recently, not only constructing a bridge that connecting nanotechnology and SOFCs technology, but also combining advantages of both nanotechnology and composite
+technology.2–8
+Nanocomposite electrolyte is a kind of two phase functional materials, usually composed of doped ceria and various salts as electrolyte. 2–4 Among them, ceria-carbonate
+composite is the most typical composite electrolyte with
+which the cells have been reported to achieve the best
+performances.3–10 In 2000, Bin Zhu et al. reported for the
+ﬁrst time the ceria-based composite electrolyte for SOFCs
+and obtained an output of 200–400 mW cm −2 at 400–
+750 /compBC by a single cell. 11 After several years’ development, Huang et al. reported a remarkable performance of
+1085 mW cm −2 at 600 /compBC for the cell made by SDCcarbonate composite electrolyte. 12 Lately a novel coreshell SDC/amorphous Na 2CO3 nanostructured composite
+were fabricated and exhibited an excellent performance of
+0 . 8Wc m −2 at 550 /compBC, demonstrating a new nanocomposite approach of designing and developing superionic
+conductors for low-temperature SOFCs. 13 Nanocomposite approach makes it possible to apply nanomaterials to
+J. Nanosci. Nanotechnol. 2010, Vol. 10, No. 2 1533-4880/2010/10/1203/005 doi:10.1166/jnn.2010.1857 1203
+Study on Nanocomposites Based on Carbonate@Ceria Raza et al.
+SOFCs electrolyte research, and it is of great signiﬁcance
+and potential to new generation SOFCs. 4/commaori20
+This study aims to improve the synthetic route of
+nanocomposite based on carbonate@ceria and do some
+investigation on its electrochemical performance as electrolyte of SOFCs. The carbonate@ceria nanocomposite
+was prepared by a feasible co-precipitation method and
+characterized by XRD, SEM, BET, TEM, etc. Single cells
+with carbonate@ceria nanocomposite electrolyte was fabricated and tested at low temperature range.
+These developments have been established
+through an NANOCOFC (Nanocomposites for
+advanced fuel cell technology) EC FP6 project
+(http://www.ket.kth.se/nanocofc/).19–20
+2. SYNTHESIS OF NANOCOMPOSITES
+CARBONATES@CERIA
+The nanocomposites based on carbonate@ceria two
+phase samples were prepared by one-step co-precipitation
+method.19−20 Stoichiometric amount of samarium (III)
+nitrate hexahydrate Sm(NO 3/rparenori3 · 6H2O and cerium (III)
+nitrate hexahydrate Ce(NO 3/rparenori3· 6H2O were dissolved in the
+ionic water to get the 0.5 M solutions with a molar ratio of
+Ce3+/colonoriSm3+ is 4:1. 13–19 Then sodium carbonate (Na 2CO3)
+solution was added into above cation solution as the precipitation agent under vigorous stirring, with molar ratio,
+i.e., (Ce 3++Sm3+):CO2−
+3 = 1:2, 1:3 and 1:4 (These samples were named as Ce12, Ce13 and Ce14 respectively).
+There is a surplus of sodium carbonate; only a molar
+ratio of Sm 3+/Ce3+:CO2−
+3 = 1:1.5 is needed to complete
+the SDC carbonate deposit formation; thus 0.05, 0.15 and
+0.25 mole of Na 2CO3 for Ce12, Ce13 and Ce14, respectively, was unused and remained in the solution together
+with the deposit. This mixture of solution and deposit is
+then subjected to a vaporizing process, followed by drying and calcination at 800 /compBC for 4 hour, resulting in the
+as-prepared SDC-Na 2CO3 composites.13–19
+3. NANOCOMPOSITE CHARACTERIZATION
+Powder X-ray diffraction (XRD) patterns of the samples
+were collected on a Philips X′pert pro super Diffractometer
+with Cu K /SLalpharadiation (/SLlambda= 1/periodori5418 Å) for phase analysis
+and crystal size calculation. The crystallite size ( SXRD)i s
+estimated with the (111) diffraction peak by the Scherrer
+formula.14–15 Differential scanning calorimetry (DSC) data
+were recorded on TA DSC Q2000 instruments, with a
+heating rate of 10 /compBC· min−1 in air ﬂow of 100 mL ·
+min−1. Surface areas of samples were determined using
+the Brunauer-Emmit-Teller (BET) method from the lowtemperature adsorption of nitrogen, performed at −196 /compBC
+after degassed at 350 /compBC for 12 h. 14–15 A Zeiss Ultra
+55 ﬁeld-emission scanning electron microscope (FESEM)
+was used to examine the morphology and microstructure of samples. 13–25 The ﬁnally maintained amount of the
+Na2CO3 in the SDC- Na 2CO3 was analyzed by the energydispersive X-ray spectroscopy (EDX) analysis. Transmission electron microscopy (TEM) and high-resolution
+transmission electron microscopy (HRTEM) were performed on a JEOL JEM-2100F microscope with a ﬁeld
+emission gun operating at 200 kV . 13–15
+4. ELECTROCHEMICAL MEASUREMENTS
+The single cells were fabricated using the hot pressing
+process. Equal weights of composite electrolyte and electrode we prepared were ﬁrst mixed to prepare anode material. Then anode, electrolyte and cathode were uniaxially
+pressed into a pellet and then sintered at 650 /compBC for 30 min
+in air.12–13 The size of the pellets had diameter of 13 mm
+and thickness of 0.8 mm. Finally, both anode and cathode
+surfaces were painted by silver paste as current collectors for fuel cell measurements. 13–17 The fuel cell with the
+active area of 0.7 cm 2 was tested at 400 to 550 /compBCb y
+a computerized fuel cell measurement equipment (L-43),
+where hydrogen and air were used as fuel and oxidant
+respectively. The gas ﬂow rates were controlled in the
+range of 80 to 120 ml min −1 at 1 atm pressure.
+5. RESULTS AND DISCUSSION
+In our previous work, we reported the novel coreshell nanostructured carbonate@SDC composite for lowtemperature SOFC applications. 13 In this work we
+improved the synthetic processes using a one-step coprecipitation process to prepare carbonate@SDC nanocomposites, which has provided a number of advantages:
+(a) to simplify the preparation processes involved to
+enhance the production;
+(b) to make the produced materials in good quality control, more homogenous composite micro-structure;
+(c) to reduce manufacturing costs for material
+production.19–20 This work reports the improved carbonate@ceria nanocomposite electrolyte material: structural
+and electrical properties with more fundamentally studies
+on the carbonate@ceria as the electrolyte.
+XRD pattern of three electrolytes with different composition (Ce12, Ce13 and Ce14) was shown in Figure 1.
+It can be seen from the ﬁgure that all the peaks were
+indexed to the cubic ﬂuorite-type structure CeO2 (JCPDS
+34-0394); broadened peaks also indicate the small crystallite size of the product. The samarium dopant caused a
+small shift of the ceria peaks due to a change in the lattice
+parameter,13/commaori19 which is a sign for a high samarium dopant
+concentration in SDC. Besides, the carbonate exists as an
+amorphous phase with no peak observed, which agrees
+well with results of Wang et al. 13
+1204 J. Nanosci. Nanotechnol. 10, 1203–1207 , 2010
+Raza et al. Study on Nanocomposites Based on Carbonate@Ceria
+0 2 04 06 08 0 1 0 0Intensity (a. u.)
+2θ
+1-2
+1-3
+1-4
+Fig. 1. X-ray Diffraction pattern for carbonate@ceria samples.
+In our experiment, there might be an uncertainty of
+the existence of NaNO 3 in ﬁnal product, since NaNO 3 is
+another product with considerable amount beside SDC precursor. However, no peaks of NaNO 3 are observed either;
+this is because of low melting and decomposition temperature of NaNO 3.24 V olatilization and decomposition happens for NaNO 3 at 800 /compBC, which conﬁrms the validity
+of our one-step co-precipitation process to prepare carbonate@SDC nanocomposites.
+Figure 2 shows the plot between calculated lattice
+parameters of nanocomposite materials with varied ratio
+of Sm 3+/Ce3+:CO2−
+3 . It can be seen that lattice constant
+decrease with increased carbonate ratio in the composite. It
+may be caused by Na +Sm3+ co-doped mechanism. 14/commaori22–24
+This means that in the co-precipitation process, there are
+three kinds of cations Sm 3+,C e 4+ and Na + existing in
+the solution. Though the Na 2CO3 in a preferential rule to
+deposit the Sm 3+/Ce4+ as the carbonate precipitate, there
+may be also some Na + acting as dopant to the ceria even
+if this is not the preferential process for the cation doping
+in ceria.
+1/2 1/3 1/4
+0.5415
+0.5420
+0.5425
+0.5430
+0.5435
+0.5440
+0.5445
+Lattice parameters (nm)
+SDC/Carbonates (molar ratio)
+Fig. 2. Lattice parameters of SDC-Na 2 Co3 with different composition.
+The crystallite size DXRD of as-prepared composite can
+be calculated by the following Scherrer equation.
+DXRD = 0/periodori9/SLlambda
+B cos/SLtheta (1)
+/SLlambda= wavelength, /SLtheta= diffraction angle and B = B2
+m −
+B2
+s (FWHM).
+For example, for the composite sample Ce12, the calculated crystallite size is 12.6 nm.
+The morphology of the carbonate@SDC composite
+sample Ce12 examined by scanning electron microscopy
+(SEM) is shown in Figure 3. The ﬁgure displays a
+homogenous nanocomposite with a particle size distribution range between 50–100 nm. The component and
+content of the Ce12 sample were recorded by the energydispersive X-ray spectroscopy (EDX) and showed in
+Figure 4. Na, Ce, Sm, C, O elements were detected from
+as-prepared sample, without impurity. The atoms ratio is
+34:29:7 for Na:Ce:Sm calculated using EDX element analysis. This reveals that the Ce12 composite is composed
+of Na2CO3 and Ce0/periodori8Sm0/periodori2O1/periodori9 with the approximate molar
+ratio of 0.5:1, which matches well with the experimental
+data.
+The detailed nanostructure of carbonate@SDC
+nanocomposite is further observed by the high resolution
+TEM (HRTEM) as shown in Figure 5. It can be clearly
+seen from Figure 5 that the SDC particles with average
+particle size of 14 nm are coated with an amorphous
+sodium carbonate layer. The materials consist of small
+grains of size 5 nm with the interfaces between the
+SDC and carbonate, which may produced the superionic
+conduction between the two constituent phases. 25 The
+interfaces in two phases play a key role in the superionic
+conduction for this nanocomposite material.
+To compare the average particle size, surface area
+of Ce12 sample was also measured and calculated by
+Brunauer-Emmit-Teller (BET) method. Assume that the
+Fig. 3. SEM images of carbonate@ceria.
+J. Nanosci. Nanotechnol. 10, 1203–1207, 2010 1205
+Study on Nanocomposites Based on Carbonate@Ceria Raza et al.
+Fig. 4. EDX analysis result for the as-prepared SDC-Na 2 CO3 nanocomposite sample.
+particles are spherical shape and size. The average particle
+diameter, SBET,i s
+SBET = 6× 103
+/SLdeltathSBET
+(2)
+where SBET = 12/periodori4629 m 2/g(surface area by BET) and
+/SLdeltath = theoratical density of carbone@ceria (g/cm 3). Particle Size DBET = 14.5 (nm).
+The average particle size 14.5 nm of the material calculated with Eq. (2) and crystallite size 12.65 nm from the
+Scherrer formula (Eq. (1)) and also average particle size
+14 nm from TEM are depicted in Table I. These results
+are the agreement of the nano particles in the composite material and the results of BET calculation and TEM
+observations are conﬁrmed and verify the XRD results.
+DSC thermal analysis of carbonate@SDC Ce12 sample was shown in Figure 6. The thermogram shows one
+endothermic peak at 100 /compBC and a wide endothermic process in the temperature range of 200–400 /compBC. The peak
+at 100 /compBC is due to the water evaporation of sample. But
+within the temperature range of the endothermic process,
+SDC or crystalline Na 2CO3 phase does not exhibit any
+thermal transitions, so this process can be attributed to the
+Crystalline SDC
+Amorphous sodium carbonate
+Fig. 5. HRTEM images of carbonate@ceria composite.
+Table I. Particle and crystalline size of the Ce12.
+Surface SBET DXRD DTEM
+SDC: Carbonate area (m 2 /g) (nm) (nm) (nm)
+1:2 12.46 14 12.60 14
+soften process and glass transition of amorphous Na 2CO3.
+This fact shows clearly that the core–shell nano-structure,
+i.e., nano-SDC particles coated by an amorphous Na 2CO3
+layer play a signiﬁcant role to determine the composite material structural and microstructural as well as the
+electrical properties for fuel cell applications, see bellow;
+while the individual component of the SDC or Na 2CO3
+can never possess such new functions.
+Though the electrical conductivity and some initial
+fuel cell results were reported before, 13 according to the
+advance of such super-conducting nanocomposite carbonate@SDC electrolyte, the potential of the material advantageous have not been explored to reach the material real
+capabilities. The carbonate@SDC nanocomposite materials present a new scientiﬁc principle and the central
+ideas are (i) to build two-phase materials, architectures
+and properties to replace the conventional single-phase
+materials; (ii) to design and develop superionic conduction with emphasis on the interfaces. The appropriate twophase interfaces can be constructed as ionic highways.
+Indeed, with our extensively continuous efforts, we have
+improved the fuel cell performance signiﬁcantly to prove
+such material advantages. Figure 7 shows the fuel cell performance, I–V (current–voltage) and I–P (current–power)
+densities characteristics. 10–13 The maximum power density is 1180 mW/cm 2, and 1000 mW/cm 2 at 540 /compBC and
+520 /compBC, respectively under the H 2/air operations which can
+be compared to those reported previously, the fuel cell
+performances have been enhanced to 150% (please check
+this with previously published one!). It is motivating that
+the simple as-synthesized method with a speciﬁc composition of Carbonate@ceria reported in this work gives the
+best performances at low temperatures ( T< 550 /compBC). This
+0 100 200 300 400 500 600
+–1.0
+–0.8
+–0.6
+–0.4
+–0.2
+0.0
+DSC
+Heat flow (W/g)
+Temperature (°C)
+Fig. 6. DSC Thermogram.
+1206 J. Nanosci. Nanotechnol. 10, 1203–1207 , 2010
+Raza et al. Study on Nanocomposites Based on Carbonate@Ceria
+0 500 1000 1500 2000 2500 3000 3500
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+1.1
+0 500 1000 1500 2000 2500 3000 3500
+Cell voitage (V)
+Current density (mA/cm2)
+v520
+v500
+v540
+v550
+Power density (mW/cm2)
+Fig. 7. I–V/I –P characteristics of LTSOFC at different temperature.
+is evident of the best electrochemical properties so far.
+Though based on the present knowledge and experiment
+we have not yet fully explain the interfaces and interfacial
+superionic conduction exiting and through these interfaces
+between the two phases nanocomposites, this work and
+achieved successful results have provided clear experimental evidences for such behaviour and science. These should
+be understood and described by the NANOCOFC Science
+which has been proposed and been establishing. 20
+6. CONCLUSIONS
+The nanocomposite study of carbonate@ceria is very supportive to reduce the temperature and comprehend the
+two phase electrolytes for solid oxide fuel cell. The
+nanocomposite electrolyte based on carbonate@ceria was
+directly synthesized from the co-precipitation method. It
+was proved that the carbonate@ceria was a two-phase
+material with a core-shelled composite structure in nanoscale. This nanocomposite electrolyte with average particle size about 14.5 nm ( DBET) and crystalline size ( DXRD)
+ranged from 12 to 14 nm. The maximum power density 1000–1180 mw/cm 2 at low temperature (300–550 /compBC)
+shows the substantial best from all SOFC electrolytes
+which were reported.
+These results show that the NANOCOFC approach of
+designing and developing superionic conductors for low
+temperature SOFCs makes a feasibility to construct interfaces that may act as “superionic highway” in two-phase
+material based on the carbonate coated on SDC while each
+constituent individual phase, SDC or Na 2CO3 does not
+possess. It has been found that the using our unique technique for two phase nanocomposite materials, the solid
+oxide fuel cell can lower operating temperatures, contribute better performance with full advantage of the synergistic effects than conventional materials.
+Acknowledgments: This work is supported by the EC
+FP6 NANOCOFC project (Contract no. 032308), Swedish
+Energy Agency (STEM), and VINNOV A. The HEC and
+COMSA TS University, Pakistan are also acknowledged for
+Ph.D. scholarship.
+References and Notes
+1. A. Lashtabeg and S. J. Skinner, J. Mater . Chem. 16, 3161 (2006).
+2. S. Li and B. Zhu, J. Nanosci. Nanotechnol. 8, 1 (2008).
+3. J. Garcia-Barriocanal, A. Rivera-Calzada, M. V arela, Z. Sefrioui,
+E. Iborra, C. Leon, S. J. Pennycook, and J. Santamaria, Science 321,
+676 (2008).
+4. B. Zhu, Int. J. Energy Res. 30, 895 (2006).
+5. A. S. Aricò, P . Bruce, B. Scrosati, and J. -M. T. W. van Schalkwijk,
+Nat. Mater . 4, 366 (2005).
+6. J. B. Goodenough, Nature 404, 821 (2000).
+7. R. Schloegl, Nat. Mater . 7, 772 (2008).
+8. B. Zhu, J. Power Sources 114, 1 (2003)
+9. B. C. H. Steele and A. Heinzel, Nature 414, 345 (2001).
+10. M. G. Bellino, J. Mater . Chem. 18, 4537 (2008).
+11. B. Zhu, X. R. Liu, P . Zhou, X. T. Y ang, Z. G. Zhu, and W. Zhu,
+Electrochem Commune. 3, 566 (2001).
+12. J. Huang, Z. Mao, Z. Liu, and C. Wang, J. Power Sources 175, 238
+(2008).
+13. X. Wang. Y . Ma, R. Raza, M. Mamoun, B. Zhu, Electrochem Commune. 10, 1617 (2008).
+14. Y .-P . Fu, S.-B. Wen, and C.-H. Lu,J. Am. Chem. Soc. 91, 127 (2008).
+15. Z. Wei, T. Xia, W. Feng, J. Dai, Q. Wang, W. Li, and P . Y an, Rare
+Metals 25, I72 (2006).
+16. B. Zhu, X. T. Y ang, J. Xu, Z. G. Zhu, S. J. Ji, and M. T. Sun,
+J. Power Sources 118, 47 (2003).
+17. T. Schober, Electrochem. Solid State Lett. 8, A199 (2005).
+18. B. Zhu, S. Li, and B. E. Mellander, Electrochem Commune. 10, 302
+(2008).
+19. R. Raza, X. Wang. Y . Ma, and B. Zhu, Int. Journal of Hydrogen
+Energy, in Press.
+20. B. Zhu, Introduction on NANOCOFC science and workshop, An
+International Conference on Hydrogen Energy , August, Changsha,
+China (2008).
+21. J. Huang, Z. Mao, Z. Liu, and C. Wang, Electrochem. Commun. 9,
+2601 (2007).
+22. Y . Y usuf and M. Akinc, J. Am. Ceramic. Soc. 91, 77 (2008).
+23. A. Krajewski et al., J. Molecular Structure 744–747, 221 (2005).
+24. David R. Lide (ed.), CRC Handbook of Chemistry and Physics,
+89th edn. (Internet V ersion 2009), CRC Press/Taylor and Francis,
+Boca Raton, FL.
+25. K. Kaneko, K. Inoke, B. Freitag, A. B. Hungria, P . A. Midgley,
+T. W. Hansen, J. Zhang, S. Ohara, T. Adschiri, Nano Lett. 7, 421
+(2007).
+Received: 27 November 2008. Accepted: 25 March 2009.
+J. Nanosci. Nanotechnol. 10, 1203–1207, 2010 1207

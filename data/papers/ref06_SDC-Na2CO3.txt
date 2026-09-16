@@ -1,0 +1,350 @@
+Citation: Raza et al. 2010, IJHE 35:2684
+DOI: 10.1016/j.ijhydene.2009.04.038
+Source text: full text
+
+Improved ceria–carbonate composite electrolytes
+Rizwan Raza a,b,*, Xiaodi Wang c,d, Ying Ma c,d, Xiangrong Liu a,e, Bin Zhu a,d,e
+aDepartment of Energy Technology, Royal Institute of Technology (KTH), 10044 Stockholm, Sweden
+bDepartment of Physics, COMSATS Institute of Information Technology, Lahore 54000, Pakistan
+cDivision of Functional Materials, Royal Institute of Technology (KTH), 16440 Stockholm, Sweden
+dCollege of Material Science and Chemical Engineering, Harbin Engineering University, 150001, China
+eGETT Fuel Cells AB, Stora Nygatan 33, S-10314 Stockholm, Sweden
+article info
+Article history:
+Received 21 March 2009
+Received in revised form
+13 April 2009
+Accepted 15 April 2009
+Available online 14 May 2009
+Keywords:
+Low temperature
+Ceria–carbonate
+Nanocomposites
+Interfacial mechanism
+Superionic conduction
+abstract
+It has been successfully demonstrated that the fuel cells using the ceria–carbonate
+composite as electrolytes have achieved excellent performances of 200–1150 W/cm2 at 300–
+600 ° C. Previously it was reported these ceria–carbonate composite electrolytes have been
+prepared with two-step processes: step 1, prepare ion-doped ceria which was prepared
+usually through the wet-chemical co-precipitation process; step 2, mixing the doped ceria
+with carbonates in various compositions. We ﬁrst report here to prepare the SDC–
+carbonate composites within one-step chemical co-precipitation process, i.e. mixing
+carbonates and preparing the SDC in the same process. The one-step process has provided
+a number of advantages: (i) to reduce the involved preparation processes to enhance the
+production, to make the produced materials in good quality control, more homogenous
+composites microstructure; (ii) as results, these composites showed also different microstructures and electrical properties. It has signiﬁcantly improved the ceria–carbonate
+conductivities and cause the superionic conduction at much lower temperatures; (iii) to
+reduce manufacturing costs also.
+ª 2009 Professor T. Nejat Veziroglu. Published by Elsevier Ltd. All rights reserved.
+1. Introduction
+The solid oxide fuel cells (SOFCs) have been developed from
+previous several decades based on ion-doped single-phase
+and single-ion conducting oxide conductors, e.g., YSZ (yttrium
+stabilized zirconia) and ion-doped ceria, e.g., Gd 3þ and Sm3þ
+doped CeO 2 (GDC and SDC) [1,2]. The ion-doped ceria as
+a major candidate to realize the LTSOFC until 500 ° C [1].
+However, critical challenges limit seriously its applications
+because: (i) low conductivity, 5 × 10− 3–1.0 × 10− 2 Scm− 1
+(600 ° C), not sufﬁcient for high performance SOFCs which
+require at 0.1 Scm− 1 level [2–5]; (ii) the Ce4þ partially reduced
+to Ce 3þ in the fuel cell causing e − -conduction to decrease
+signiﬁcantly in the open circuit voltage (OCV) and thus the cell
+efﬁciency; (iii) nano-sized ceria particles enhanced
+e− conduction; (iv) poor mechanical property caused by the
+electronic reduction [2–5].
+To develop conventional SOFCs to lower temperatures,
+300–600 ° C, i.e. LTSOFCs, operated at a temperature lower
+than that of a hot plate of a typical electric kitchen-range,
+opens new opportunities for SOFC commercialization [6].T o
+signiﬁcantly reduce the SOFC operational temperatures, new
+electrolytes are needed. In recent years, various ceria-based
+composites, widely involved ceria–salts and ceria–oxide
+* Corresponding author at . Department of Energy Technology, Royal Institut e of Technology (KTH), 10044 Stockholm, Sweden.
+Tel.: þ46 87907403.
+E-mail address: rizwanr@kth.se (R. Raza).
+Available at www.sciencedirect.com
+journal homepage: www.el sevier.com/locate/he
+0360-3199/$ – see front matter ª 2009 Professor T. Nejat Veziroglu. Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.ijhydene.2009.04.038
+international journal of hydrogen energy 35 (2010) 2684–2688
+composites have been developed [7–13]. The ceria–salts, especially ceria–carbonate composites become the focus; the R&D
+activities in this area have been extensively carried out. Latest
+result reported by Huang et al. by using such composite as
+electrolytes, their fuel cell performance reached 1100 mW/cm2
+at 600 ° C [13]. Previously reported the ceria–carbonate
+composite electrolytes have been prepared with two-step
+processes: step 1, prepare ion-doped ceria (The samarium
+doped CeO2 is more commonly reported.) which was prepared
+usually by using the wet-chemical co-precipitation process;
+step 2, mixing the doped ceria with carbonates (usually Li, Na
+and K-carbonates) in various compositions [6–10]. The SDC–
+carbonate composite electrolytes have been reported with
+much better fuel cell performances than those of the SDC. In the
+same time they can improve the material stability [7–13].
+Especially, strong activities have been carried out in recent years
+focusing on nanocomposite approaches in NANOCOFC (Nanocomposites for advanced fuel cell technology) – a currently ongoing EC FP6 NMP project (www.nanocofc.org) coordinated by
+Prof. Bin Zhu, where two-phase materials with nano-scale
+particles are to be used to construct and develop multifunctional materials for low temperature, 300–600 ° Cc e r a m i co r
+solid oxide fuel cells [6]. We used the NANOCOFC approach to
+develop ceria and carbonate nanocomposites for electrolytes. In
+this work, we ﬁrst report to prepare the SDC–carbonate
+composites in a simpliﬁed preparation within one-step chemical co-precipitation process, i.e. mixing carbonates and
+preparing the SDC in the same process.
+2. Experimental
+2.1. Synthesis of ceria–carbonate composites
+Nanostructure SDC–Na 2CO3, i.e. nanocomposite electrolyte
+was synthesized by a co-precipitation process. In synthesis of
+ceria–carbonate composites following raw chemicals were
+used for 1.0 M solutions, Ce (NO3)3$6H2O (Sigma–Aldrich) and
+Sm (NO3)3$6H2O (Sigma–Aldrich). According to desired molar
+ratios, the solution of Sm (NO 3)3$6H2O was mixed with the
+solution of Ce (NO 3)3$6H2O. According to ‘‘metal ion:
+carbonate ion ¼ 1:2’’ in molar ratio, a pertinent amount of
+Na2CO3 solution (1.0 M) was added slowly (10 ml/min) to
+complete the ceria–carbonate composites within a wetchemical co-precipitation process. There was a mixture of
+SDC and carbonates in the same process. After this process
+the mixture was ﬁltered by suction ﬁltration method. That
+precipitate was dried over night in the oven at 50 ° C. Finally,
+that dried solid was crushed in a mortar with pestle, and
+sintered at 800 ° C for 2 h, and analysed the amount of the
+Na2CO3 in the SDC–Na2CO3 by EDX attached to the SEM.
+Conventional two-step preparation was also used to
+prepare the SDC–LiNa2CO3 composite electrolyte for comparison. The 0.5 M Ce (NO 3)3$6H2O solution was mixed with the
+Sm (NO 3)3$6H2O with 1:4 molar ratios. The ammonia (33%
+NH3, Sigma–Aldrich) of an appropriate amount was added in
+order to co-precipitate the cations, e.g., Sm3þ and Ce3þ for SDC
+precursor in the hydroxide state. The pH value was 10. The
+precipitate was sluice three times in deionized water, followed by ethanol washing several times in order to remove
+water from the particle surfaces. The obtained precipitates
+were dried in an oven at 100 ° C over night and then ground in
+a mortar. The resulting powder was sintered at 700 ° C for 2 h
+to obtain the SDC.
+After that, the SDC and LiNaCO 3 powders were mixed
+according to suitable weight ratio, and again ground. Finally,
+that powder was sintered at 700 ° C in the furnace for 30 min
+and again pulverized to get two-step SDC–LiNaCO3 electrolyte.
+The electrode materials were prepared by using Li, Cu, and
+Ni carbonates through conventional method (high temperature solid state reaction) and sintered at 800 ° C for 4 h. The
+electrodes were prepared as composite type, i.e. mixture of
+electrode: electrolyte: active carbon in weight ratio of 10:4:1.
+2.2. Fabrication of fuel cells
+The solid oxide fuel cells were fabricated by hot pressing
+procedure. The dry-powder-pressing technique involved
+loading a mold with the powders of anode successively followed by the electrolyte and ﬁnally the cathode, all being
+pressed in one step to form a complete fuel cell assembly for
+measurements. The cell structure made through this procedure consists of anode (composite with electrolyte)–electrolyte–cathode (composite with the electrolyte). The electrolyte
+of (i) normal SDC–LiNaCO3 electrolyte and (ii) nanocomposite
+SDC–Na2CO3 were used for comparisons. The above fuel cells
+were fabricated for 13 mm in diameter (with a 0.7 cm 2 active
+area) for single cell test. These fuel cells had 0.8–1.0 mm of
+thickness consisting of an approximate 0.3–0.5 mm thick
+electrolyte layer and 0.3–0.5 mm thick electrodes for anode
+and cathode layers, respectively. The pressed fuel cell pellets
+were sintered at 600 ° C for 0.5 h.
+Finally, both anode and cathode surfaces were painted by
+silver paste as a current collects for fuel cell measurements.
+2.3. Analysis of SDC–Na 2CO3 microstructure
+The crystalline phase structure was analyzed by a D/Max-3A
+Regaku X-ray diffractometer (XRD) with Co Ka radiation, 35 kV
+voltage, and 30 mA current. For microstructure analysis,
+a Philips XL-30 scanning electron microscopy (SEM) was used.
+Thermal analysis was taken by differential scanning calorimetry (DSC) simultaneously carried out in DSC 2920 thermal
+analyzer from the American Company TA Instruments. The
+temperature range was measured between ambient temperature and 600 ° C with a heating rate of 10 ° C/min. The transmission electron microscope (TEM) was performed using
+a JEOL JEM-2100F microscope on a carbon-coated copper grid
+used to ﬁnd the morphology including the size, shape and
+arrangement of the particles which make up the specimen as
+well as their relationship to each other on the scale of atomic
+diameters, the obtained sample’s crystallographic information such as the arrangement of atoms in the specimen and
+detection of atomic-scale defects in areas of a few nanometers
+in diameter.
+2.4. Fuel cell measurement
+The fuel cell was measured under a variable resistance load,
+which adjusts the outputs of cell voltage and power. By
+international journal of hy drogen energy 35 (2010) 2684–2688 2685
+collecting data of the cell voltage and current under each
+resistance load, I (current)–V (voltage) or I–P (power) curve can
+be drawn from the collected data. These curves are called I–V
+or I–P characteristics. In our measurements, we used
+a computerized instrument (L-43) to complete the results
+handling processes.
+3. Results and discussion
+The X-ray diffraction patterns of the SDC–Na2CO3 sintered at
+800 ° C for 2 h were shown in Fig. 1 . The peaks show that
+samarium atoms have doped into lattice of CeO 2 crystals.
+However, there are no XRD reﬂections detected for carbonate
+[11]. It may suggest that the ceria–carbonates used in our
+electrolyte are two-phase materials where the carbonate is an
+amorphous phase. The XRD results may be concluded that
+there was neither chemical reaction nor new compound
+between the SDC and carbonate phases [11]. The carbonate
+component was amorphous and highly distributed among the
+SDC.
+The microstructure of sintered SDC–Na2CO3 was examined
+by scanning electron microscopy (SEM), and shown in Fig. 2.
+The image reveals that prepared SDC–Na 2CO3 composites
+nanoparticle morphology is tetrahedron shaped in nano scale
+between 30 and 100 nm. The faces of the tetrahedron are
+parallel to the closed pack anion layers, i.e. {111} planes, and
+this is emphasized in a more extensive model of the structure
+to create superionic paths for ionic conduction (which is
+under study). The size and morphology of nanocomposite
+particles can be controlled by the preparation skills, sintering
+temperature and time as well. On the other hand, the
+conventional two-step prepared SDC–LiNaCO 3 composites
+consist of much large particle size in micro meter level[12,13].
+The SDC–Na 2CO3 nanocomposite and conventional SDC–
+LiNaCO3 composite electrolytes have exhibited very different
+morphologies, especially, when we used the NANOCOFC
+approach to develop the materials.
+The crystallographic and more details of nanostructure of
+the SDC–Na 2CO3 nanocomposites were investigated by
+transmission electron microscopy (TEM) as shown in Fig. 3.
+The carbonate is coated on the SDC particle surface in a coreshell structure as observed clearly by TEM. The carbonate
+shell is an amorphous. This amorphous nature can facilitate
+ionic conduction.
+The details will be studied in the next step through theoretical and experimental calculations of the ionic conductivities for the SDC two-phase composites.
+Fig. 4, shows the results from DSC analysis. It can be seen
+from Fig. 4 that there is a glass transition between 150 ° C and
+200 ° C for SDC but sodium carbonate does not show any
+thermal transition. The difference in temperature ( DT ¼ T
+(sample) − T (reference)) is observed negative, which indicates an endothermic. However, extrinsic effects due to the
+presence of grain boundaries or large amount of the nanoparticle surfaces can broaden the transitions, which
+complicate the analysis of the results. The amorphous
+nature may reﬂect increased disorder of the Na 2CO3 regions/
+layers on the SDC surfaces at rising temperature. Though it
+doesn’t involve any melting effect of the carbonate, the
+disorder of the carbonate (Na 2CO3) can facilitate ionic
+transportation. Furthermore, softened amorphous Na 2CO3
+-100
+02468 1 0
+Intensity (a.u)
+02 0 4 0 6 0 8 0
+Fig. 1 – X-ray Diffraction pattern for SDC–Na 2CO3 after
+sintered 800 8C for 4 h.
+Fig. 2 – SEM images of SDC–Na 2CO3.
+Fig. 3 – High-resolution TEM images of SDC–Na 2CO3
+composite.
+international journal of hydrogen energy 35 (2010) 2684–26882686
+could overcome electronic conduction of CeO 2 in anodic
+environment and enhance density of solid electrolyte same
+as other ceria–carbonate composites [7–13]. Conversely, the
+conventional SDC–LiNaCO3 composites with particle sizes at
+mm level showed much like carbonate melting effect with
+a sharp endothermic peak around 500 ° C of the LiNaCO 3
+melting point (510 ° C) [12]. The melting carbonate in the
+composites with a disordered or amorphous nature can thus
+signiﬁcantly facilitate the ionic conductivity through the
+two-phase regions and greatly improve the fuel cell performances [6–14].
+Fig. 5 shows the I–V characteristics for comparison of two
+fuel cells using the conventional SDC–LiNaCO 3 composite
+and SDC–Na 2CO3 nanocomposite as electrolytes. The
+maximum fuel cell power density reached about 1000 mW/
+cm2 and 1150 mW/cm2 at temperatures 590 ° C and 500 ° Ca s
+shown in Fig. 4 (a,b) for SDC–LiNaCO 3 and SDC–Na 2CO3,
+respectively. The open circuit voltage (OCV) is 0.98 V at 590° C
+for SDC–LiNaCO 3 while 1.018 V at 500 ° C for SDC–Na 2CO3
+electrolytes. The improved ceria–carbonate electrolyte (one
+step) displays signiﬁcantly higher OCV than that of the
+conventional one. The lower OCV in the conventional
+composite (two-step) electrolyte fuel cell may be due to less
+dense of the electrolyte which caused some gas penetration
+directly through the electrolyte to make electrical voltage
+losses. This conﬁrms that the nanocomposite SDC–Na 2CO3
+electrolyte (one step) membrane is dense. We observed that
+the performance of fuel cell using the SDC–Na 2CO3 nanocomposite electrolyte was enhanced signiﬁcantly at lower
+temperatures, 300–500 ° C, even functioned well between 200
+and 300 ° C than those using the conventional SDC–LiNaCO 3
+composite electrolytes. It may be explained due to an interfacial superionic conduction mechanism in the two-phase
+composites ﬁrst reported by Schober [14], large amount of
+surfaces of nanoparticles ceria and interfaces in the SDCnanocomposites can signiﬁcantly enhance and improve the
+ionic conductivity.
+The best performance of about 1100 mW/cm2 was reported
+by Huang et al. for the conventional SDC–LiNaCO3 composite
+electrolyte fuel cell at 600 ° C [12, 13]. While better fuel cell
+performance of 1150 mW/cm2 has been achieved at temperature 500 ° C in this work. The advantages of the nanocomposites are obvious. The excellent fuel cell performances
+achieved so far for the nanocomposite electrolytes show that
+ceria–carbonates nanocomposite electrolyte is appropriate for
+the low temperature (300–500 ° C, even 200–300 ° C) fuel cells.
+The stability of the fuel cell can be expected to improve due to
+only involving the solid carbonate and also at much lower
+temperatures in fuel cell operations. In the meantime it also
+requires developments of high catalytic electrodes we will
+report elsewhere.
+0 400 800 1200 1600 2000 2400 2800
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+Cell voltage (V)
+Current density (mA/cm2)
+Power density (mW/cm2)
+0 400 800 1200 1600 2000 2400 2800
+0.0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1.0
+Cell voltage (V)
+Current density (mA/cm2)
+Power density (mW/cm2)
+ (v450)  (v480)
+ (v500)  (v520)
+ (v550)
+ (v580)  (v590)
+ (v350)
+ (v430)
+ (v450)
+ (v470)
+ (v490)
+a b
+Fig. 5 – I–V/I–P characteristics of fuel cells with different electrolytes: (a) SDC–LiNaCO 3 and (b) SDC–Na2CO3 nanocomposite at
+various temperatures.
+Fig. 4 – DSC curve of SDC–Na 2CO3 composite.
+international journal of hy drogen energy 35 (2010) 2684–2688 2687
+4. Conclusions
+The ceria–carbonate nanocomposite has been developed
+with nanotechnology and composite synthesis method, i.e.
+the NANOCOFC approach. The improved nanocomposite
+electrolyte as-prepared shows a glass transition between 150
+and 200 ° C which is signiﬁcantly different from the conventional SDC–LiNaCO 3 composites prepared in two steps. The
+SDC–Na2CO3 nanocomposite electrolyte fuel cells have
+achieved the excellent fuel cell performance of 1150 mW/
+cm2 at 500 ° C and signiﬁcantly improved performances at
+low temperatures. The fuel cell power density achieved so far
+is the highest. We ﬁrst report to prepare the SDC–carbonate
+nanocomposites in a simple one-step process. It has
+provided a number of advantag es: to simplify preparation
+processes for better quality control; more homogenous in
+nano-scale; improve signiﬁcantly the ceria-carbonate
+conductivities and cause the superionic conduction at low
+temperatures.
+It may also be concluded that the nanostructured can be
+optimized by improving synthesis procedures. The improved
+ceria-carbonate nanocomposites may develop a new
+advancement and cost effective fuel cell technology for
+commercialization. Further studies will be continued on
+theoretical and experimental work to improve nanocomposites with different models and characteristics as well
+as high catalytic electrodes for lower temperatures.
+Acknowledgement
+This work is supported by the EC FP6 NANOCOFC project
+(Contract no. 032308), Swedish Research Council (VR)/the
+Swedish agency for international cooperation development
+(Sida), Carl Tryggers Stiftelse for Vetenskap Forskning (CTS)
+and VINNOVA (the Swedish Agency for Innovation Systems).
+The HEC and CIIT, Pakistan also acknowledge for PhD
+scholarship.

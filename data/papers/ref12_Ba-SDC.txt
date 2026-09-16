@@ -1,0 +1,445 @@
+Citation: Raza et al. 2015, APL 107:183903
+DOI: 10.1063/1.4934940
+Source text: full text
+
+Composite electrolyte with proton conductivity for low-temperature solid oxide fuel cell
+Rizwan Raza, Akhlaq Ahmed, Nadeem Akram, Muhammad Saleem, Majid Niaz Akhtar, Tauqir A. Sherazi, M.
+Ajmal Khan, Ghazanfar Abbas, Imran Shakir, Munazza Mohsin, Farah Alvi, Muhammad Sufyan Javed, M. Yasir
+Rafique, and Bin Zhu
+
+Citation: Applied Physics Letters 107, 183903 (2015); doi: 10.1063/1.4934940
+View online: http://dx.doi.org/10.1063/1.4934940
+View Table of Contents: http://scitation.aip.org/content/aip/journal/apl/107/18?ver=pdfcov
+Published by the AIP Publishing
+
+Articles you may be interested in
+Superfast oxygen exchange kinetics on highly epitaxial LaBaCo2O5+δ thin films for intermediate temperature
+solid oxide fuel cells
+APL Mater. 1, 031101 (2013); 10.1063/1.4820363
+
+Effects of proton-conducting electrolyte microstructure on the performance of electrolyte-supported solid oxide
+fuel cells
+J. Renewable Sustainable Energy 5, 021412 (2013); 10.1063/1.4798491
+
+Electrical properties of Ba doped LSGM for electrolyte material of solid oxide fuel cells
+AIP Conf. Proc. 1512, 976 (2013); 10.1063/1.4791368
+
+Higher ionic conductive ceria-based electrolytes for solid oxide fuel cells
+Appl. Phys. Lett. 91, 144106 (2007); 10.1063/1.2794725
+
+Composite cathode based on yttria stabilized bismuth oxide for low-temperature solid oxide fuel cells
+Appl. Phys. Lett. 82, 901 (2003); 10.1063/1.1542933
+
+ This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions. Downloaded to IP:
+Composite electrolyte with proton conductivity for low-temperature solid
+oxide fuel cell
+Rizwan Raza,1,2,a) Akhlaq Ahmed,1 Nadeem Akram,1 Muhammad Saleem,1
+Majid Niaz Akhtar,1 T auqir A.Sherazi,3 M. Ajmal Khan,1 Ghazanfar Abbas,1
+Imran Shakir,4 Munazza Mohsin,5 Farah Alvi,1 Muhammad Sufyan Javed,1,6
+M. Y asir Rafique,1 and Bin Zhu2,7,b)
+1Department of Physics, COMSATS Institute of Information Technology, Lahore 54000, Pakistan
+2Department of Energy Technology, Royal Institute of Technology, KTH, Stockholm 10044, Sweden
+3Department of Chemistry, COMSATS Institute of Information Technology, Abbotabad 22060, Pakistan
+4Sustainable Energy Technologies (SET) center, College of Engineering, King Saud University, PO-BOX 800,
+Riyadh 11421, Kingdom of Saudi Arabia
+5Department of Physics, Lahore College for Women University, Lahore, 54000, Pakistan
+6Department of Applied Physics, Chongqing University, Chongqing 400044, People’s Republic of China
+7Hubei Collaborative Innovation Center for Advanced Organic Chemical Materials, Faculty of Physics and
+Electronic Science/Faculty of Computer and Information, Hubei University, Wuhan, Hubei 430062, China
+(Received 3 June 2015; accepted 11 October 2015; published online 3 November 2015; publisher
+error corrected 6 November 2015)
+In the present work, cost-effective nanocomposite electrolyte (Ba-SDC) oxide is developed for
+efﬁcient low-temperature solid oxide fuel cells (LTSOFCs). Analysis has shown that dual phase
+conduction of O − 2 (oxygen ions) and H þ (protons) plays a signiﬁcant role in the development of
+advanced LTSOFCs. Comparatively high proton ion conductivity (0.19 s/cm) for LTSOFCs was
+achieved at low temperature (460 ° C). In this article, the ionic conduction behaviour of LTSOFCs
+is explained by carrying out electrochemical impedance spectroscopy measurements. Further, the
+phase and structure analysis are investigated by X-ray diffraction and scanning electron microscopy
+techniques. Finally, we achieved an ionic transport number of the composite electrolyte for
+LTSOFCs as high as 0.95 and energy and power density of 90% and 550 mW/cm 2, respectively,
+after sintering the composite electrolyte at 800 ° C for 4 h, which is promising. Our current effort
+toward the development of an efﬁcient, green, low-temperature solid oxide fuel cell with the
+incorporation of high proton conductivity composite electrolyte may open frontiers in the ﬁelds of
+energy and fuel cell technology. VC 2015 AIP Publishing LLC.
+[http://dx.doi.org/10.1063/1.4934940]
+At the present time, global energy demand is ever increasing to fulﬁl the basic needs of the rapidly growing population.
+Currently, the world is facing energy crises due to the soaring
+development of industries, rapid urbanization, and unexpected
+population growth. These energy demands are predicted to
+increase by roughly 50% in the time frame of 2005 to 2030 as
+the world population is almost doubling every 35 years,
+although the rate of increase differs in different countries.1,2
+Nowadays, researchers and scientists are facing the great
+challenge of developing sustainable and environmentally
+friendly energy resources. 3 In order to overcome the global
+shortage of heat and power, fuel cells and hydrogen are seen
+as promising possible alternatives.4 The overall electrochemical conversion efﬁciency of fuel cells is 80%, which is much
+higher than that of other power plants, which have an efﬁ-
+ciency of around 40%.5 Among the various types of fuel cells,
+solid oxide fuel cells (SOFCs) are of particular interest due to
+their fuel ﬂexibility and higher efﬁciency, and they are considered as promising power-generation devices. 6,7 In general, a
+fuel cell consists of three layers, where the electrodes (anode
+and cathode) are porous and the electrolyte is dense. Among
+these three layers, the electrolyte is the most important layer
+of the fuel cell since its ionic conductivity plays a key role in
+the overall fuel cell performance. The high operating temperature (800–1000 ° C) of the yttrium stabilized zirconia (YSZ)
+electrolyte required to achieve high oxygen ion conductivity
+in the fuel cell is the main limitation of conventional SOFCs.
+Hence, for FC products to gain commercial success, the foremost aim is to maintain a lower operating temperature without
+compromising the efﬁciency of the device.8
+The main reason for the higher operating temperature is
+to increase the number of oxygen ions by the reduction process in the cathode of the SOFC and to transport the oxygen
+ions through an ion-conducting electrolyte. However, at
+lower temperatures, the efﬁciency of the SOFC may be limited because of its poor oxygen-ion conductivity. In order to
+resolve this challenge, a possible solution is to develop high
+oxygen-ion conductivities by using nanocomposite electrolytes instead of pure materials, e.g., Gadolinium doped ceria
+(GDC), Yttrium stabilized zirconium (YSZ), Samarium
+doped ceria (SDC), etc., in the fuel cell.
+Proton conductors are very attractive due to their higher
+efﬁciency, low activation energy, and higher fuel utilization
+factor. Researchers have investigated various approaches to
+synthesize and enhance both proton and ion conductivity in
+fuel cells at the same time, for example, Zhao et al.9 Elleuch
+explored an oxalate co-precipitation process, 10 Richter used
+a)razahussaini786@gmail.com
+b)binzhu@kth.se and zhubin@hubu.edu.cn
+0003-6951/2015/107(18)/183903/5/$30.00 VC 2015 AIP Publishing LLC107, 183903-1
+APPLIED PHYSICS LETTERS 107, 183903 (2015)
+ This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions. Downloaded to IP:
+a solid state reaction method, 11 Zhu et al. used a wet chemical method, 12 many researchers have used co-precipitation
+methods,13–15 and so on.
+Although many researchers have developed proton and
+oxygen ion conductors, few of them have developed mixed
+ions (oxygen ions and proton ions) in electrolyte materials.
+Jacquin and colleagues developed proton-conducting
+BaCe0.9Y0.1O2.95 ceramic oxide and achieved a conductivity
+of BCeYO of up to 1.2 × 10− 2 s/cm at 500 ° C.16 Medvedev
+and colleagues used the solution combustion synthesis
+method to obtain nanosized powders of Ce 0.8Sm0.2O2− d− x
+BaCe0.8Sm0.2O3− d.17 Single ion conductor-based electrolytes
+have not been completely successful, however, in reducing
+the operating temperature to a lower level.
+Another attempt was made by Zhu et al. ,12 who introduced the NANCOFC (nanocomposites for advanced fuel
+cells, www.nanocofc.com) approach, whereby co-ions or
+hybrid ions were introduced, which not only enhanced the
+ionic conductivity but was also succeeded in lowtemperature SOFCs (LTSOFCs) and was evidently far better
+than the conventional electrolytes. Therefore, interest in the
+development of hybrid ion conductors has increased noticeably among the scientiﬁc community. 12–14
+In our current work, a two-phase barium-based electrolyte with high ionic conductivity is developed by the wet
+chemical method and shows a promising trend for
+LTSOFCs. The barium-based nanocomposites showing high
+hybrid oxygen and proton (O 2− /Hþ) conductivity at low temperatures have been discovered.
+The nanocomposite electrolytes (Ba-SDC, i.e., samaria
+doped ceria–barium, etc.) are synthesized by the wet chemical method. The stoichiometric molar ratios of the chemicals
+Ba (NO 3)2, Sm (NO 3)3 × 6H2O (Sigma-Aldrich, USA), and
+Ce (NO3)3 × 6H2O (Sigma-Aldrich, USA) were used to synthesize the Ba-SDC nanocomposite electrolyte material. The
+ﬁrst solution of Ce 0.8Sm0.2O2− d is prepared in DI water, and
+later, a solution of Ba (NO 3)2 is added drop wise to the former one. The most favourable molar ratio of
+Ce:Sm:Ba ¼ 4:1:1 was selected for preparing a 0.1 mol l − 1
+solution. The as-prepared powder was dried in the oven at a
+temperature of 110 ° C for 1 h, and this homogeneous powder
+was then sintered at 800 ° C for 4 h in air. Finally, the synthesized powder was ground for 20 min using a manual milling
+apparatus.
+A solid state reaction was observed during the preparation
+of nanocomposite electrodes for the fuel cell. For a singlelayer fuel cell, Li 2CO3 (Sigma-Aldrich, USA), CuCO 3 × Cu
+(OH)2 (Sigma-Aldrich, USA), NiCO 3 × 2Ni(OH)2 × 6H2O
+(Sigma-Aldrich, USA), and Zn (NO 3)2 × 6H2O, in an appropriate molar ratio of 1:2:5:5, were ground together before sintering at 800 ° C for 4 h in air. In the last step, the Li Cu Ni Zn
+O (LCNZ) and electrolyte powder were again ground very
+thoroughly to avoid any non-homogeneity in the prepared
+material.
+A pellet of pure electrolyte powder with a diameter of
+13 mm and thickness of 1 mm was made to measure the conductivity of the prepared composite material. In order to prepare laboratory button cells, after sintering, the obtained
+powders were uniaxially pressed into pellets in the symmetrical order of anode (LCNZ and Ba-SDC)/electrolyte (Ba-
+SDC)/cathode (LCNZ and Ba-SDC). The LCZN (electrode)
+and Ba-SDC (electrolyte) were mixed at a ratio of 50 vol. %
+for the preparation of both the anode and the cathode. The
+pellets were pressed under a pressure of 280 kg-cm − 2 using a
+mechanical hydraulic press machine. In the last step, the asprepared pellets were sintered at 650 ° C for 1 h to remove
+any impurities and defects from the ﬁnal products. Further
+electrical measurements of the as-prepared fuel cell were
+carried out by applying the silver paste on both sides of the
+cell as the current collector. 18
+DC conductivities were measured by a digital microohmmeter (KD 2531, China) in a hydrogen and air atmosphere. The conductivity was calculated with the following
+formula:
+r ¼ L=RA;
+where r is the conductivity, L is the thickness of the pellet,
+R is the internal resistance, and A is the area of the cell. The
+active area of the pellet is assumed to be 0.64 cm 2.
+The X-ray diffraction (XRD) pattern of the sintered
+BSDC (electrolyte) was recorded by an X-ray diffractometer
+(Rigaku D/Max-2500, Tokyo, Japan) with Cu K a radiation
+(k ¼ 1.5418 A˚) at room temperature with a current of 30 mA
+and voltage of 35 kV. The phase and structure of the BCDS
+were determined by means of JCPDs cards. The crystallite
+size (Db) was calculated by Scherrer’s equation
+Db ¼ 0:89k=b Cos h;
+where k and b are the wavelength and full-width at halfmaximum (FWHM), respectively.
+In order to get an insight into the morphology of nanostructure samples, the scanning electron microscopy (SEM,
+Philips XL-30) was used. 19,20
+The performance of the fuel cell is executed in the temperature range of 400–600 ° C. The electrochemical measurements of the cell are made with hydrogen gas as fuel. The
+gas ﬂow rate is adjusted with the help of a gas ﬂow meter
+and set at 100 ml min − 1 at atmospheric pressure. The fuel
+cell pellets are ﬁxed in a stainless steel fuel cell device and
+later sealed with the silicon paste. After the application of
+load resistance, the values of voltage, current, and open circuit voltage (OCV) are adjusted and measured with the help
+of a fuel cell testing instrument (SM-102, Tianjin, China).
+The evaluation of the performance of the cell is further
+assessed by comparing the IV and IP characteristics curves
+in the temperature range of 400–600 ° C.
+In order to study the ionic behaviour and transport
+mechanism, the electrochemical impedance spectroscopy
+(EIS) was carried out by implementing VersaSTAT 2273
+(Princeton Applied Research, USA) in a hydrogen and air
+atmosphere. For the EIS data, the frequency ranged from
+0.01 Hz to 1 MHz under 10 mV. The obtained data were
+simulated with software (Z SimpWin, Princeton Applied
+Research, USA) to draw the appropriate equivalent circuit
+for the cell.
+Thermal expansion was measured with a pushrod dilatometer (402 C, Netzsch, Germany). This dilatometer was
+equipped with a SiC furnace, which was able to operate
+183903-2 Raza et al. Appl. Phys. Lett. 107, 183903 (2015)
+ This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions. Downloaded to IP:
+between room temperature and 1600 ° C. In this dilatometer,
+a vacuum-tight system allows measurements to be carried
+out in pure inert or oxidizing atmospheres, as well as under
+vacuum. Some primary parameters were set, for example,
+fused silica, sapphire, tungsten, platinum, and so on, for
+length calibration. The standard was used to compare the
+results of the expansion of the specimen and the temperature
+range of the measurement. Further, the data were analyzed
+by MS-Windows Thermal Analysis. The software includes
+semi-automatic routines for correction of the sample holder
+expansion, as well as onset and peak temperatures, and computation of the expansion coefﬁcients, rate of expansion,
+inﬂection points, and so on.
+In the thermal expansion analysis of the sample (Ba-
+SDC) measured in air, three steps were detected at 286, 440,
+and 590 ° C (extrapolated onsets). The sample had continually expanded over the entire temperature range for better
+accuracy of the results. When the same sample was measured in a Varigon atmosphere, however, two steps were
+observed at 277 and 432 ° C (extrapolated onsets). In this
+case, the sample had expanded to a maximum at 634 ° C with
+an expansion rate of 0.7%.
+The structure of the Ba-SDC nanocomposites is determined from the XRD pattern by means of JCPDs cards.
+Figure 1(a) describes the XRD proﬁle of the composite Ba-
+SDC powder. The chemical composition of composite electrolyte sintered at 800 ° C is also determined by XRD analysis. The structure of the as-prepared Ba-SDC shows two
+phases. Samarium-doped ceria-oxide and barium-doped
+samarium-oxide are found to be cubic in structure and shape
+due to the presence of peaks [(111) at 28.51] and [(320) at
+29.32] for samarium doped ceria-oxide and barium doped
+samarium-oxide, respectively.
+The particle size of each phase was calculated with the
+help of Scherrer’s equation, from which the average particle
+sizes were estimated to lie in the range of 47–78 nm. The
+crystal lattice was found to be slightly larger due to the
+exchange of smaller Sm þ3 ions (radius ¼ 0.102 nm with
+coordination number 7) for larger Ba 2þ ions (radius ¼ 0.138 nm with coordination number 7). This may be
+attributed to the formation of the grain boundaries present in
+the Ba-SDC nanocomposite samples.
+The microstructure analysis of the surfaces of the nanocomposite electrolyte Ba-SDC oxide powder was performed
+using SEM, and the respective results are displayed in Figure
+1(b). The SEM image in Figure 1(b) shows that the material
+comprises homogenous agglomerates and the particle size is
+in the range of 60–100 nm. This range of particle size and
+ﬁne morphology of nanocomposite electrolyte Ba-SDC oxide can be obtained by ﬁne tuning the sintering temperature,
+a skilled preparation technique, and an appropriate time as
+well.
+The dense surface of the Ba-SDC oxide nanocomposite
+electrolyte had smaller grains at multiple junctions, and this
+conglomeration formed the larger grains on the surface.
+High temperature calcinations led to excessive agglomeration and grain growth due to their large volume fraction of
+high-energy inter-crystalline regions without a diffusion barrier. Consequently, no pores are present on the surface of the
+samples, which is beneﬁcial for the rapid transportation of
+protons, oxygen, and carbonate ions within the cell. The
+interfacial region between the Ba-oxide and samariumdoped ceria plays a key role in the overall material conductivity and the cell performance. Recently, it has been found
+that the conductivity and fuel cell performance are enhanced
+due to the improvement of the surface morphology, interfacial resistance, and smaller particle size. All of the above
+mentioned factors facilitate the transportation of protons, oxygen, and carbonate ions transportation.
+Figure 1(c) shows the thermal expansion and values for
+the coefﬁcient of thermal expansion (Tref. ¼ 200 ° C) of a codoped ceria sample. The measurements are done in both air
+and Varigon atmospheres. Thermal expansion of the sample
+(Ba-SDC) was measured in air, and three steps were detected
+at 286, 440, and 590 ° C (extrapolated onsets). The sample
+had expanded over the entire temperature range. Thermal
+expansion of the sample (Ba-SDC) measured in Varigon
+atmosphere showed two steps at 277 and 432 ° C (extrapolated onsets). It can be seen that sample expands up to a
+maximum at 634 ° C with an expansion rate of 0.7%, which
+leads to a very slight decrease in sample length until the end
+of the measurement. The density of the electrolyte was measured using Helium-pycnometry (AccuPyc 1340,
+Micromeritics, USA). The density of the prepared sample
+was estimated to be 90% higher due to the existence of the
+porous structure of material and the appropriate sintering
+conditions at 800 ° C for 4 h. However, the ionic transport
+number of the composite electrolyte is as high as 0.95. This
+ionic transport number (t i) was found to be almost equal to 1,
+which reveals the fractional contribution of ionic conductivity to the overall conductivity.
+Figures 2(a) and 2(b) illustrate the ionic conductivity of
+the Ba-SDC electrolytes at various temperatures. The ionic
+conductivity of the sintered Ba-SDC sample was measured by
+the two-probe AC method. Figure 2(a) shows the higher
+proton ionic conductivity of 0.19 s/cm at 600 ° Cc o m p a r e d
+with conventional proton conductors in hydrogen atmosphere.
+FIG. 1. (a) X-Ray diffraction pattern for BaSDC-carbonate composite electrolyte (b) SEM images of BaSDC-carbonate (c) Thermal expansion of sample (BaSDC-carbonate) measured in air and Varigon.
+183903-3 Raza et al. Appl. Phys. Lett. 107, 183903 (2015)
+ This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions. Downloaded to IP:
+An oxygen ionic conductivity of 0.015 s/cm at 600 ° Cw a s
+recorded, which is far greater than that of conventional SDC
+and GDC electrolytes in ambient air atmosphere at the same
+temperature. In this type of fuel cell, the protons are generated on the anode side and move through the composite
+electrolyte towards the cathode of the cell to react with
+oxygen from the air, while oxygen ions move towards the
+anode side and pass through the composite electrolyte for
+oxidation. In our designed SOFC experiment, however, the
+proton conductivity/carrier is dominant at higher temperature and shows an isotropic effect. Therefore, it is fair to
+say, that the addition of BaO increased the proton carrier in
+this electrolyte.
+EIS is usually measured by applying an AC potential to
+an electrochemical cell and then measuring the current
+through the cell. The AC impedance spectroscopy of the
+solid ionic conductors showed three major contributions: a
+high frequency arc for the bulk, an intermediate frequency
+for the grain boundaries, and a low frequency for the electrode behaviour. The impedance spectra of the Ba-SDC composite electrolyte in hydrogen and in air atmosphere are
+shown in Figures 2(c) and 2(d), respectively, at different
+temperatures in the range of 400–550 ° C and a frequency
+range of 0.1 to 10 MHz under 10 mV.
+The impedance spectrum of the fuel cell was measured
+under open-circuit conditions. In order to ﬁnd the internal
+resistances of the fuel cell, experimental data were simulated
+with Z SimpWin software, and the relevant equivalent circuit
+was drawn for a single-phase fuel cell. The equivalent circuit
+contains various impedance elements representing the
+involved reaction steps, and the LQR parameters were found
+from it. L is the inductance, which indicates the effect of the
+stainless steel testing device and connecting cables, Q is the
+quality factor, and R is the resistance of the ions, electrons,
+and so on. The overall resistance of the cell decreases with
+increasing temperature, as can be observed in Figures 2(c)
+and 2(d).
+The fuel cell performance with natural gas and hydrogen
+gas for the measurement of I-V (current-voltage) and I-P
+(current-power) densities is depicted in Figures 3(a) and
+3(b), respectively. The maximum obtained power density for
+SOFC is 550 mW/cm 2 at 550 ° C. Lower OCVs indicate that
+FIG. 2. Conductivity comparisons of
+different electrolytes SDC-carbonate,
+GDC-carbonate and BaSDC-carbonate
+in H 2 atmosphere Conductivity comparisons of different electrolytes, SDCcarbonate, GDC-carbonate and
+BaSDC-carbonate in air atmosphere
+AC impedance analysis and simulation
+with experimental data in H 2 atmosphere AC impedance analysis and simulation with experimental data in air
+atmosphere.
+FIG. 3. (a) I-V/I-P characteristics of single cell at different temperatures
+with CH 4. (b) I-V/I-P characteristics of single cell at different temperatures
+with H2.
+183903-4 Raza et al. Appl. Phys. Lett. 107, 183903 (2015)
+ This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions. Downloaded to IP:
+the electrolyte is not gas-tight at temperatures lower than the
+melting point of the carbonate phase. Above the melting
+point, the molten carbonate phase has a good wettability to
+the SDC surface and ﬁlls in the pores; thus, a gas-tight electrolyte forms. This is proved by the high OCV, which is
+above the melting point. 21,22
+In addition, the carbonates in the composite electrolyte
+became molten at 500–600 ° C and formed a relatively dense
+electrolyte layer, preventing gas crossover. However, when
+the operating temperature decreased to 450 ° C, the carbonates became solid and formed an amount of residual pores
+in the composite electrolyte, leading to lower OCVs. 21–24
+These results are in agreement with the observations (see
+Figure 3(b)).
+Finally, it was found that this material can work equally
+well with both natural gas and hydrogen gas without compromising the performance of the fuel cell. It was observed
+that the above mentioned nanocomposite electrolytes were
+quite stable in the aggressive fuel cell environment. It was
+also proved that the incorporation of the Ba-SDC electrolyte
+signiﬁcantly enhanced the performance of the fuel cell at
+low temperatures. Such an enhancement is mainly due to the
+high proton conductivity of the electrolyte; however, the proton charge carriers can decrease the interfacial resistance of
+the overall electrolyte/electrode of the cell. Therefore, hybrid
+ion conductors for LT-SOFC are considered a more attractive candidate nowadays.
+We synthesized high-performance Ba-SDC dense porous nanocomposite electrolyte. The existence of nanosized
+crystallites in the as-prepared electrolyte was observed by
+XRD and SEM. The presence of nanoparticles in the perceived electrolyte allowed the thickness of the electrolyte to
+be decreased in the device, which helped to lower the operating temperature and improved the working conditions of the
+fuel cell. Our work indicates a reasonably high power density
+of 550 mW/cm 2 at 550 ° C for the low-temperature fuel cell
+and proton conductivity of 0.19 s/cm at 600 ° C, which is the
+best reported value of the hybrid ion conductivity (H þ/O2− )
+so far.
+All of the above discussed results clearly evidence the
+far superior properties of the nanocomposite approach for
+the preparation of high proton/oxygen ion conducting oxides
+for LTSOFCs.
+A start-up research grant funded by the HEC Pakistan,
+COMSATS Research Grant Program (CRGP), and a
+research grant from the Swedish Research Council (VR,
+Contract No. 621-2011-4983) are gratefully acknowledged.
+The Netzsch Company (Germany) provided the thermal
+analysis. Also Imran Shakir would like to extend his sincere
+appreciation to the Deanship of Scientiﬁc Research at the
+King Saudi University for its funding of this research work
+through the Proliﬁc Research Group PRG-1436-25.
+1See http://www.era.doe.gov/oiaf/ieo/ for International Energy Outlook
+2009, Energy Information Administration, Washington. DC, 2009.
+2P. E. Hodgson, Nuclear Power, Energy and the Environment (Imperial
+College Press, 1999).
+3X. Yunhua, D. Lele, K. Torbjorn, T. Lianpeng, L. Bao-Lin, Z. Rong, K.
+Bjorn, and S. Licheng, “Mononuclear ruthenium complexes that catalyze
+water to dioxygen oxidation,” Chem. Eur. J. 17, 9520–9528 (2011).
+4D. Ibrahim, “Hydrogen and fuel cell technologies for sustainable future,”
+Jordan J. Mech. Ind. Eng. 2(1), 1–14 (2008); available at http://jjmie.hu.
+edu.jo/ﬁles/v2/001-v2-1.pdf.
+5B. Viswanathan and M. A. Scibioh, Fuel Cell Principles and Applications
+(Universities Press, India, 2006); ISBN 81 7371 557 2.
+6D. Kanno, N. Shikazono, N. Takagi, K. Matsuzaki, and N. Kasagi,
+“Evaluation of SOFC anode polarization simulation using threedimensional microstructures reconstructed by FIB tomography,”
+Electrochim. Acta 56, 4015–4021 (2011).
+7N. Zuo, M. Zhang, Z. Mao, Z. Gao, and F. Xie, “Fabrication and characterization of composite electrolyte for intermediate-temperature SOFC,”
+J. Eur. Ceram. Soc. 31(16), 3103–3107 (2011).
+8S. Tao and J. T. Irvine, “A redox-stable efﬁcient anode for solid-oxide fuel
+cells,” Nat. Mater. 2(5), 320–323 (2003).
+9Y. Zhao, Z. Xu, C. Xia, and Y. Li, “Oxide ion and proton conduction in
+doped ceria-carbonate composite materials,” Int. J. Hydrogen Energy
+38(3), 1553–1559 (2013).
+10A. Elleuch, J. Yu, A. Boussetta, K. Halouani, and Y. Li, “Electrochemical
+oxidation of graphite in an intermediate temperature direct carbon fuel cell
+based on two-phase electrolyte,” Int. J. Hydrogen Energy 20, 8514–8523
+(2012).
+11J. Richter, P. Holtappels, T. Graule, T. Nakamura, and J. G. Ludwig,
+“Materials design for perovskite SOFC cathodes,” Monatsh Chem. 140,
+985–999 (2009).
+12B. Zhu, X. T. Yang, J. Xu, Z. G. Zhu, S. J. Ji, M. T. Sun, and J. C. Sun,
+“Innovative low temperature SOFCs and advanced materials,” J. Power
+Sources 118, 47–53 (2003).
+13Z. Gao, J. Huang, Z. Mao, C. Wang, and Z. Liu, “Preparation and characterization of nanocrystalline Ce 0.8 Sm 0.2 O 1.9 for low temperature solid
+oxide fuel cells based on composite electrolyte,” Int. J. Hydrogen Energy
+35(2), 731–737 (2010).
+14J. Huang, Z. Gao, and Z. Mao, “Effects of salt composition on the electrical properties of Samaria-doped ceria/carbonate composite electrolytes for
+low-temperature SOFCs,” Int. J. Hydrogen Energy 35(9), 4270–4275
+(2010).
+15R. Raza, X. Wang, Y. Ma, X. Liu, and B. Zhu, “Improved ceria-carbonate
+composite electrolytes,” Int. J. Hydrogen Energy 35, 2684–2688 (2010).
+16M. Jacquin, Y. Jing, A. Essoumhi, G. Taillades, D. J. Jones, and J.
+Rozie`re, “Flash combustion synthesis and characterisation of nanosized
+proton conducting yttria-doped barium cerate,” J. New Mater.
+Electrochem. Syst. 10, 243–248 (2007); available at https://hal.archivesouvertes.fr/hal-00349615/en/.
+17D. Medvedev, V. Maragou, E. Pikalova, A. Demin, and P. Tsiakaras,
+“Novel composite solid state electrolytes on the base of BaCeO 3 and CeO2
+for intermediate temperature electrochemical devices,” J. Power Sources
+221, 217–227 (2013).
+18E. H. Yu, U. Krewer, and K. Scott, “Principles and materials aspects of
+direct alkaline alcohol fuel cells,” Energies 3, 1499–1528 (2010).
+19L. E. Smart and E. A. Moore, Solid State Chemistry: An Introduction , 3rd
+ed. (Taylor & Francis Group, 2005).
+20R. D. Shannon, “Revised effective ionic radii and systematic studies of
+interatomic distances in halides and chalcogenides,” Acta Crystallogr. A
+32, 751–767 (1976).
+21J. B. Huang, Z. Q. Mao, Z. X. Liu, and C. Wang, “Development of novel
+low temperature SOFC with co-ion conducting SDC-carbonate composite
+electrolytes,” Electrochem. Commun. 9, 2601–2605 (2007).
+22Q. Ye and T. S. Zhao, “Abrupt decline in the open-circuit voltage of direct
+methanol fuel cells at critical oxygen feed rate,” J. Electrochem. Soc.
+152(11), A2238–A2245 (2005).
+23J. Huang, L. Yang, R. Gao, Z. Mao, and C. Wang, “A high-performance
+ceramic fuel cell with samarium doped ceria-carbonate composite electrolyte at low temperatures,” Electrochem. Commun. 8(5), 785–789 (2006).
+24C. Xia, Y. Li, Y. Tian, Q. Liu, Y. Zhao, L. Jia, and Y. Li, “A high performance composite ionic conducting electrolyte for intermediate temperature
+fuel cell and evidence for ternary ionic conduction,” J. Power Sources
+188(1), 156–162 (2009).
+183903-5 Raza et al. Appl. Phys. Lett. 107, 183903 (2015)
+ This article is copyrighted as indicated in the article. Reuse of AIP content is subject to the terms at: http://scitation.aip.org/termsconditions. Downloaded to IP:

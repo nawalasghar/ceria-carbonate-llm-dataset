@@ -1,0 +1,504 @@
+Citation: Ali, Raza et al. 2018, ACS AMI
+DOI: 10.1021/acsami.7b17010
+Source text: full text
+
+Subscriber access provided by READING UNIV
+ACS Applied Materials & Interfaces is published by the American Chemical Society.
+1155 Sixteenth Street N.W., Washington, DC 20036
+Published by American Chemical Society. Copyright © American Chemical Society.
+However, no copyright claim is made to original U.S. Government works, or works
+produced by employees of any Commonwealth realm Crown government in the course
+of their duties.
+Article
+The effect of alkali-carbonates (single, binary, and ternary) on doped
+ceria, a composite electrolyte for low temperature solid oxide fuel cells
+Amjad Ali, Asia Rafique, Muhammad Kaleemullah, Ghazanfar Abbas,
+Muhammad Ajmal Khan, Muhammad Ashfaq Ahmad, and Rizwan Raza
+ACS Appl. Mater. Interfaces, Just Accepted Manuscript • DOI: 10.1021/acsami.7b17010 • Publication Date (Web): 19 Dec 2017
+Downloaded from http://pubs.acs.org on December 20, 2017
+Just Accepted
+“Just Accepted” manuscripts have been peer-reviewed and accepted for publication. They are posted
+online prior to technical editing, formatting for publication and author proofing. The American Chemical
+Society provides “Just Accepted” as a free service to the research community to expedite the
+dissemination of scientific material as soon as possible after acceptance. “Just Accepted” manuscripts
+appear in full in PDF format accompanied by an HTML abstract. “Just Accepted” manuscripts have been
+fully peer reviewed, but should not be considered the official version of record. They are accessible to all
+readers and citable by the Digital Object Identifier (DOI®). “Just Accepted” is an optional service offered
+to authors. Therefore, the “Just Accepted” Web site may not include all articles that will be published
+in the journal. After a manuscript is technically edited and formatted, it will be removed from the “Just
+Accepted” Web site and published as an ASAP article. Note that technical editing may introduce minor
+changes to the manuscript text and/or graphics which could affect content, and all legal disclaimers
+and ethical guidelines that apply to the journal pertain. ACS cannot be held responsible for errors
+or consequences arising from the use of information contained in these “Just Accepted” manuscripts.
+The effect of a lkali-carbonates ( single, binary, and ternary) on doped ceria, a composite
+electrolyte for low temperature solid oxide fuel cells
+
+Amjad Ali 1,2, Asia Rafique 1, Muhammad Kaleemu llah1, Ghazanfar Abbas 1, M. Ajmal Khan 1,
+M.Ashfaq Ahmad1,and  Rizwan Raza1,3*
+1Department of Physics, COMSATS Institute of Information Technology, Lahore 54000, Pakistan.
+2Department of Physics, University of Okara, 56300, Pakistan.
+3Department of Energy Technology, Royal Institute of Technology (KTH), 10044 Stockhol m,
+Sweden.
+*Email:razahussaini786@gmail.com_______________________________________________________________________
+ABSTRACT
+Samarium doped ceria-carbonate (SDC) has become an attractive electrolyte for fuel cells due to
+its remarkable ion conductivity and high performance.  Different doped ceria -carbonate (single
+carbonate-SDC, binary carbonate-SDC, and ternary carbonate-SDC) electrolytes were synthesized
+by the co -precipitation/oxalate method, to optimize  the electrochemical performance. The
+structure, morphology, and thermal, optical, and surface properties, have been studied using a
+variety of techniques. The X- ray diffraction results confirmed the successful incorporation of
+samarium into ceria as a crystalline structure and inclusion of carbonate is an amorphous in nature.
+To analyze the conduction mechanism, DC conductivity was measured in a H 2/O2 atmosphere.
+Doped ceria-binary carbonate (Li/Na)CO3-SDC) showed the best conductivity of 0.31Scm-1, and
+power density of  617 mWcm -2, at 600 oC. The enhancement in the ionic conductivity and
+performance of the composites is due to the contribution of hybrid ions ( O2-,H+). The crystallite
+size of the composites was in the range 21 –41 nm. For the calculation of band gaps, the optical
+absorption spectra of the synthesized powders were analyzed, and showed a red shift with band
+gap energy in the range 2.6–3.01eV, when compared with pure ceria (3.20 eV).
+Keywords: alkaline carbonate , electrochemical impedance spectroscopy,  band gap, crystallite
+size, red shift.
+1. Introduction
+Solid oxide fuel cells (SOFCs) are the most efficient technology for energy demands  due
+to salient features such as high efficiency, fuel flexibility, and low emission1. The hindrance for
+the commercialization of this technology is its high operating temperature of 1000oC. Researchers
+are trying to decrease this operating temperature to below 600 oC2. The lower temperatures of the
+Page 1 of 38
+SOFCs demand high ionic conductivity of electrolytes, using thinner layers and improved
+electrode reaction activity. The reduced temperature increases the ohmic losses of the electrolyte,
+which is the major drawback 3.  Recently, many doping electrolyte materials have been prepared
+to increase the ionic conductivity. Examples include yttria stabilized  zirconia (YSZ), Scandia
+stabilized zirconia, and gadolinium or samarium doped ceria (GDC, SDC)4–5. The commonly used
+electrolyte material YSZ possesses high ionic conductivity, chemical stability, and  compatibility
+with electrode materials5. It has been reported that this electrolyte operates at higher temperature
+(>800oC), and shows reduced ionic conductivity at lower temperatures, when compared to ceriabased GDC and SDC 6. Therefore, doped ceria materials are considered the ideal electrolytes for
+intermediate temperature SOFCs h aving ionic conductivity of 0.1 Scm -1 at about 600 oC7.
+Unfortunately, doped ceria shows mixed conductivity (ionic-electronic), which reduces the
+efficiency and performance of the cell due to short circuiting of the anode -cathode8. To increase
+the ionic conductivity of doped ceria electrolytes, the electrical properties of these materials must
+be improved. Some researchers have discovered two-phase ceria-based composite materials which
+enhanced the ionic conductivity and cell performance below 600 oC. Doped ceria -carbonate
+electrolytes exhibit higher ionic conductivity and low electronic conductivity compared to doped
+ceria in the temperature range 400–600oC9. The first phase is doped ceria, and the second phase is
+the addition of a small amount of salts which behave in an amorphous fashion, causing the
+conductivity enhancement10-11. These two phase materials have ionic conductivity ( >0.1 Scm−1
+below 600 oC), a nd are found to be co- ionic (O 2-, H +) conductors, effectively reducing the
+electronic effects and exhibiting higher electrochemical performance (>1 Wcm−2 at 600oC with H2
+fuel)12–15. Wang et al.  prepared nanocomposite electrolyte material (N -SDC) with super -ionic
+conductivity of 0.1 Scm−1 above 300oC, and obtained a power density of 0.8Wcm−2at 550oC12. Gao
+et al . observed the electrochemical properties and conduction mechanism of a SDC/Na 2CO3
+nanocomposite electrolyte, and obtained enhanced conductivity in a H2 atmosphere, and measured
+a performance of 375mWcm−2 at 550oC16. Xia et al. studied the effect of binary carbonates  on
+morphology, conductivity, and performance of the  cell with SDC/ (Li/Na) 2CO3 composite
+electrolytes17. Huang et al. investigated the effects of binary carbonates, (Li/ Na)2CO3, (Li/K)2CO3,
+and (Na/K)2CO3, on samarium doped ceria composite electrolytes for low temperature SOFC s18.
+In another study, Huang et al. examined the effect of binary carbonates (SDC/(Li-Na)2CO3), as a
+second phase, on the electrical properties of SDC/carbonate nanocomposite electrolytes. The
+Page 2 of 38
+obtained power density was 600mWcm -2 at 600 oC19. Jing et al.  studied the samarium doped
+ceria/ternary alkaline carbonate (Li 2/Na2/K2)CO3, and obtained the highest ionic conductivity of
+0.4 Scm-1 at 600oC20. Chen et al . also investigated the effect of carbonate content in samarium
+doped ceria, and measured fuel cell performance greater than 600 mWcm-2 at575oC21.  Asghar et
+al. studied the LNK-SDC (35:65) and obtained the highest conductivity of 0.55 Scm-1 at 600oC22.
+In view of the above, the effect of single, binary, and ternary, alkali  carbonates was
+investigated i n doped ceria electrolyte. The ele ctrolyte materials were synthesized  using a coprecipitation/oxalate technique and analyzed by thermogravimetric analysis (TGA),  X- ray
+diffraction (XRD), Fourier transform infrared spectroscopy (FTIR), scanning electron microscopy
+(SEM), electrochemical impedance spectroscopy (EIS), and UV-visible spectroscopy.  Fuel cell
+performance and DC conductivity of the electrolytes was measured and compared in the low
+temperature range.
+
+2. Experimental Section
+2.1 Synthesis of materials
+Electrolyte materials consisting of doped ceria- carbonates were prepared by a coprecipitation technique. To synthesize the ceria- based carbonate composites, the following
+chemicals were used: samarium nitrate hexahydrate Sm(NO 3)36H2O, cerium nitrate hexahydrate
+Ce(NO3)36H2O, sodium carbonate Na 2CO3, lithium carbonate Li 2CO3, and potassium carbonate
+K2CO3 (Sigma Aldrich, 99.9% USA). Initially, samarium nitrate and cerium nitrate were mixed in
+1000 ml of deionized water with the molar ratio Ce:Sm =4:1. The nitrate solution was stirred at
+80oC for two hours. Single, binary, and ternary alkaline carbonates were used as the second phase
+in nitrate solution with a molar ratio of SDC:carbonate=1:2. The mixed solutions  were further
+stirred for two hours at 80oC to obtain the white precipitants . The precipitants were washed with
+deionized water, followed by vacuum filtration, and dried in an oven for three hours at 120 oC.
+Finally, the dried powders were  fired in a furnace at 800 oC for four hours  to achieve a dense
+electrolyte. The prepared samples were Na 2CO3-SDC, K2CO3-SDC, Li2CO3-SDC, (Li/Na)2CO3-
+SDC, (Na/K)2CO3-SDC, (Li/K)2CO3-SDC, and (Li/Na/K)2CO3-SDC, named as single carbonates-
+SDC (N- SDC, K- SDC, L -SDC), binary carbonates-SDC ( LN-SDC, NK-SDC, LK -SDC), and
+ternary carbonates-SDC ( LNK-SDC) , respectively. A flow chart of the prepared electr olyte
+powder is shown in Figure1.
+Page 3 of 38
+
+Figure.1 Flow chart of electrolyte powder prepared using a co-precipitation method.
+2.2 Characterization
+The phase structure was analyzed  with an X-ray diffractometer (PANalytical X’Pert Pro
+MPD, Netherlands) with Cu K α source (λ =1.5418 Å ). From the XRD peaks, lattice parameters
+“a” were calculated using the following equations;
+
+while the crystallite size,
+τ , was calculated using
+the Scherer equation
+) 3 (cos
+9 . 0
+θ β
+λτ =
+
+) 2 (
+) 1 (,sin2
+2 2 2l k h d a
+d
++ + =
+= θ
+λ
+Page 4 of 38
+Here, λ is the wavelength of the source, β is the full width half maxima, and θ is the Bragg angle.
+Rietveld refinement of the diffraction pattern of the sample was performed by GSASII software to
+obtain the crystal structural parameters23.
+Thermal behavior was analyzed using TGA (Q600, TA Instruments, USA) with the sample
+heated in the range 25–1000oC at a rate of 10oC min-1 in a N2 atmosphere. The microstructure was
+analyzed using SEM (Ultra 55, Carl ZEISS, USA). For band gap measurements, a  Perkin Elmer
+Lambda 750 UV Vis-NIR spectrometer was used and spectra were recorded in the range 300–800
+nm (wavelength). The FTIR was observed using Perkin Elmer spectrum RX I with a spectral range
+of 4000–500 cm-1.
+2.3 Conductivity, fuel cell performance, and impedance analysis
+A circular pellet of each sample was prepared at 300 MPa, with 13 mm diameter, 0.64 cm2
+active area, and 1 mm thickness for conductivity measurements.  The pellets were sintered at 700oC
+for two hours, and then silver paste was glued on both sides of the pellets to collect current. The
+ionic conductivity was measured using a four probe apparatus (2450 SMU, Keithley).
+For measurement of EIS and cell performance, a three -layer pellet (same dimensions as
+above) was fabricated using an SDC-carbonated electrolyte and LiNiCuZn -oxide electrode. The
+EIS of the prepared cell (three layers ) was measured with a PARSTAT 4000 (Princeton Applied
+Research, USA) in H2 atmospheres, over the frequency range 0.1Hz–5MHz, with a 10 mV signal.
+The performance of the cell was obtained (S12, Chi na) at 600oC. Hydrogen gas was used
+as a fuel with a flow rate of 100  ml min−1 at 1 atm pressure, and air as an oxidant. The hydrogen
+used has a purity of 99.999%.
+
+3. Results and Discussions
+3.1 Structural analysis
+Figure 2(a –e) shows the XRD results  of doped ceria -carbonate electrolytes after heat
+treatment at 800oC for four hours. In XRD patterns, all detected peaks were indexed as SDC crystal
+planes with planes indices (111), (200), (220), (311), (222), (400), (331), and (420). For a number
+Page 5 of 38
+of reasons, no peaks from carbonates were observed  in the XRD spectra. Firstly, the crystal
+structure factor of the carbonate phase and SDC is different. SDC is made up of heavy cations of
+Ce (Z=58) and Sm (Z=62), along with oxygen, while the atomic numbers of carbonates are very
+low compared to Ce and Sm 24. Secondly, a large portion of carbonates may be in the amorphous
+phase. The amorphous structure of carbonates is formed during heat treatment, creating a
+protective layer over the SDC phase; this is known as the second phase, and has been reported in
+the literature8,25-26. Doped ceria- carbonates have a fluorite structure with space group 𝐹𝐹𝐹𝐹3𝐹𝐹
+(JCPDS 34-0394) and Rietveld refinement of diffraction patterns and schematic structure of CeO2
+is shown in Figure 2(d–f). Refinement results are presented in Table 1. Atomic positions have been
+fixed by the symmetry of space group 𝐹𝐹𝐹𝐹3𝐹𝐹.  Ceria and samarium cations are at the 4a site with
+atomic position (0 0 0) while oxygen atoms are situated at the 8c site with atomic positions (0.25
+0.25 0.25).
+Based on the  XRD results, it can be established that neither a chemical reaction nor
+formation of a new compound takes place in doped ceria-carbonates27. The average crystallite size
+was observed to be in the range 21–41 nm, and the lattice parameter ranged from 5.442–5.447 Å.
+Similar XRD results from doped -ceria/carbonates have already been reported 25,28–30. The doping
+of Sm3+ into Ce4+ shifts the ceria peaks towards lower angles because of the large ionic radii of the
+samarium ion (0.109 nm) compared to the cerium ion (0.097 nm) 31. This expansion changes the
+lattice-plane spacing, and so an increase in the unit cell volume and lattice parameter occur s on
+samarium doping32. The lattice parameter  expansion has been observed in previous studies 33-34.
+However, single, binary and ternary carbonates are amorphous in nature (no XRD peaks) so it has
+no effect on the lattice parameters. The goodness of fitting was calculated by the following reliable
+parameters; Rp: 4.09, Rwp:5.27,RB:1.02, Rexp:3.98, and χ2:1.32.
+Page 6 of 38
+
+Page 7 of 38
+
+Page 8 of 38
+
+Figure 2. XRD patterns of electrolyte a) single carbonate-SDC, b) binary carbonate-SDC,         c)
+ternary carbonate-SDC d) Rietveld refinement of the composition L- SDC e) Rietveld refinement
+of the composition LN-SDC, and   f) Schematic structure of CeO2
+Page 9 of 38
+Table 1. Crystallographic parameters of LN-SDC/L-SDC by Rietveld refinement
+
+SEM analysis was performed to observe the surface morphology of electrolyte materials, and the
+results are shown in Figure 3. The particles are uniformly dispersed  on the surface, indicative of
+the homogeneity of the materials. The SEM descriptions  confirm that the surface of the SDC
+particles is covered in carbonates shaped like white loops. Such microstructure of electrolyte
+materials might enhance the ionic conduction mechanism35.
+
+Atom Wyckoff  Symbol x y z Uiso [Å2] Occupancy
+Ce  4a 0.0 0.0 0.0 0.0143  0.80
+Sm  4a 0.0 0.0 0.0 0.0143  0.20
+O 8c 0.25 0.25 0.25 0.0348  1.90
+Page 10 of 38
+Figure 3. SEM microstructure of doped ceria/carbonate electrolytes.(a) N-SDC,(b)K-SDC, (c)LN-
+SDC,  (d)NK-SDC,(e) LK-SDC, and (f) LNK-SDC.
+3.2 Thermal analysis
+TGA and DSC curves of carbonates-SDC, in the temperature range 25–800oC, are shown
+in Figure 4. Thermal analysis of all samples revealed two endothermic peaks at two temperatures.
+The first peak is attributed to the vaporization of moisture content, and th e second revealed the
+melting transition and formation of a binary eutectic salt32-33. The eutectic point of salts varies with
+carbonate content in SDC.  The exothermic peaks in all prepared materials may give an estimate
+for the activation point for crystallization33. The weight loss in single carbonate-SDC is about 5%,
+whereas in binary carbonate-SDC and ternary carbonate-SDC it is 2.6% and 3% respectively. The
+amorphous nature of carbonates on the SDC surface facilitates ionic transport, and at high er
+temperature the amorphous softened nature of the carbonates overcomes the electronic conduction
+and enhances ionic conductivity32.
+
+Page 11 of 38
+
+Figure 4. TGA/DSC curve (a) SDC-single carbonate, (b) SDC-binary carbonates, and (c) SDCternary carbonates.
+
+Page 12 of 38
+3.3 UV-visible spectroscopy
+UV-visible spectra of the doped ceria/carbonates were obtained to explore the band gap as
+a function of wavelength in the spectral range from 300 to 800 nm, and are shown in Figure 5. The
+band gap was calculated using.
+ ( ) ( )4) ( gE h Anαhυ − =υ
+where α is the absorbance coefficient, h is Plank’s constant,  Eg is the band gap, A is a constant,
+and n defines the type of band gap (direct or indirect). An indirect band gap for samarium doped
+ceria was determined from absorption data. The plots of ( αhυ )1/2 versus photon energy ( hυ ) are
+given in the insets of Figure 5(a–c). A line was drawn on the linear portion of the graph which cut
+at the x-axis. The point on the x-axis gives the band gap value. A strong absorption is observed in
+the range 300–400 nm, indicating a transition from O2- (2p) to Ce4+ (4f) orbital34. The increase of
+UV absorption for SDC-carbonates is the indication of replacement  of Ce4+ ions with Sm3+ ions,
+increasing the oxygen vacancy concentration35. The calculated band gap (Eg) is shown in Table 2.
+Table 2. Crystallite size, lattice parameter, and band gap energy of electrolytes
+
+The band gap of carbonates- SDC shows a red shift  compared to pure ceria at 3.20 eV36.
+Ionic conductivity in ceria is due to the generation and movement of oxygen vacancies37. Oxygen
+vacancies are generated in ceria to balance  the charge of dopant cations. The oxygen vacancy
+depends on the nature and ratio of the dopants. Thus, the concentration of oxygen vaca ncies can
+be enhanced on the substitution of lower valent cations in ceria, which significantly enhanced the
+ionic conductivity38-39. Samarium dopant cation with a positive vacancy-dopant association energy
+element reduces the band gap (red shift) lower than ceria, by creating associated oxygen vacancies,
+Composition  Crystallite size (nm)   Lattice Parameter (Å)   Band gap (eV)
+N-SDC 36 5.446  2.9
+L-SDC 39 5.447 3.01
+K-SDC 41 5.446 2.95
+NK-SDC 25 5.446 2.6
+LN-SDC 21 5.445 2.7
+LK-SDC 29 5.445 2.8
+LNK-SDC 32 5.442 2.87
+Page 13 of 38
+resulting in an increase in the conductivity and fuel cell performance.  On the other hand, dopant
+cations with negative vacancy-dopant association energy elements (Er) increase the band gap (blue
+shift)higher than ceria, suppressing the formation of associated oxygen vacancies40, resulting in
+decreased conductivity and fuel cell performance41-42. The obtained results on the band gaps agreed
+with the reported work in the literature36,43-44.
+
+Page 14 of 38
+
+Figure 5. UV-Vis spectrum (inset Tauc Plot). (a) single carbonate-SDC, (b) binary c arbonate-
+SDC, and (c) ternary carbonate-SDC.
+Page 15 of 38
+FTIR spectroscopy was used to find  information on the structural and phase  transformations of
+cerium oxide. Figure 6 shows FTIR spectra of carbonates-SDC samples taken in the range 4000–
+500 cm-1. The spectrum in Figure 6(a) shows a large absorption band at 1492 cm-1, and another at
+856 cm-1. These are attributed to the CO3- group in the absorption spectrum. The presence of CO-
+3 might be responsible for co- ionic conduction that may enhance ionic conductivity. The band at
+1071 cm-1 is attributed to sodium carbonate. The narrow band below 700 cm -1 is due to a metal -
+oxygen band, which indicates the formation of SDC 32,45–47. In Figure 6(b) the band at 1043 cm-1
+might be due to sodium carbonate. The peak at 1484 cm-1 is due to the CO32- group. In Figure 6(c)
+the peak at 1215 cm-1is the stretching frequency of metal oxygen Ce-O bonds. Modes of vibration
+of doped ceria-carbonates are shown in Table 3.
+
+Page 16 of 38
+
+Figure 6. FTIR absorbance spectra of the prepared material. (a)single carbonate-SDC, (b) binary
+carbonate-SDC, and (c) ternary carbonate-SDC.
+
+Page 17 of 38
+Table 3. Identification of vibration modes of doped ceria-carbonate31,45–48
+
+3.4
+Ionic conductivity
+The ionic conductivities  of electrolytes were measured in a H 2/O2 atmosphere at
+comparatively low temperatures (350 –600oC). The measured values are shown in Table 4 . For
+single carbonates, N-SDC has the best ionic conductivity of 0.052 Scm-1at 600oC, when compared
+to L-SDC and K-SDC. Binary carbonates LN-SDC showed a maximum conductivity of 0.31Scm-
+1, higher than NK-SDC and LK-SDC at 600 oC. Lapa et al. observed an ionic conductivity of 0.2
+S cm-1 for doped ceria-carbonate (Li/Na)2CO3 at 500oC9. Finally, the ternary carbonate LNK-SDC
+has a conductivity of 0.094Scm-1 at 600oC. From the conductivity data, Arrhenius plots were drawn
+to calculate the activation energy (Ea), and the results are shown in Figure 7.
+Peaks/Band (cm-1)          Bonding
+Peak at 1492 cm-1, 1484 cm-1, and
+856 cm-1
+ CO-3 group in the absorption spectra.
+Band at 1043 cm-1,1071 cm-1 Due to sodium carbonate.
+Narrow band below 700 cm-1 Due to metal-oxygen band.
+Peak at 2926cm-1 and Due to due to γ(C-H).
+1215 cm-1 Stretching frequency of metal oxygen Ce -O
+bond.
+Peaks at 1559 cm-1 and 2465 cm-1 Stretching vibration of COO- group.
+Peak at 2840 cm-1 CH2stretching vibration.
+Absorption band at 3659 cm-1 O-H stretching frequency of aquatic and
+hydroxyl groups.
+Page 18 of 38
+
+Page 19 of 38
+
+Figure 7. Arrhenius plots of (a) single carbonate -SDC, (b) binary carbonate -SDC, (c) ternary
+carbonate-SDC, and (d) comparison of LN-SDC, LNK-SDC,N-SDC
+Page 20 of 38
+Activation energies (Ea) were calculated from the Arrhenius plot using the equation;
+σ = 𝐴𝐴
+𝑇𝑇 exp � 𝐸𝐸𝑎𝑎
+𝐾𝐾𝑇𝑇�                                                                      (5)
+where σ is the ionic conductivity, k  is Boltzmann’s constant , T is temperature in  degree kelvin ,
+and A is a pre-exponential factor. Figure 7(a) shows the ionic conductivity of doped ceria -single
+carbonates. The measurement reveals that the doped ceria -carbonate electrolyte has a higher
+conductivity than SDC (0.01 Scm -1 at 600oC)49. SDC-carbonate is dual phase; one phase is SDC
+in which O2- ions contribute50, and the second phase consists of  carbonates which contribute the
+H+ ions51.  Similar behavior was discussed in the core- shell nanostructure for carbonates- SDC,
+where the SDC surface was cov ered with amorphous carbonates 52. However, doped ceria -salt
+enhanced ionic conductivity due to the hybrid ion conduction mechanism53. Rahmawati et al. also
+reported the contribution of H + ions which pass through the oxide -carbonate int erface via a
+hopping mechanism8.
+The Arrhenius plot in Figure 7(a), of single doped ceria-salts, shows a lower conductivity
+below 450oC where carbonates are in solid state form and only oxygen ions passed through the
+electrolyte. Above 450oC conductivity rises due to the formation of an interface between SDC and
+carbonates54–56. Figures 7(b) and (c) show the conductivities of various doped ceria -binary and
+ceria-ternary carbonates. Single carbonates have a very high melting point, but in binary
+carbonates the eutectic melting point decreases and solid carbonates transform into a soft phase at
+lower temperature. The eutectic melting point of binary carbonates LK, LN, and NK  are 490oC,
+499oC, and 695 oC, respectively. However , the  eutectic melting points varied with carbonate
+concentration. An abrupt jump in conductivity is observed at a temperature of 450oC for almost all
+composites, above which conductivity increases due to softening of carbonate phases. According
+to a literature survey, this behavior is mentioned as a superionic phase transition, and can be
+associated with the melting point of the binary carbonates 57. At temperatures below 450 oC the
+conductivity is decrease d due to the block effe ct of solid state carbonates 26. This can also be
+interpreted in another way: at low temperatures the cation defects in nanocomposite interface
+phases are not highly activated, and are less mobile because of the activation barrier, resulting in
+low conductivity54. In the case of ternary carbonates (LNK) the jump in conductivity is observed
+at 400oC, which is the eutectic melting point of the ternary carbonate where glass transitions occur.
+Enhancement of conductivity is due to O 2- and H + ions 55–57. The Arrhenius plot for total
+Page 21 of 38
+conductivity is not linear over the entire temperature range. At low/intermediate temperatures the
+activation energy has two parts , namely association enthalpy aH∆  and migration enthalpy mH∆ .
+mH∆ does not depends upon the temperature and dopant concentrations58. aE is mostly determined
+by aH∆ . At high temperatures, Ea depends only on mH∆ and at 0→ ∆aH ,all the defects are fully
+dissociated.
+In the Arrhenius plots there is a transition for defects from associated states to dissociated
+states. From Figure 7 the values of m aH H∆ ∆, can be calculated in the temperature ranges 350–
+450oC and 450–600oC using equation 6.
+    σ =
+𝐴𝐴
+𝑇𝑇 exp (−
+ma H H∆ + ∆
+𝐾𝐾𝑇𝑇  )                               (6)
+At higher temperature s dissociation of vacancies takes place 59. The activation energy at high
+temperature is known as migration enthalpy does not vary much with composition, whereas the
+association enthalpy does.
+3.5 Impedance analysis
+
+Electrochemical impedance measurement s of the prepared cells w ere taken in a H 2
+atmosphere at 600oC and the results are shown in Figure 8(a–d). The Nyquist plot of LN-SDC at
+300oC, shown in Figure 8(a), reveals one semicircle arc corresponding  to the bulk composite
+response at high frequency, and a small arc at low frequency is ascribed to the electrolyte-electrode
+interface impedance. At  300 oC carbonates are in solid form so the ionic  conductivity of the
+electrolyte is controlled by the carbonate phase, which shows high resistance at low temperature56.
+At 600oC the bulk response of the composite is invisible but electro de behavior is dominant. At
+600oC carbonates are in molten form, resulting in a decrease in the impedance of the cell. However,
+in the case of doped ceria/carbonates, bulk resistance is reduced compared to single phase SDC21.
+It can therefore be predicted that the second  phase of carbonates overcomes the barrier of the
+conventional single phase electrolyte material.
+Page 22 of 38
+
+Page 23 of 38
+
+Figure 8. The Nyquist plots of (a) LN-SDC (best sample @300 oC), (b) single carbonate-SDC, (c)
+binary carbonate-SDC, and (d) ternary carbonate-SDC. Equivalent circuits are also shown  inside
+the figures.
+Page 24 of 38
+To find the total resistance of the pellet, experimental data was simulated with Z SimpWin
+software, and the equivalent circuit was drawn. The equivalent circuit containing L inductance,
+R1, R2 resistance of the bulk and electrolyte-electrode interface, respectively, and Q is a constant
+phase element (CPE). The two elements R 1||Q and R 2||Q are in series and R 1||Q shows the bulk
+ionic conductivity57–63. Here, the electrolyte-electrode interface impedance (R2) is not considered
+because the total resistance of the electrolyte is given by the bulk resistance (R 1). The semicircle
+arcs at 300oC, corresponding to bulk, indicate that grain distribution is uniform inside the samples,
+confirming SEM results. The doped ceria -carbonates reduce the bulk resistance above 450 oC,
+which plays a dominant role in electrolyte conductivity 9,63-66. The important difference of SDC -
+carbonate is the absence of a grain boundary arc due to the relevant carbonate phase at high
+temperature.
+The associated capacitance value for the semicircle was calculated using the formula;
+  ( )71 2=RCfπ
+The value of the capacitances is shown in the T able 4 and found to be in the order of 10 -10 F,
+therefore it has been attributed to a conduction process through the bulk (grain). Carbonates play
+a vital role in raising the densification of electrolytes at lower sintering temperatures compared to
+SDC, resulting in less particle aggregation ( because particle aggregation may reduce the triple
+phase boundary (TPB) for electrochemical reactions), which may affect the  conductivity67. The
+phase of carbonate is supposed to be amorphous and continuous after melting without internal
+interfaces68.
+Table 4. Conductivity, activation energy, simulated values of R1, capacitance, and power density
+of carbonate-SDC
+Composition σ(Scm-1)
+@600oC
+Ea(eV)350 -
+450 oC
+   Ea(eV)
+450 - 600
+oC
+ R1
+(Ω)
+C(1010)
+F
+OCV
+(V)
+PowerDensity
+(mW cm-2)
+N-SDC 0.052 1.04  0.53 1.6 199 0.91     488
+L-SDC 0.020 0.73 0.58 2.0 167 0.89     435
+K-SDC 0.006 0.35 0.61 1.9 159 0.91    463
+LN-SDC 0.31              1.6 0.45 1.4 227 0.98    617
+NK-SDC 0.20 1.86 0.40 1.8 138 0.97    582
+Page 25 of 38
+
+3.6. Fuel cell performance
+
+Fuel cell performance, using hydrogen fuel, is shown in Figure 9. The measured values of
+power densities and open circuit voltages (OCVs) are shown in Table 4. The results show that the
+LN-SDC (one of the binary carbonate) cell exhibited the highest power density of 617mWcm-2 at
+600oC. However, a comparison of (single, binary, ternary) carbonates-SDC is shown in Figure
+9(d). The electrolyte with higher values of conductivity has a maximum power density. Doping
+Sm3+ into ceria slightly shifts the peaks towards lower angles, resulting in an increase in the lattice
+parameter. The increase in lattice parameter decreases the particle size, which increases the
+conductivity and performance. The change in conductivity can be linked to lower  lattice binding
+energy, which increases  the number of oxygen vacancies . O xygen vacancies  enhance the
+conductivity of the electrolytes. The enhancement in ionic conductivity may be ascribed due to the
+close ionic radii of both elements and small binding energy69. The high power density of the LN-
+SDC electrolyte material may be due to fast transportation of oxygen and proton ions, called
+superionic conduction. The enhanced conductivity and power density may be due to the formation
+of ceria-carbonate interfaces which behave as superionic highways facilitating the transportation
+of ions61.
+LK-SDC 0.12  1.6 0.49 2.3 172 0.96    562
+LNK-SDC 0.094 1.3 0.51 1.85 176 0.92   525
+Page 26 of 38
+
+Page 27 of 38
+
+Figure 9.  Fuel cell performance of (a) single carbonate- SDC, (b) binary carbonate -SDC, (c)
+ternary carbonate-SDC, and (d) comparison N-SDC,LN-SDC, and LNK-SDC.
+Page 28 of 38
+4. Conclusions
+Doped ceria -carbonate (single, binary, and ternary) nanocomposite electrolyte powders
+were successfully synthesized by a co-precipitation technique. This technique is considered to be
+the best at controlling the structural, optical, and thermal properties of the prepared powder. The
+first phase is a cubic crystal phase of doped ceria, and the second phase is an alkali carbonate,
+which is amorphous in nature. XRD  Rietveld refinement of diffraction patterns established  the
+creation of a cubic fluorite structure  𝐹𝐹𝐹𝐹3𝐹𝐹. Doping of samaria into ceria (SDC)  led to  peak
+broadening and decreased the intensity. This indicates a decrease in crystallinity and crystallite
+size. The lattice parameter is increased due to the slightly large ionic radii of samarium compared
+to ceria. The SDC phase is a crystalline in nature, so the XRD peaks slightly shift towards lower
+angles, and the lattice parameter is  increased compared to CeO2. But single, binary, and ternary
+carbonates are amorphous in nature, so it has no effect on the lattice parameter. SEM results also
+confirmed that particles are uniformly distributed.
+Amongst all the samples, LN -SDC has the highest conductivity and performance of
+0.31Scm-1 and 617 mWcm-2, respectively , at 600 oC. The LN-SDC crystallite size decreased
+(21nm), while the lattice parameter increased, on doping with samarium. The optical absorption
+spectra of all the electrolytes showed a red shift with band gap energy in the range 2.6–3.01eV
+compared to pure ceria (3.20eV). The Sm+3 dopant cation reduces the band gap of ceria, due to an
+increase in associated oxygen vacancies, result ing in  an increase in  conductivity and fuel cell
+performance. TGA of the samples showed that endothermic peaks near 100 oC can be ascribed to
+the water content of the sample, whereas other endothermic peaks show the eutectic point
+formation of the different salts. Doped ceria -carbonate composites are found to be co -ionic (O2-,
+H+) conductors, and they decrease the electronic conduction. It has been found that doped ceria -
+carbonates, especially LN-SDC, are suitable for LT -SOFC. These exhibit high conductivity and
+fuel cell performance while reducing the operating temperature.
+
+Acknowledgments
+
+We acknowledge  the Higher Education Commission, Pakistan (HEC). The a uthors also
+acknowledge the help of Dr. M. Shoaib ( SKKU, South Korea)  for XRD reviled refinement
+analysis.

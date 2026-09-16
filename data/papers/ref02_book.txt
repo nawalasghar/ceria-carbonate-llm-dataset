@@ -1,0 +1,8 @@
+Citation: (book chapter — see data/papers/pdf/2.pdf)
+DOI: (not available; scanned PDF has no text layer)
+Source text: full text (NOT EXTRACTABLE — image-only PDF, would require OCR)
+
+NOTE
+This PDF (data/papers/pdf/2.pdf) is a scanned/image-only book chapter with no
+embedded text layer, so pypdf returns zero characters. It is excluded from the
+primary ceria analysis (see papers_list.csv), so OCR was not performed.
