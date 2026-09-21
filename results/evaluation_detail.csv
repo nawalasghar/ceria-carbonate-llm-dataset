@@ -1,0 +1,305 @@
+paper_id,material,field,outcome
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),activation_energy_eV,both_null
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),atmosphere,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),ceria_dopant,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),conductivity_S_cm,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),conductivity_temp_C,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),conductivity_type,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),dopant_fraction,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),durability_h,both_null
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),fuel,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),measurement_method,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),ocv_V,both_null
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),pellet_thickness_um,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),pmax_mW_cm2,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),pmax_temp_C,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),relative_density_pct,both_null
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),secondary_phase,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),secondary_phase_wt_pct,both_null
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),sintering_temp_C,correct
+ref04_30ADC,10ADC (Al0.1Ce0.9O2),synthesis_route,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),activation_energy_eV,both_null
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),atmosphere,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),ceria_dopant,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),conductivity_S_cm,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),conductivity_temp_C,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),conductivity_type,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),dopant_fraction,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),durability_h,both_null
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),fuel,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),measurement_method,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),ocv_V,both_null
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),pellet_thickness_um,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),pmax_mW_cm2,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),pmax_temp_C,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),relative_density_pct,both_null
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),secondary_phase,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),secondary_phase_wt_pct,both_null
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),sintering_temp_C,correct
+ref04_30ADC,20ADC (Al0.2Ce0.8O2),synthesis_route,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),activation_energy_eV,both_null
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),atmosphere,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),ceria_dopant,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),conductivity_S_cm,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),conductivity_temp_C,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),conductivity_type,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),dopant_fraction,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),durability_h,both_null
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),fuel,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),measurement_method,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),ocv_V,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),pellet_thickness_um,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),pmax_mW_cm2,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),pmax_temp_C,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),relative_density_pct,both_null
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),secondary_phase,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),secondary_phase_wt_pct,both_null
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),sintering_temp_C,correct
+ref04_30ADC,30ADC (Al0.3Ce0.7O2),synthesis_route,correct
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),activation_energy_eV,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),atmosphere,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),ceria_dopant,correct
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),conductivity_S_cm,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),conductivity_temp_C,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),conductivity_type,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),dopant_fraction,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),durability_h,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),fuel,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),measurement_method,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),ocv_V,correct
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),pellet_thickness_um,null_mismatch
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),pmax_mW_cm2,correct
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),pmax_temp_C,correct
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),relative_density_pct,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),secondary_phase,correct
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),secondary_phase_wt_pct,both_null
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),sintering_temp_C,correct
+ref06_SDC-Na2CO3,SDC-Na2CO3 (one-step co-precipitation),synthesis_route,correct
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",activation_energy_eV,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",atmosphere,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",ceria_dopant,correct
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",conductivity_S_cm,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",conductivity_temp_C,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",conductivity_type,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",dopant_fraction,correct
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",durability_h,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",fuel,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",measurement_method,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",ocv_V,correct
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",pellet_thickness_um,null_mismatch
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",pmax_mW_cm2,correct
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",pmax_temp_C,correct
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",relative_density_pct,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",secondary_phase,correct
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",secondary_phase_wt_pct,both_null
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",sintering_temp_C,correct
+ref06_SDC-Na2CO3,"SDC-LiNaCO3 (conventional two-step, comparison)",synthesis_route,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),activation_energy_eV,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),atmosphere,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),ceria_dopant,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),conductivity_S_cm,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),conductivity_temp_C,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),conductivity_type,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),dopant_fraction,null_mismatch
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),durability_h,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),fuel,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),measurement_method,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),ocv_V,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),pellet_thickness_um,null_mismatch
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),pmax_mW_cm2,null_mismatch
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),pmax_temp_C,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),relative_density_pct,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),secondary_phase,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),secondary_phase_wt_pct,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),sintering_temp_C,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-1 (sintered 600 C 3 h),synthesis_route,correct
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",activation_energy_eV,null_mismatch
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",atmosphere,null_mismatch
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",ceria_dopant,correct
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",conductivity_S_cm,null_mismatch
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",conductivity_temp_C,null_mismatch
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",conductivity_type,null_mismatch
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",dopant_fraction,null_mismatch
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",durability_h,null_mismatch
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",fuel,correct
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",measurement_method,null_mismatch
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",ocv_V,both_null
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",pellet_thickness_um,null_mismatch
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",pmax_mW_cm2,correct
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",pmax_temp_C,correct
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",relative_density_pct,both_null
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",secondary_phase,correct
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",secondary_phase_wt_pct,both_null
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",sintering_temp_C,correct
+ref08_CSDC-Na2CO3,"CSDC-Na2CO3 Sample-2 (sintered 700 C 3 h, best performer)",synthesis_route,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),activation_energy_eV,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),atmosphere,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),ceria_dopant,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),conductivity_S_cm,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),conductivity_temp_C,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),conductivity_type,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),dopant_fraction,null_mismatch
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),durability_h,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),fuel,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),measurement_method,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),ocv_V,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),pellet_thickness_um,null_mismatch
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),pmax_mW_cm2,null_mismatch
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),pmax_temp_C,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),relative_density_pct,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),secondary_phase,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),secondary_phase_wt_pct,both_null
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),sintering_temp_C,correct
+ref08_CSDC-Na2CO3,CSDC-Na2CO3 Sample-3 (sintered 800 C 3 h),synthesis_route,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),activation_energy_eV,null_mismatch
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),atmosphere,null_mismatch
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),ceria_dopant,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),conductivity_S_cm,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),conductivity_temp_C,null_mismatch
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),conductivity_type,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),dopant_fraction,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),durability_h,both_null
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),fuel,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),measurement_method,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),ocv_V,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),pellet_thickness_um,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),pmax_mW_cm2,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),pmax_temp_C,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),relative_density_pct,both_null
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),secondary_phase,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),secondary_phase_wt_pct,both_null
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),sintering_temp_C,correct
+ref10_NK-CDC,NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating),synthesis_route,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),activation_energy_eV,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),atmosphere,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),ceria_dopant,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),conductivity_S_cm,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),conductivity_temp_C,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),conductivity_type,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),dopant_fraction,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),durability_h,both_null
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),fuel,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),measurement_method,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),ocv_V,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),pellet_thickness_um,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),pmax_mW_cm2,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),pmax_temp_C,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),relative_density_pct,both_null
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),secondary_phase,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),secondary_phase_wt_pct,both_null
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),sintering_temp_C,correct
+ref11_LN-SDC,N-SDC (Na2CO3-SDC single carbonate),synthesis_route,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),activation_energy_eV,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),atmosphere,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),ceria_dopant,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),conductivity_S_cm,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),conductivity_temp_C,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),conductivity_type,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),dopant_fraction,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),durability_h,both_null
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),fuel,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),measurement_method,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),ocv_V,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),pellet_thickness_um,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),pmax_mW_cm2,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),pmax_temp_C,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),relative_density_pct,both_null
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),secondary_phase,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),secondary_phase_wt_pct,both_null
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),sintering_temp_C,correct
+ref11_LN-SDC,L-SDC (Li2CO3-SDC single carbonate),synthesis_route,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),activation_energy_eV,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),atmosphere,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),ceria_dopant,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),conductivity_S_cm,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),conductivity_temp_C,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),conductivity_type,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),dopant_fraction,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),durability_h,both_null
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),fuel,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),measurement_method,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),ocv_V,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),pellet_thickness_um,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),pmax_mW_cm2,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),pmax_temp_C,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),relative_density_pct,both_null
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),secondary_phase,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),secondary_phase_wt_pct,both_null
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),sintering_temp_C,correct
+ref11_LN-SDC,K-SDC (K2CO3-SDC single carbonate),synthesis_route,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),activation_energy_eV,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),atmosphere,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),ceria_dopant,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),conductivity_S_cm,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),conductivity_temp_C,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),conductivity_type,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),dopant_fraction,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),durability_h,both_null
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),fuel,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),measurement_method,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),ocv_V,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),pellet_thickness_um,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),pmax_mW_cm2,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),pmax_temp_C,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),relative_density_pct,both_null
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),secondary_phase,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),secondary_phase_wt_pct,both_null
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),sintering_temp_C,correct
+ref11_LN-SDC,LN-SDC ((Li/Na)2CO3-SDC binary carbonate),synthesis_route,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),activation_energy_eV,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),atmosphere,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),ceria_dopant,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),conductivity_S_cm,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),conductivity_temp_C,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),conductivity_type,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),dopant_fraction,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),durability_h,both_null
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),fuel,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),measurement_method,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),ocv_V,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),pellet_thickness_um,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),pmax_mW_cm2,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),pmax_temp_C,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),relative_density_pct,both_null
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),secondary_phase,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),secondary_phase_wt_pct,both_null
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),sintering_temp_C,correct
+ref11_LN-SDC,NK-SDC ((Na/K)2CO3-SDC binary carbonate),synthesis_route,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),activation_energy_eV,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),atmosphere,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),ceria_dopant,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),conductivity_S_cm,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),conductivity_temp_C,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),conductivity_type,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),dopant_fraction,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),durability_h,both_null
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),fuel,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),measurement_method,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),ocv_V,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),pellet_thickness_um,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),pmax_mW_cm2,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),pmax_temp_C,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),relative_density_pct,both_null
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),secondary_phase,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),secondary_phase_wt_pct,both_null
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),sintering_temp_C,correct
+ref11_LN-SDC,LK-SDC ((Li/K)2CO3-SDC binary carbonate),synthesis_route,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),activation_energy_eV,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),atmosphere,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),ceria_dopant,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),conductivity_S_cm,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),conductivity_temp_C,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),conductivity_type,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),dopant_fraction,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),durability_h,both_null
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),fuel,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),measurement_method,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),ocv_V,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),pellet_thickness_um,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),pmax_mW_cm2,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),pmax_temp_C,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),relative_density_pct,both_null
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),secondary_phase,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),secondary_phase_wt_pct,both_null
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),sintering_temp_C,correct
+ref11_LN-SDC,LNK-SDC ((Li/Na/K)2CO3-SDC ternary carbonate),synthesis_route,correct
