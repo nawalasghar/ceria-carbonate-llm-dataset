@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.venv/
+.claude/
+data/papers/*.pdf
+data/papers/pdf/
+# full texts of source articles are not redistributed
+data/papers/ref*.txt

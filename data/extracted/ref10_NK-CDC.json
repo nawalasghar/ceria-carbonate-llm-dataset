@@ -1,0 +1,31 @@
+{
+  "paper_id": "ref10_NK-CDC",
+  "citation": "Abbas, Raza et al. 2011, J. Fuel Cell Sci. Technol. 8:041013",
+  "materials": [
+    {
+      "composition_label": "NK-CDC (Ce0.8Ca0.2O1.9 + Na2CO3:K2CO3 1:1 alkali carbonate coating)",
+      "ceria_dopant": "Ca",
+      "dopant_fraction": 0.2,
+      "secondary_phase": "Na2CO3:K2CO3 (1:1 molar binary alkali carbonate)",
+      "secondary_phase_wt_pct": null,
+      "synthesis_route": "co-precipitation (nitrates + binary carbonate solution, dropwise)",
+      "sintering_temp_C": 700,
+      "pellet_thickness_um": 250,
+      "relative_density_pct": null,
+      "measurement_method": "EIS",
+      "atmosphere": "air",
+      "conductivity_type": "ionic (dual O2-/H+)",
+      "conductivity_S_cm": 0.1,
+      "conductivity_temp_C": 600,
+      "activation_energy_eV": 0.20,
+      "pmax_mW_cm2": 567,
+      "pmax_temp_C": 550,
+      "ocv_V": 1.0,
+      "fuel": "H2",
+      "durability_h": null,
+      "notes": "Ca:Ce = 1:4 (20%) explicit. CDC:(Na2CO3+K2CO3) molar ratio = 1:2.5 in synthesis. Cell: 13 mm diameter, 0.64 cm2 active area, 0.8 mm total (anode 0.35 + electrolyte 0.25 + cathode 0.20 mm), cell sintered 650 C 40 min. Conductivity pellet separate: 13 mm x 3 mm, sintered 700 C 1 h. EIS 0.1 Hz - 1 MHz. Paper reports conductivity measured in both air and H2 atmospheres (Fig 4): 'ionic conductivity in air atmosphere is greater than hydrogen atmosphere' in the 550-600 C region; both similar below 500 C. 0.1 S/cm at 600 C is the headline value (matched to air per Fig 4 trend). Corresponding Ea = 0.20 eV in air, 0.52 eV in H2 (both from Arrhenius linear fits, 400-600 C). OCV series: 1.0 V (550 C), 0.923 V (500 C), 0.987 V (450 C), 0.96 V (400 C) - non-monotonic. Pmax = 567 mW/cm2 at 550 C, current density 1726 mA/cm2. Fuel H2 (paper text has '1 ml/min' in one place and '110 ml/min' in another - the latter is consistent with other Raza-group papers and is used here; the '1 ml/min' is likely a typo). Oxidant: oxygen. conductivity_type: paper explicitly claims 'dual phase oxygen/proton conductor'."
+    }
+  ],
+  "extraction_confidence": "high",
+  "extraction_notes": "Single composition (NK-CDC) measured in two atmospheres (air, H2) with different activation energies (0.20 eV in air, 0.52 eV in H2). Recorded as one material entry with air as primary atmosphere (matches the 0.1 S/cm headline value per Fig 4 trend); H2 values noted in-line. Secondary phase wt% not stated (molar ratio CDC:(Na2CO3+K2CO3) = 1:2.5 given). Relative density and durability not reported. Paper contains a fuel flow-rate inconsistency (1 vs 110 mL/min) - 110 used per convention. Also cites the Cabbas et al. text-quoted value that the CDC-alone (Banerjee) is 1.29e-2 S/cm at 600 C for comparison, but that is a literature comparison, not this paper's own measurement."
+}

@@ -1,0 +1,9 @@
+Citation: Raza et al. 2010, International Journal of Hydrogen Energy 35:2684
+DOI: 10.1016/j.ijhydene.2009.xx.xxx
+Source text: abstract only   (write "abstract + results section" if you pasted more)
+
+ABSTRACT
+<paste abstract here>
+
+RESULTS / KEY DATA (optional, paste relevant paragraphs or table text)
+<paste here>

@@ -1,0 +1,31 @@
+{
+  "paper_id": "ref12_Ba-SDC",
+  "citation": "Raza et al. 2015, Appl. Phys. Lett. 107:183903",
+  "materials": [
+    {
+      "composition_label": "Ba-SDC nanocomposite (Ce0.8Sm0.2O2-delta + Ba(NO3)2 addition, Ce:Sm:Ba = 4:1:1 molar)",
+      "ceria_dopant": "Sm",
+      "dopant_fraction": 0.2,
+      "secondary_phase": "Ba-Sm oxide (from Ba(NO3)2 added to SDC solution; XRD shows two phases: SDC + barium-doped samarium oxide)",
+      "secondary_phase_wt_pct": null,
+      "synthesis_route": "wet chemical (SDC solution prepared first, then Ba(NO3)2 added dropwise; dried 110 C 1 h, sintered 800 C 4 h in air)",
+      "sintering_temp_C": 800,
+      "pellet_thickness_um": 1000,
+      "relative_density_pct": 90,
+      "measurement_method": "2-probe AC (paper also mentions DC microohmmeter; EIS 0.01 Hz - 1 MHz)",
+      "atmosphere": "H2",
+      "conductivity_type": "ionic (dual O2-/H+; proton-dominant)",
+      "conductivity_S_cm": 0.19,
+      "conductivity_temp_C": 600,
+      "activation_energy_eV": null,
+      "pmax_mW_cm2": 550,
+      "pmax_temp_C": 550,
+      "ocv_V": null,
+      "fuel": "H2",
+      "durability_h": null,
+      "notes": "Proton conductivity 0.19 S/cm at 600 C in H2 (body + conclusion); note abstract states 0.19 S/cm at 460 C - internal inconsistency, 600 C used per body/conclusion. Oxygen ion conductivity in air = 0.015 S/cm at 600 C. Ionic transport number ti = 0.95 (paper). Density measured by He pycnometry 'estimated to be 90% higher' - interpreted as relative_density_pct = 90 (wording ambiguous). Sm:Ce = 1:4 (0.2). Ba is not a Ce-site dopant (added after SDC solution formation); it forms a second phase (Ba-doped Sm oxide) per XRD -> secondary_phase field. Fuel cell tested with both H2 and CH4 (natural gas); Pmax = 550 mW/cm2 at 550 C (fuel not resolved per curve in text; paper says 'works equally well with both'). OCV values not explicitly reported (only qualitative discussion of low OCV below carbonate melting point). Activation energy not calculated in this paper. Cell: 13 mm x 1 mm, active area 0.64 cm2, cell pressed at 280 kg/cm2 and sintered 650 C 1 h. Note: paper title and figure captions call material 'BaSDC-carbonate' but no carbonate is added in synthesis - the 'carbonate' in the figure label appears to be a mislabel (only Ba(NO3)2 salt, no CO3 source)."
+    }
+  ],
+  "extraction_confidence": "medium",
+  "extraction_notes": "Single Ba-SDC composition. Paper has several internal inconsistencies: (1) proton conductivity 0.19 S/cm listed at both 460 C (abstract) and 600 C (body/conclusion); (2) 'BaSDC-carbonate' in figure captions but no carbonate precursor in synthesis; (3) both DC and AC methods cited for conductivity. Ba added after SDC formation and forms a separate barium-doped Sm oxide phase (XRD-confirmed), so it is recorded as secondary_phase rather than a Ce-site dopant. Relative density 90% recorded from 'density was estimated to be 90%' phrasing (paper wording is awkward: 'higher due to the existence of the porous structure' - the '90%' clearly refers to relative density of the electrolyte). Activation energy, OCV numeric values, durability, and secondary_phase_wt_pct not reported. Also tested with natural gas but Pmax curve-to-fuel mapping not resolved in extracted text."
+}

@@ -1,0 +1,31 @@
+{
+  "paper_id": "string — file name without extension, e.g. ref21_NK-CDC",
+  "citation": "string — first author, year, journal (short)",
+  "materials": [
+    {
+      "composition_label": "string — as written in paper, e.g. SDC-Na2CO3 (80:20 wt%)",
+      "ceria_dopant": "string or null — Sm, Gd, Ca+Sm, Al, Ba ...",
+      "dopant_fraction": "number or null — mole fraction of dopant on Ce site",
+      "secondary_phase": "string or null — Na2CO3, Li/Na carbonate, LiNaK carbonate, none",
+      "secondary_phase_wt_pct": "number or null",
+      "synthesis_route": "string or null — co-precipitation, sol-gel, glycine-nitrate, solid-state mixing, core-shell coating ...",
+      "sintering_temp_C": "number or null",
+      "pellet_thickness_um": "number or null",
+      "relative_density_pct": "number or null",
+      "measurement_method": "string or null — EIS, 2-probe DC, 4-probe DC, other",
+      "atmosphere": "string or null — air, N2, H2, wet H2, fuel-cell condition",
+      "conductivity_type": "string or null — total, grain, grain-boundary, ionic, unspecified",
+      "conductivity_S_cm": "number or null — value at reference temperature",
+      "conductivity_temp_C": "number or null",
+      "activation_energy_eV": "number or null",
+      "pmax_mW_cm2": "number or null",
+      "pmax_temp_C": "number or null",
+      "ocv_V": "number or null",
+      "fuel": "string or null — H2, CH4, biogas ...",
+      "durability_h": "number or null — longest stability test reported",
+      "notes": "string or null — anything ambiguous, unit conversions made, caveats"
+    }
+  ],
+  "extraction_confidence": "high | medium | low",
+  "extraction_notes": "string — what was unclear or missing in the paper"
+}
