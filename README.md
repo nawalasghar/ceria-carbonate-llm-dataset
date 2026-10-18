@@ -147,9 +147,13 @@ Fraction of papers that report each field for at least one of their materials:
 | Relative density | 11 % |
 | Durability | 11 % |
 
-The 22 %-of-papers gap on **method, atmosphere, and conductivity type** is exactly the
-point the review makes: nearly one in five papers publishes a conductivity number
-without saying how, where or of what.
+The two papers that do not report measurement method, atmosphere or conductivity type
+are the two that report no conductivity at all (fuel-cell performance only). For every
+conductivity value in the dataset, the extraction recorded the method, atmosphere and
+conductivity type. Manual verification (`src/evaluate.py`) showed that some of this
+context was inferred by the model rather than stated in the paper, so these completeness
+figures are upper bounds. The largest gaps are activation energy (33 % of papers),
+relative density (11 %) and durability (11 %).
 
 ### Grouped-CV baseline
 
@@ -164,10 +168,10 @@ test):
 | RMSE (log₁₀ σ) | 0.49 |
 | R² | –0.23 |
 
-**Negative R² is the intended finding**, not a bug: with 15 records from 7 papers and
-40 % of the critical measurement metadata missing, a paper-disjoint model cannot beat
-predicting the training mean. This validates the review's claim that a metadata-complete
-dataset is a prerequisite for meaningful ML, not the model architecture.
+**Negative R² is expected**, not a bug: with only 15 records from 7 papers and
+paper-disjoint folds, the model cannot beat predicting the training mean. The baseline
+demonstrates the grouped-validation workflow and is not a performance claim; a useful
+model needs many more papers that report complete metadata.
 
 ## Scope and caveats
 
